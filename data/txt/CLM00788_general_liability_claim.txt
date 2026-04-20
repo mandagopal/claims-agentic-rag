@@ -1,0 +1,103 @@
+================================================================================
+         PREMIER COMMERCIAL INSURANCE CORP.
+         GENERAL LIABILITY CLAIM NOTICE
+         CLAIM #: CLM-00788  |  POLICY #: POL-GL-902341
+================================================================================
+
+DATE OF NOTICE      : 05/22/2023
+RECEIVED VIA        : Certified Mail + Email
+
+INSURED INFORMATION
+--------------------
+Business Name       : Greenfield Property Management LLC
+Insured Contact     : Derek P. Greenfield (Owner/Principal)
+Business Address    : 800 Commerce Pkwy, Suite 310, Denver, CO 80201
+Phone               : (303) 441-8802
+Email               : derek@greenfieldpm.com
+FEIN                : 84-3219988
+
+CLAIMANT (THIRD PARTY) INFORMATION
+------------------------------------
+Claimant Name       : Linda M. Watkins
+Claimant Address    : 1420 Elm Street, Apt 4B, Denver, CO 80220
+Claimant Phone      : (720) 335-6614
+Claimant Attorney   : Ronald K. Shuster, Esq.
+Attorney Firm       : Shuster & Morales, LLP
+Attorney Address    : 1600 Glenarm Place, Denver CO 80202
+Attorney Phone      : (303) 892-4400
+
+INCIDENT DESCRIPTION
+---------------------
+Date of Incident    : 04/28/2023
+Time of Incident    : Approximately 7:45 PM
+Location            : 1420 Elm Street (Greenfield-managed property), parking lot,
+                      near building entrance stairwell
+
+Description of Incident (from claimant attorney's letter):
+"Our client, Linda M. Watkins, a tenant residing at the above-referenced property,
+suffered serious personal injuries on April 28, 2023, when she fell on a broken
+concrete step at the main entrance stairwell of the property. Ms. Watkins alleges
+that the broken/crumbling condition of the third step had been present for at least
+six (6) weeks prior to the incident and had been reported to building management on
+or about March 14, 2023 via written maintenance request (Ref: MR-2023-0088). No
+repairs were made prior to the incident. As a proximate result of the fall, our
+client sustained: (1) displaced fracture of the right distal radius; (2) contusion
+and lacerations to right knee; (3) mild concussion. She underwent surgical fixation
+of the right wrist on April 30, 2023 at Denver Health Medical Center."
+
+ALLEGED DAMAGES
+---------------
+Description                                Claimed Amount
+---------------------------------------------------------
+Emergency room treatment (04/28/2023)      $  4,800.00
+Orthopedic surgery (04/30/2023)            $ 28,500.00
+Post-surgical physical therapy (16 sess.)  $  4,800.00
+Lost wages (8 weeks at $1,100/wk)          $  8,800.00
+Pain and suffering                         $ 75,000.00
+Loss of consortium                         $ 15,000.00
+Future medical (anticipated)               $ 10,000.00
+---------------------------------------------------------
+TOTAL CLAIMED                              $146,900.00
+
+POLICY COVERAGE INFORMATION
+-----------------------------
+Policy Type         : Commercial General Liability - Occurrence Form
+Each Occurrence Limit: $1,000,000
+General Aggregate   : $2,000,000
+Premises/Operations : COVERED
+Deductible          : $2,500 (self-insured retention per occurrence)
+
+INSURED'S PRELIMINARY RESPONSE (provided by Derek Greenfield)
+--------------------------------------------------------------
+"We did receive a maintenance request in March regarding a crack in the step. It was
+logged and placed in the work order queue. Unfortunately the contracted maintenance
+vendor (FastFix LLC) had a backlog and the repair had not been scheduled by the time
+of the incident. We do not have a written response to Ms. Watkins' maintenance
+request, which is an acknowledged gap in our process. We take this matter seriously
+and have since repaired all affected steps and updated our maintenance response SLA."
+
+INVESTIGATION ACTIONS INITIATED
+---------------------------------
+[X] Claim acknowledged - letter sent to claimant attorney 05/22/2023
+[X] Property inspection scheduled - 05/25/2023
+[X] Maintenance records subpoenaed from insured
+[X] FastFix LLC contract and work order log requested
+[X] Surveillance video requested (lobby camera - 30-day retention CHECK)
+[ ] Recorded statement from insured - scheduled 05/30/2023
+[ ] Independent medical examination (IME) - to be ordered pending medical records
+[ ] Claimant deposition - to be coordinated with defense counsel
+
+DEFENSE COUNSEL ASSIGNED
+--------------------------
+Firm                : Halverson & Kim LLP, Denver CO
+Attorney            : Barbara Kim, Esq.
+Phone               : (303) 789-0010
+
+RESERVE AMOUNT SET  : $95,000.00  (subject to revision post-investigation)
+CLAIM STATUS        : UNDER INVESTIGATION / LITIGATION HOLD
+
+================================================================================
+Assigned Liability Adjuster: Jonathan D. Park
+License # CO-ADJ-77201     | Phone: (800) 555-0300 ext. 5512
+Assignment Date: 05/22/2023
+================================================================================

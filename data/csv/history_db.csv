@@ -1,0 +1,1001 @@
+event_id,claim_id,policy_no,event_date,event_type,event_channel,handler_name,amount,outcome,sla_met,response_time_hrs,notes,system_source,created_at
+EVT-000001,CLM-00205,POL-272634,2022-03-23,Status Update,Web Portal,Amanda Miller,,Pending,True,47.3,Claim status updated to Denied. Adjuster notes recorded.,PhoneSystem,2022-03-23
+EVT-000002,CLM-00076,POL-890170,2021-09-30,Settlement Accepted,Phone,Jason Williams,,No Action Needed,True,9.0,Claimant accepted settlement offer. Release form sent for signature.,Portal,2021-09-30
+EVT-000003,CLM-00490,POL-765095,2020-01-30,Document Submitted,Phone,Patricia Garcia,,Escalated,True,45.3,Document type: Police report received via Phone.,MobileApp,2020-01-30
+EVT-000004,CLM-00407,POL-624902,2022-08-02,Payment Issued,Phone,Patricia Garcia,9981.68,Escalated,False,27.6,"Payment of $9,981.68 issued to claimant. Check #222922.",EmailGateway,2022-08-02
+EVT-000005,CLM-00132,POL-398830,2024-08-23,Claim Closed,Phone,Sandra Anderson,,Follow-up Required,True,68.7,Claim closed. Final disposition: Denied.,PhoneSystem,2024-08-23
+EVT-000006,CLM-00015,POL-262998,2024-04-11,Appeal Filed,Phone,Joseph Johnson,,Escalated,True,43.1,Claimant filed formal appeal against coverage decision. Appeal team assigned.,PhoneSystem,2024-04-11
+EVT-000007,CLM-00264,POL-245051,2022-07-14,Inspection Completed,Email,Margaret Rivera,,Follow-up Required,True,66.4,On-site inspection completed. Findings: Damage consistent with claim.,Portal,2022-07-14
+EVT-000008,CLM-00379,POL-346629,2021-04-27,Payment Issued,Fax,Kimberly Martinez,12265.89,Completed,True,32.6,"Payment of $12,265.89 issued to claimant. Check #388692.",PhoneSystem,2021-04-27
+EVT-000009,CLM-00396,POL-158655,2022-01-22,Settlement Accepted,Email,James Carter,,Follow-up Required,False,6.8,Claimant accepted settlement offer. Release form sent for signature.,Portal,2022-01-22
+EVT-000010,CLM-00914,POL-520521,2023-10-24,Inspection Completed,In-Person,Patricia Garcia,,Completed,True,34.9,On-site inspection completed. Findings: Damage consistent with claim.,Portal,2023-10-24
+EVT-000011,CLM-00580,POL-883300,2021-05-27,Settlement Accepted,Web Portal,Christopher Hall,,Pending,True,65.8,Claimant accepted settlement offer. Release form sent for signature.,Portal,2021-05-27
+EVT-000012,CLM-00775,POL-249811,2023-05-17,Appeal Filed,Fax,Sandra Carter,,Follow-up Required,False,24.4,Claimant filed formal appeal against coverage decision. Appeal team assigned.,EmailGateway,2023-05-17
+EVT-000013,CLM-00024,POL-551989,2020-08-29,Status Update,Email,Susan Harris,,Pending,True,12.0,Claim status updated to Under Review. Adjuster notes recorded.,EmailGateway,2020-08-29
+EVT-000014,CLM-00175,POL-804318,2022-11-14,Document Submitted,In-Person,Kimberly Phillips,,Completed,True,4.3,Document type: Medical records received via In-Person.,MobileApp,2022-11-14
+EVT-000015,CLM-00674,POL-208618,2022-08-09,Inspection Scheduled,Web Portal,Donald Rodriguez,,Pending,True,24.6,Field inspection scheduled for 2022-08-12. Inspector: Kimberly Phillips.,MobileApp,2022-08-09
+EVT-000016,CLM-01000,POL-704201,2020-11-20,Claim Closed,In-Person,Sharon Anderson,,Completed,False,39.6,Claim closed. Final disposition: Partially paid.,PhoneSystem,2020-11-20
+EVT-000017,CLM-00221,POL-559381,2024-03-31,Claim Closed,Email,Kimberly Phillips,,Pending,False,14.5,Claim closed. Final disposition: Paid in full.,Portal,2024-03-31
+EVT-000018,CLM-00236,POL-712554,2023-06-24,Status Update,In-Person,Patricia Scott,,Escalated,True,58.0,Claim status updated to Pending Documentation. Adjuster notes recorded.,EmailGateway,2023-06-24
+EVT-000019,CLM-00734,POL-684004,2023-10-24,New Claim,Email,Kimberly Phillips,,Escalated,True,34.4,Claim received and assigned claim number. Initial triage completed.,MobileApp,2023-10-24
+EVT-000020,CLM-00899,POL-692683,2021-09-28,Settlement Accepted,Phone,Margaret Rivera,,Follow-up Required,True,33.4,Claimant accepted settlement offer. Release form sent for signature.,CMS,2021-09-28
+EVT-000021,CLM-00580,POL-883300,2024-02-10,Inspection Completed,In-Person,Jessica Baker,,Pending,False,21.8,On-site inspection completed. Findings: Further review required.,EmailGateway,2024-02-10
+EVT-000022,CLM-00483,POL-642717,2020-11-25,Claim Closed,Phone,Jessica Baker,,Escalated,False,56.2,Claim closed. Final disposition: Paid in full.,CMS,2020-11-25
+EVT-000023,CLM-00570,POL-100599,2020-12-28,Payment Issued,Phone,Sandra Carter,34208.02,Pending,True,49.7,"Payment of $34,208.02 issued to claimant. Check #594698.",Portal,2020-12-28
+EVT-000024,CLM-00976,POL-570405,2022-06-24,Status Update,Fax,Susan Harris,,Completed,True,66.7,Claim status updated to In Litigation. Adjuster notes recorded.,MobileApp,2022-06-24
+EVT-000025,CLM-00579,POL-216970,2022-02-02,Status Update,Email,Christopher Hall,,Escalated,False,54.2,Claim status updated to Under Review. Adjuster notes recorded.,Portal,2022-02-02
+EVT-000026,CLM-00401,POL-417212,2021-12-01,Status Update,In-Person,Kimberly Thomas,,Pending,True,62.2,Claim status updated to Approved. Adjuster notes recorded.,CMS,2021-12-01
+EVT-000027,CLM-00672,POL-897549,2023-11-10,Document Submitted,Web Portal,Joseph Johnson,,Pending,True,37.3,Document type: Photos received via Web Portal.,Portal,2023-11-10
+EVT-000028,CLM-00997,POL-240814,2024-04-27,Claim Closed,Fax,James Carter,,Pending,True,27.3,Claim closed. Final disposition: Duplicate claim.,PhoneSystem,2024-04-27
+EVT-000029,CLM-00033,POL-217301,2022-01-19,Inspection Completed,In-Person,Donald Rodriguez,,Follow-up Required,True,55.9,On-site inspection completed. Findings: Pre-existing damage noted.,PhoneSystem,2022-01-19
+EVT-000030,CLM-00161,POL-262998,2024-10-04,Document Submitted,In-Person,Cynthia Nguyen,,Follow-up Required,True,25.9,Document type: Signed statement received via In-Person.,PhoneSystem,2024-10-04
+EVT-000031,CLM-00936,POL-903035,2021-10-05,Inspection Scheduled,Email,Christopher Hall,,Pending,True,13.8,Field inspection scheduled for 2021-10-08. Inspector: Sharon Anderson.,MobileApp,2021-10-05
+EVT-000032,CLM-00673,POL-176066,2023-11-11,Claim Closed,Mobile App,Joseph Johnson,,No Action Needed,True,10.9,Claim closed. Final disposition: Withdrawn by claimant.,CMS,2023-11-11
+EVT-000033,CLM-00004,POL-335612,2023-07-06,Status Update,Mobile App,James Carter,,Pending,True,43.1,Claim status updated to Under Review. Adjuster notes recorded.,PhoneSystem,2023-07-06
+EVT-000034,CLM-00665,POL-580547,2024-08-27,Status Update,Mobile App,Patricia Scott,,Follow-up Required,False,15.2,Claim status updated to Escalated. Adjuster notes recorded.,PhoneSystem,2024-08-27
+EVT-000035,CLM-00837,POL-677057,2022-10-03,New Claim,Email,James Carter,,Completed,True,28.1,Claim received and assigned claim number. Initial triage completed.,MobileApp,2022-10-03
+EVT-000036,CLM-00466,POL-392075,2024-08-22,Status Update,Fax,Sandra Anderson,,Completed,False,24.2,Claim status updated to Closed. Adjuster notes recorded.,PhoneSystem,2024-08-22
+EVT-000037,CLM-00187,POL-922733,2021-01-16,Settlement Accepted,In-Person,Christopher Hall,,Escalated,False,4.6,Claimant accepted settlement offer. Release form sent for signature.,Portal,2021-01-16
+EVT-000038,CLM-00899,POL-692683,2021-08-25,Status Update,Phone,Christopher Hall,,Completed,True,27.2,Claim status updated to Settled. Adjuster notes recorded.,EmailGateway,2021-08-25
+EVT-000039,CLM-00089,POL-790993,2023-04-21,Claim Closed,Web Portal,Susan Harris,,No Action Needed,True,31.0,Claim closed. Final disposition: Paid in full.,PhoneSystem,2023-04-21
+EVT-000040,CLM-00052,POL-921414,2024-06-30,Settlement Offered,Fax,James Carter,,Completed,True,23.7,,PhoneSystem,2024-06-30
+EVT-000041,CLM-00641,POL-245051,2021-11-15,Document Submitted,Web Portal,Kimberly Thomas,,Completed,True,40.0,Document type: Proof of ownership received via Web Portal.,CMS,2021-11-15
+EVT-000042,CLM-00235,POL-852787,2020-03-02,Settlement Accepted,Fax,James Carter,,Follow-up Required,True,45.9,Claimant accepted settlement offer. Release form sent for signature.,CMS,2020-03-02
+EVT-000043,CLM-00361,POL-260263,2024-07-04,Document Submitted,Email,James Carter,,Completed,False,56.6,Document type: Repair estimate received via Email.,Portal,2024-07-04
+EVT-000044,CLM-00500,POL-595631,2024-10-22,Appeal Filed,Mobile App,Joseph Johnson,,No Action Needed,True,67.0,Claimant filed formal appeal against coverage decision. Appeal team assigned.,CMS,2024-10-22
+EVT-000045,CLM-00729,POL-361941,2022-05-09,Inspection Scheduled,Phone,Sandra Carter,,Escalated,True,59.7,Field inspection scheduled for 2022-05-13. Inspector: Sandra Carter.,CMS,2022-05-09
+EVT-000046,CLM-00676,POL-376807,2021-08-24,Inspection Scheduled,Phone,Amanda Miller,,Pending,True,16.6,Field inspection scheduled for 2021-08-27. Inspector: Patricia Scott.,EmailGateway,2021-08-24
+EVT-000047,CLM-00195,POL-688153,2024-02-21,Document Submitted,Web Portal,Margaret Rivera,,Completed,True,18.2,Document type: Medical records received via Web Portal.,PhoneSystem,2024-02-21
+EVT-000048,CLM-00081,POL-814825,2021-08-24,Settlement Accepted,Phone,Kimberly Phillips,,Escalated,True,23.9,Claimant accepted settlement offer. Release form sent for signature.,Portal,2021-08-24
+EVT-000049,CLM-00484,POL-446479,2021-05-06,Settlement Accepted,Email,Joseph Johnson,,No Action Needed,True,23.7,Claimant accepted settlement offer. Release form sent for signature.,EmailGateway,2021-05-06
+EVT-000050,CLM-00523,POL-903035,2023-07-12,Inspection Scheduled,Mobile App,Jason Perez,,Follow-up Required,False,24.1,Field inspection scheduled for 2023-07-18. Inspector: Donald Rodriguez.,CMS,2023-07-12
+EVT-000051,CLM-00185,POL-260265,2023-07-18,Payment Issued,In-Person,Patricia Garcia,37382.72,Completed,False,47.1,"Payment of $37,382.72 issued to claimant. Check #943257.",MobileApp,2023-07-18
+EVT-000052,CLM-00317,POL-214576,2021-11-04,Settlement Offered,In-Person,Kimberly Thomas,,No Action Needed,False,8.7,,PhoneSystem,2021-11-04
+EVT-000053,CLM-00672,POL-897549,2022-03-01,Inspection Completed,Fax,Joseph Johnson,,Completed,True,36.8,On-site inspection completed. Findings: Further review required.,EmailGateway,2022-03-01
+EVT-000054,CLM-00419,POL-559469,2024-09-06,Claim Closed,Phone,Jessica Baker,,Pending,False,38.3,Claim closed. Final disposition: Duplicate claim.,CMS,2024-09-06
+EVT-000055,CLM-00114,POL-518373,2020-03-31,Inspection Scheduled,Mobile App,Patricia Scott,,Escalated,True,55.9,Field inspection scheduled for 2020-04-13. Inspector: Patricia Scott.,Portal,2020-03-31
+EVT-000056,CLM-00358,POL-335612,2022-04-11,Settlement Offered,Email,Donald Rodriguez,,Completed,True,41.1,,PhoneSystem,2022-04-11
+EVT-000057,CLM-00744,POL-769987,2023-11-06,Document Submitted,Mobile App,Sharon Anderson,,Escalated,True,22.0,Document type: Proof of ownership received via Mobile App.,EmailGateway,2023-11-06
+EVT-000058,CLM-00177,POL-217308,2023-10-25,New Claim,Phone,James Carter,,Escalated,True,22.5,Claim received and assigned claim number. Initial triage completed.,EmailGateway,2023-10-25
+EVT-000059,CLM-00919,POL-850981,2022-06-30,Document Submitted,Email,Patricia Garcia,,Completed,True,40.8,Document type: Signed statement received via Email.,PhoneSystem,2022-06-30
+EVT-000060,CLM-00295,POL-426858,2023-01-03,Settlement Accepted,Phone,James Carter,,Completed,True,17.4,Claimant accepted settlement offer. Release form sent for signature.,EmailGateway,2023-01-03
+EVT-000061,CLM-00463,POL-234628,2021-05-20,Status Update,Phone,Sharon Anderson,,Follow-up Required,True,15.4,Claim status updated to Open. Adjuster notes recorded.,MobileApp,2021-05-20
+EVT-000062,CLM-00322,POL-174441,2020-08-22,Inspection Completed,Fax,Joseph Johnson,,No Action Needed,True,66.5,On-site inspection completed. Findings: Pre-existing damage noted.,EmailGateway,2020-08-22
+EVT-000063,CLM-00892,POL-632323,2024-10-07,Settlement Offered,Email,Donald Rodriguez,,Completed,True,7.4,,CMS,2024-10-07
+EVT-000064,CLM-00450,POL-604740,2022-02-12,New Claim,Web Portal,Patricia Scott,,Pending,True,16.5,Claim received and assigned claim number. Initial triage completed.,EmailGateway,2022-02-12
+EVT-000065,CLM-00931,POL-847581,2022-08-17,Appeal Filed,In-Person,Patricia Scott,,Follow-up Required,False,27.8,Claimant filed formal appeal against coverage decision. Appeal team assigned.,EmailGateway,2022-08-17
+EVT-000066,CLM-00804,POL-604740,2020-01-16,Document Submitted,In-Person,Joseph Johnson,,Escalated,False,8.8,Document type: Police report received via In-Person.,Portal,2020-01-16
+EVT-000067,CLM-00119,POL-377932,2022-04-05,Appeal Filed,Email,Jason Perez,,Pending,True,12.6,Claimant filed formal appeal against coverage decision. Appeal team assigned.,MobileApp,2022-04-05
+EVT-000068,CLM-00891,POL-220116,2020-04-30,Inspection Scheduled,Email,Joseph Johnson,,No Action Needed,True,67.5,Field inspection scheduled for 2020-05-08. Inspector: Margaret Rivera.,MobileApp,2020-04-30
+EVT-000069,CLM-00624,POL-632342,2024-05-23,Payment Issued,Email,Patricia Scott,3562.29,Escalated,True,7.3,"Payment of $3,562.29 issued to claimant. Check #967995.",MobileApp,2024-05-23
+EVT-000070,CLM-00334,POL-680828,2021-03-06,Inspection Scheduled,Fax,Joseph Johnson,,Escalated,True,30.2,Field inspection scheduled for 2021-03-14. Inspector: James Carter.,PhoneSystem,2021-03-06
+EVT-000071,CLM-00026,POL-413921,2024-10-20,Inspection Scheduled,Fax,Kimberly Phillips,,Escalated,True,35.3,Field inspection scheduled for 2024-10-29. Inspector: Patricia Garcia.,CMS,2024-10-20
+EVT-000072,CLM-00064,POL-440035,2021-03-28,Payment Issued,Mobile App,Kimberly Thomas,29330.4,No Action Needed,False,2.0,"Payment of $29,330.40 issued to claimant. Check #562084.",MobileApp,2021-03-28
+EVT-000073,CLM-00027,POL-237235,2023-11-21,Settlement Accepted,Web Portal,Jessica Baker,,No Action Needed,True,36.3,Claimant accepted settlement offer. Release form sent for signature.,MobileApp,2023-11-21
+EVT-000074,CLM-00515,POL-681542,2020-01-24,Settlement Offered,Email,Joseph Johnson,,Follow-up Required,False,62.8,,Portal,2020-01-24
+EVT-000075,CLM-00156,POL-226882,2022-02-15,Claim Closed,Mobile App,Kimberly Martinez,,No Action Needed,True,6.9,Claim closed. Final disposition: Denied.,PhoneSystem,2022-02-15
+EVT-000076,CLM-00732,POL-881177,2020-03-14,New Claim,In-Person,Donald Rodriguez,,Escalated,False,25.5,Claim received and assigned claim number. Initial triage completed.,EmailGateway,2020-03-14
+EVT-000077,CLM-00919,POL-850981,2022-10-13,Claim Closed,Email,Susan Nguyen,,No Action Needed,True,35.0,Claim closed. Final disposition: Denied.,MobileApp,2022-10-13
+EVT-000078,CLM-00430,POL-955662,2022-08-21,New Claim,Fax,Joseph Johnson,,Completed,False,18.8,Claim received and assigned claim number. Initial triage completed.,PhoneSystem,2022-08-21
+EVT-000079,CLM-00964,POL-340174,2021-06-15,Settlement Offered,Phone,Amanda Miller,,No Action Needed,True,18.6,,CMS,2021-06-15
+EVT-000080,CLM-00234,POL-630458,2020-02-07,New Claim,Web Portal,Jessica Baker,,Escalated,True,68.6,Claim received and assigned claim number. Initial triage completed.,MobileApp,2020-02-07
+EVT-000081,CLM-00884,POL-804314,2023-10-16,Payment Issued,Phone,Joseph Johnson,17212.78,Escalated,False,27.5,"Payment of $17,212.78 issued to claimant. Check #623904.",CMS,2023-10-16
+EVT-000082,CLM-00860,POL-158655,2020-05-10,New Claim,Mobile App,Donald Rodriguez,,Follow-up Required,True,51.7,Claim received and assigned claim number. Initial triage completed.,MobileApp,2020-05-10
+EVT-000083,CLM-00713,POL-392075,2023-01-14,Appeal Filed,Web Portal,Joseph Johnson,,Completed,True,40.6,Claimant filed formal appeal against coverage decision. Appeal team assigned.,MobileApp,2023-01-14
+EVT-000084,CLM-00372,POL-237174,2024-11-26,New Claim,Email,Jason Williams,,Escalated,True,20.9,Claim received and assigned claim number. Initial triage completed.,EmailGateway,2024-11-26
+EVT-000085,CLM-00897,POL-863587,2020-07-18,Settlement Accepted,In-Person,Donald Rodriguez,,Pending,True,57.3,Claimant accepted settlement offer. Release form sent for signature.,MobileApp,2020-07-18
+EVT-000086,CLM-00246,POL-156802,2024-06-06,Payment Issued,In-Person,Kimberly Martinez,22760.41,Follow-up Required,False,43.5,"Payment of $22,760.41 issued to claimant. Check #816042.",PhoneSystem,2024-06-06
+EVT-000087,CLM-00970,POL-697347,2022-08-02,Payment Issued,Mobile App,Sandra Carter,37143.75,Follow-up Required,True,27.0,"Payment of $37,143.75 issued to claimant. Check #556827.",CMS,2022-08-02
+EVT-000088,CLM-00491,POL-551989,2020-09-15,Inspection Completed,In-Person,Patricia Scott,,Follow-up Required,True,50.1,On-site inspection completed. Findings: Damage less than reported.,Portal,2020-09-15
+EVT-000089,CLM-00243,POL-994141,2020-02-17,Claim Closed,In-Person,Cynthia Nguyen,,Escalated,True,69.0,Claim closed. Final disposition: Partially paid.,MobileApp,2020-02-17
+EVT-000090,CLM-00724,POL-340062,2021-06-07,Document Submitted,Email,Kimberly Phillips,,Pending,True,25.6,Document type: Repair estimate received via Email.,PhoneSystem,2021-06-07
+EVT-000091,CLM-00541,POL-994141,2024-05-04,Appeal Filed,Phone,Cynthia Nguyen,,No Action Needed,True,58.2,Claimant filed formal appeal against coverage decision. Appeal team assigned.,Portal,2024-05-04
+EVT-000092,CLM-00111,POL-617488,2020-06-08,Status Update,Fax,Susan Harris,,Completed,True,53.6,Claim status updated to Approved. Adjuster notes recorded.,CMS,2020-06-08
+EVT-000093,CLM-00968,POL-526833,2021-03-08,Inspection Completed,Fax,Jessica Baker,,Follow-up Required,True,68.0,On-site inspection completed. Findings: Damage consistent with claim.,MobileApp,2021-03-08
+EVT-000094,CLM-00222,POL-500156,2023-09-19,New Claim,In-Person,Kimberly Thomas,,Follow-up Required,True,14.0,Claim received and assigned claim number. Initial triage completed.,MobileApp,2023-09-19
+EVT-000095,CLM-00085,POL-201639,2023-07-14,Claim Closed,In-Person,Susan Nguyen,,Follow-up Required,False,47.5,Claim closed. Final disposition: Duplicate claim.,MobileApp,2023-07-14
+EVT-000096,CLM-00652,POL-431535,2020-08-30,Settlement Accepted,Phone,Jason Williams,,Follow-up Required,True,63.6,Claimant accepted settlement offer. Release form sent for signature.,PhoneSystem,2020-08-30
+EVT-000097,CLM-00518,POL-203198,2024-01-10,Settlement Accepted,Phone,James Carter,,Follow-up Required,True,33.2,Claimant accepted settlement offer. Release form sent for signature.,MobileApp,2024-01-10
+EVT-000098,CLM-00507,POL-526156,2023-03-11,New Claim,Email,Patricia Garcia,,Escalated,False,19.9,Claim received and assigned claim number. Initial triage completed.,PhoneSystem,2023-03-11
+EVT-000099,CLM-00029,POL-182582,2023-11-15,Claim Closed,Email,Cynthia Nguyen,,Escalated,True,57.4,Claim closed. Final disposition: Withdrawn by claimant.,Portal,2023-11-15
+EVT-000100,CLM-00949,POL-491559,2023-08-04,Inspection Scheduled,In-Person,Kimberly Phillips,,Follow-up Required,True,59.5,Field inspection scheduled for 2023-08-07. Inspector: Donald Rodriguez.,Portal,2023-08-04
+EVT-000101,CLM-00663,POL-891952,2023-10-10,Claim Closed,Phone,James Carter,,Follow-up Required,True,20.0,Claim closed. Final disposition: Withdrawn by claimant.,Portal,2023-10-10
+EVT-000102,CLM-00855,POL-580547,2021-07-09,Settlement Accepted,Web Portal,Amanda Miller,,Pending,True,65.4,Claimant accepted settlement offer. Release form sent for signature.,Portal,2021-07-09
+EVT-000103,CLM-00224,POL-865388,2021-06-17,Inspection Completed,Fax,Cynthia Nguyen,,Follow-up Required,False,29.7,On-site inspection completed. Findings: Damage consistent with claim.,CMS,2021-06-17
+EVT-000104,CLM-00976,POL-570405,2023-12-12,Inspection Scheduled,Web Portal,Kimberly Thomas,,Follow-up Required,True,34.1,Field inspection scheduled for 2023-12-20. Inspector: Kimberly Martinez.,CMS,2023-12-12
+EVT-000105,CLM-00495,POL-946721,2020-03-29,Appeal Filed,Phone,Sharon Anderson,,Follow-up Required,False,1.3,Claimant filed formal appeal against coverage decision. Appeal team assigned.,PhoneSystem,2020-03-29
+EVT-000106,CLM-00534,POL-156802,2021-11-16,Inspection Completed,Email,Margaret Rivera,,Escalated,True,31.6,On-site inspection completed. Findings: Damage consistent with claim.,PhoneSystem,2021-11-16
+EVT-000107,CLM-00547,POL-358607,2022-11-18,Inspection Scheduled,In-Person,Margaret Rivera,,Escalated,False,54.0,Field inspection scheduled for 2022-11-22. Inspector: Sandra Carter.,EmailGateway,2022-11-18
+EVT-000108,CLM-00413,POL-559381,2022-12-07,Document Submitted,Mobile App,Kimberly Martinez,,Follow-up Required,False,67.9,Document type: Proof of ownership received via Mobile App.,Portal,2022-12-07
+EVT-000109,CLM-00664,POL-542666,2024-05-29,New Claim,Email,Patricia Scott,,No Action Needed,False,58.4,Claim received and assigned claim number. Initial triage completed.,PhoneSystem,2024-05-29
+EVT-000110,CLM-00221,POL-559381,2021-02-03,Inspection Scheduled,Phone,Sharon Anderson,,Escalated,True,8.4,Field inspection scheduled for 2021-02-16. Inspector: Christopher Hall.,Portal,2021-02-03
+EVT-000111,CLM-00212,POL-260263,2021-02-02,Inspection Scheduled,Email,Susan Harris,,No Action Needed,True,7.4,Field inspection scheduled for 2021-02-12. Inspector: Susan Nguyen.,MobileApp,2021-02-02
+EVT-000112,CLM-00365,POL-684004,2021-04-25,Inspection Scheduled,Phone,Kimberly Martinez,,Escalated,True,27.7,Field inspection scheduled for 2021-04-29. Inspector: Kimberly Thomas.,Portal,2021-04-25
+EVT-000113,CLM-00214,POL-390120,2020-06-20,New Claim,Mobile App,Kimberly Martinez,,Follow-up Required,True,30.4,Claim received and assigned claim number. Initial triage completed.,CMS,2020-06-20
+EVT-000114,CLM-00381,POL-863587,2024-09-14,Inspection Scheduled,Email,James Carter,,No Action Needed,True,34.1,Field inspection scheduled for 2024-09-28. Inspector: Donald Rodriguez.,EmailGateway,2024-09-14
+EVT-000115,CLM-00233,POL-564656,2024-03-01,Inspection Scheduled,Phone,Amanda Miller,,No Action Needed,False,52.2,Field inspection scheduled for 2024-03-12. Inspector: Sandra Carter.,CMS,2024-03-01
+EVT-000116,CLM-00563,POL-153045,2020-06-01,Settlement Accepted,Fax,Jessica Baker,,Follow-up Required,True,38.1,Claimant accepted settlement offer. Release form sent for signature.,MobileApp,2020-06-01
+EVT-000117,CLM-00574,POL-354801,2024-04-14,Document Submitted,Mobile App,Patricia Scott,,No Action Needed,True,27.0,Document type: Tax return received via Mobile App.,CMS,2024-04-14
+EVT-000118,CLM-00545,POL-299122,2024-06-22,Settlement Accepted,Mobile App,Sandra Anderson,,No Action Needed,True,24.3,Claimant accepted settlement offer. Release form sent for signature.,CMS,2024-06-22
+EVT-000119,CLM-00319,POL-837715,2024-09-04,Settlement Offered,Email,Jessica Baker,,Follow-up Required,True,32.1,,Portal,2024-09-04
+EVT-000120,CLM-00254,POL-663750,2021-01-24,Appeal Filed,Mobile App,Cynthia Nguyen,,Escalated,True,59.9,Claimant filed formal appeal against coverage decision. Appeal team assigned.,EmailGateway,2021-01-24
+EVT-000121,CLM-00252,POL-609597,2023-04-21,Claim Closed,Mobile App,Patricia Scott,,Escalated,False,6.5,Claim closed. Final disposition: Paid in full.,EmailGateway,2023-04-21
+EVT-000122,CLM-00277,POL-800305,2021-02-02,Document Submitted,Email,Kimberly Martinez,,No Action Needed,False,23.4,Document type: Signed statement received via Email.,PhoneSystem,2021-02-02
+EVT-000123,CLM-00966,POL-922157,2021-06-16,Settlement Accepted,Web Portal,Joseph Johnson,,Follow-up Required,False,42.7,Claimant accepted settlement offer. Release form sent for signature.,MobileApp,2021-06-16
+EVT-000124,CLM-00531,POL-159642,2021-11-14,Settlement Offered,Mobile App,Kimberly Phillips,,No Action Needed,True,59.3,,MobileApp,2021-11-14
+EVT-000125,CLM-00759,POL-428838,2021-01-18,Settlement Offered,In-Person,Kimberly Martinez,,Follow-up Required,True,51.6,,MobileApp,2021-01-18
+EVT-000126,CLM-00499,POL-653306,2024-02-16,Settlement Accepted,In-Person,Sandra Anderson,,Pending,True,63.4,Claimant accepted settlement offer. Release form sent for signature.,CMS,2024-02-16
+EVT-000127,CLM-00927,POL-246413,2024-03-30,Payment Issued,Mobile App,Sharon Anderson,43972.02,Pending,False,19.1,"Payment of $43,972.02 issued to claimant. Check #631733.",EmailGateway,2024-03-30
+EVT-000128,CLM-00494,POL-459536,2021-08-08,Inspection Scheduled,Web Portal,Joseph Johnson,,Escalated,True,46.9,Field inspection scheduled for 2021-08-14. Inspector: Jason Williams.,EmailGateway,2021-08-08
+EVT-000129,CLM-00755,POL-595948,2022-12-05,Settlement Accepted,Fax,Sharon Anderson,,Escalated,False,21.0,Claimant accepted settlement offer. Release form sent for signature.,CMS,2022-12-05
+EVT-000130,CLM-00030,POL-624902,2020-09-18,Settlement Accepted,In-Person,Margaret Rivera,,Pending,True,14.3,Claimant accepted settlement offer. Release form sent for signature.,MobileApp,2020-09-18
+EVT-000131,CLM-00676,POL-376807,2022-11-18,New Claim,Phone,Jason Williams,,Follow-up Required,True,59.6,Claim received and assigned claim number. Initial triage completed.,MobileApp,2022-11-18
+EVT-000132,CLM-00413,POL-559381,2023-05-27,Appeal Filed,Web Portal,Sharon Anderson,,Completed,True,67.4,Claimant filed formal appeal against coverage decision. Appeal team assigned.,CMS,2023-05-27
+EVT-000133,CLM-00497,POL-765095,2020-10-07,Status Update,Web Portal,Joseph Johnson,,Pending,True,11.2,Claim status updated to Awaiting Inspection. Adjuster notes recorded.,EmailGateway,2020-10-07
+EVT-000134,CLM-00668,POL-723398,2020-03-13,Payment Issued,Email,Joseph Johnson,32062.37,Completed,False,38.9,"Payment of $32,062.37 issued to claimant. Check #919689.",CMS,2020-03-13
+EVT-000135,CLM-00631,POL-197793,2023-11-08,Appeal Filed,Web Portal,Cynthia Nguyen,,Completed,False,45.4,Claimant filed formal appeal against coverage decision. Appeal team assigned.,Portal,2023-11-08
+EVT-000136,CLM-00180,POL-858490,2024-05-16,New Claim,Phone,Amanda Miller,,Completed,True,3.3,Claim received and assigned claim number. Initial triage completed.,EmailGateway,2024-05-16
+EVT-000137,CLM-00864,POL-969634,2020-07-25,New Claim,In-Person,Jessica Baker,,Follow-up Required,True,29.6,Claim received and assigned claim number. Initial triage completed.,CMS,2020-07-25
+EVT-000138,CLM-00830,POL-354801,2024-03-22,Appeal Filed,Web Portal,Jason Williams,,Pending,True,8.6,Claimant filed formal appeal against coverage decision. Appeal team assigned.,Portal,2024-03-22
+EVT-000139,CLM-00763,POL-313487,2024-02-10,Claim Closed,Web Portal,Patricia Garcia,,Pending,True,16.0,Claim closed. Final disposition: Partially paid.,MobileApp,2024-02-10
+EVT-000140,CLM-00653,POL-375504,2023-10-28,Document Submitted,Fax,Jason Perez,,Pending,True,3.1,Document type: Repair estimate received via Fax.,Portal,2023-10-28
+EVT-000141,CLM-00103,POL-310922,2023-12-31,Inspection Scheduled,In-Person,Amanda Miller,,Escalated,True,49.3,Field inspection scheduled for 2024-01-04. Inspector: Kimberly Thomas.,CMS,2023-12-31
+EVT-000142,CLM-00001,POL-120422,2021-11-04,Claim Closed,Mobile App,Margaret Rivera,,Pending,True,60.6,Claim closed. Final disposition: Paid in full.,MobileApp,2021-11-04
+EVT-000143,CLM-00664,POL-542666,2021-09-15,Status Update,In-Person,James Carter,,Pending,True,48.0,Claim status updated to Awaiting Inspection. Adjuster notes recorded.,MobileApp,2021-09-15
+EVT-000144,CLM-00835,POL-211579,2023-09-04,Status Update,Phone,Kimberly Thomas,,Completed,True,8.3,Claim status updated to Settled. Adjuster notes recorded.,CMS,2023-09-04
+EVT-000145,CLM-00962,POL-891952,2021-09-09,Settlement Accepted,In-Person,Kimberly Phillips,,Pending,True,45.5,Claimant accepted settlement offer. Release form sent for signature.,MobileApp,2021-09-09
+EVT-000146,CLM-00561,POL-598369,2021-01-20,Document Submitted,Fax,Patricia Garcia,,Follow-up Required,False,9.9,Document type: Police report received via Fax.,Portal,2021-01-20
+EVT-000147,CLM-00053,POL-864491,2024-03-02,Inspection Completed,Mobile App,James Carter,,No Action Needed,True,64.4,On-site inspection completed. Findings: Further review required.,Portal,2024-03-02
+EVT-000148,CLM-00476,POL-790993,2024-08-01,Claim Closed,Web Portal,Cynthia Nguyen,,Follow-up Required,False,9.8,Claim closed. Final disposition: Paid in full.,Portal,2024-08-01
+EVT-000149,CLM-00255,POL-787277,2023-08-21,Document Submitted,Web Portal,Kimberly Phillips,,Follow-up Required,False,62.5,Document type: Photos received via Web Portal.,MobileApp,2023-08-21
+EVT-000150,CLM-00484,POL-446479,2023-02-02,Appeal Filed,Phone,Cynthia Nguyen,,Escalated,True,19.7,Claimant filed formal appeal against coverage decision. Appeal team assigned.,Portal,2023-02-02
+EVT-000151,CLM-00414,POL-801474,2024-03-16,Status Update,Mobile App,Jessica Baker,,Escalated,False,54.0,Claim status updated to Escalated. Adjuster notes recorded.,Portal,2024-03-16
+EVT-000152,CLM-00170,POL-378082,2021-12-02,Settlement Accepted,Web Portal,Margaret Rivera,,Escalated,True,51.0,Claimant accepted settlement offer. Release form sent for signature.,MobileApp,2021-12-02
+EVT-000153,CLM-00067,POL-163918,2021-08-02,Settlement Offered,Phone,Christopher Hall,,Completed,False,10.9,,CMS,2021-08-02
+EVT-000154,CLM-00175,POL-804318,2022-03-30,Claim Closed,In-Person,Sandra Anderson,,Pending,True,59.0,Claim closed. Final disposition: Denied.,CMS,2022-03-30
+EVT-000155,CLM-00627,POL-346629,2023-07-28,Document Submitted,Mobile App,Jessica Baker,,Completed,True,65.5,Document type: Photos received via Mobile App.,CMS,2023-07-28
+EVT-000156,CLM-00516,POL-487477,2021-11-29,Document Submitted,Phone,Joseph Johnson,,Pending,True,18.8,Document type: Photos received via Phone.,PhoneSystem,2021-11-29
+EVT-000157,CLM-00551,POL-648177,2024-07-12,Inspection Completed,Mobile App,Jason Perez,,Escalated,True,56.0,On-site inspection completed. Findings: Damage consistent with claim.,PhoneSystem,2024-07-12
+EVT-000158,CLM-00966,POL-922157,2020-03-12,Inspection Scheduled,Web Portal,Amanda Miller,,Escalated,True,23.4,Field inspection scheduled for 2020-03-26. Inspector: Amanda Miller.,PhoneSystem,2020-03-12
+EVT-000159,CLM-00964,POL-340174,2023-05-19,Status Update,Email,Margaret Rivera,,Follow-up Required,True,65.1,Claim status updated to In Litigation. Adjuster notes recorded.,Portal,2023-05-19
+EVT-000160,CLM-00189,POL-314181,2024-09-15,Settlement Accepted,Email,Christopher Hall,,Escalated,True,31.8,Claimant accepted settlement offer. Release form sent for signature.,MobileApp,2024-09-15
+EVT-000161,CLM-00846,POL-539589,2022-04-20,Payment Issued,Phone,Margaret Rivera,42615.19,No Action Needed,False,51.3,"Payment of $42,615.19 issued to claimant. Check #436353.",CMS,2022-04-20
+EVT-000162,CLM-00903,POL-340062,2022-06-08,Payment Issued,In-Person,Jason Williams,27673.98,Escalated,True,12.2,"Payment of $27,673.98 issued to claimant. Check #802888.",CMS,2022-06-08
+EVT-000163,CLM-00892,POL-632323,2022-10-29,Claim Closed,Fax,James Carter,,No Action Needed,True,59.8,Claim closed. Final disposition: Paid in full.,PhoneSystem,2022-10-29
+EVT-000164,CLM-00400,POL-413921,2021-04-01,Appeal Filed,Email,Sharon Anderson,,Follow-up Required,True,6.1,Claimant filed formal appeal against coverage decision. Appeal team assigned.,EmailGateway,2021-04-01
+EVT-000165,CLM-00842,POL-666847,2021-08-27,New Claim,Mobile App,Donald Rodriguez,,Escalated,False,70.3,Claim received and assigned claim number. Initial triage completed.,EmailGateway,2021-08-27
+EVT-000166,CLM-00216,POL-680099,2021-11-27,Claim Closed,Email,Cynthia Nguyen,,No Action Needed,False,19.2,Claim closed. Final disposition: Partially paid.,CMS,2021-11-27
+EVT-000167,CLM-00673,POL-176066,2022-03-15,Status Update,Mobile App,Kimberly Phillips,,Escalated,True,28.9,Claim status updated to Settled. Adjuster notes recorded.,Portal,2022-03-15
+EVT-000168,CLM-00393,POL-898975,2022-01-02,Inspection Completed,In-Person,James Carter,,Follow-up Required,False,33.4,On-site inspection completed. Findings: Damage consistent with claim.,EmailGateway,2022-01-02
+EVT-000169,CLM-00614,POL-161483,2021-04-06,Claim Closed,Email,Margaret Rivera,,Escalated,True,30.8,Claim closed. Final disposition: Partially paid.,Portal,2021-04-06
+EVT-000170,CLM-00516,POL-487477,2021-10-08,Status Update,Web Portal,Susan Harris,,Escalated,False,32.5,Claim status updated to Escalated. Adjuster notes recorded.,PhoneSystem,2021-10-08
+EVT-000171,CLM-00071,POL-238890,2022-10-20,Payment Issued,Email,James Carter,34988.85,No Action Needed,False,55.7,"Payment of $34,988.85 issued to claimant. Check #158510.",CMS,2022-10-20
+EVT-000172,CLM-00377,POL-623481,2021-03-15,Inspection Scheduled,Fax,James Carter,,Escalated,True,44.2,Field inspection scheduled for 2021-03-21. Inspector: Sharon Anderson.,MobileApp,2021-03-15
+EVT-000173,CLM-00643,POL-349565,2023-07-29,New Claim,Fax,Sandra Carter,,No Action Needed,False,0.9,Claim received and assigned claim number. Initial triage completed.,MobileApp,2023-07-29
+EVT-000174,CLM-00685,POL-518801,2022-01-29,Settlement Offered,Mobile App,Jason Williams,,Escalated,True,38.9,,EmailGateway,2022-01-29
+EVT-000175,CLM-00415,POL-133659,2020-12-31,Document Submitted,Mobile App,Sandra Anderson,,No Action Needed,False,54.0,Document type: Signed statement received via Mobile App.,PhoneSystem,2020-12-31
+EVT-000176,CLM-00446,POL-946305,2022-05-07,Settlement Offered,Email,Jason Perez,,No Action Needed,True,66.8,,Portal,2022-05-07
+EVT-000177,CLM-00424,POL-612340,2022-02-03,Settlement Offered,Mobile App,Jason Perez,,Completed,False,18.7,,Portal,2022-02-03
+EVT-000178,CLM-00162,POL-590785,2022-03-19,Status Update,Fax,Sharon Anderson,,No Action Needed,True,19.6,Claim status updated to Pending Documentation. Adjuster notes recorded.,PhoneSystem,2022-03-19
+EVT-000179,CLM-00609,POL-956795,2020-06-27,Settlement Offered,Mobile App,Margaret Rivera,,Follow-up Required,True,2.3,,MobileApp,2020-06-27
+EVT-000180,CLM-00927,POL-246413,2021-11-27,Settlement Offered,In-Person,Jason Perez,,Completed,True,45.7,,CMS,2021-11-27
+EVT-000181,CLM-00360,POL-292401,2022-03-17,Appeal Filed,Mobile App,Sharon Anderson,,Completed,True,39.3,Claimant filed formal appeal against coverage decision. Appeal team assigned.,EmailGateway,2022-03-17
+EVT-000182,CLM-00059,POL-294851,2022-03-24,Claim Closed,Mobile App,James Carter,,Follow-up Required,True,5.0,Claim closed. Final disposition: Denied.,Portal,2022-03-24
+EVT-000183,CLM-00014,POL-161324,2023-01-16,Claim Closed,Mobile App,Patricia Scott,,Completed,True,55.5,Claim closed. Final disposition: Paid in full.,CMS,2023-01-16
+EVT-000184,CLM-00955,POL-808011,2022-03-07,Status Update,Mobile App,Kimberly Phillips,,Pending,True,20.8,Claim status updated to Escalated. Adjuster notes recorded.,PhoneSystem,2022-03-07
+EVT-000185,CLM-00199,POL-479580,2023-03-20,Appeal Filed,Phone,Joseph Johnson,,Escalated,False,64.5,Claimant filed formal appeal against coverage decision. Appeal team assigned.,MobileApp,2023-03-20
+EVT-000186,CLM-00536,POL-544151,2023-12-23,Settlement Offered,Web Portal,Amanda Miller,,Pending,False,5.3,,Portal,2023-12-23
+EVT-000187,CLM-00552,POL-430776,2023-05-13,Claim Closed,Email,Patricia Scott,,Escalated,True,56.8,Claim closed. Final disposition: Denied.,MobileApp,2023-05-13
+EVT-000188,CLM-00928,POL-755674,2024-03-13,Claim Closed,Phone,Jessica Baker,,Follow-up Required,True,10.0,Claim closed. Final disposition: Paid in full.,CMS,2024-03-13
+EVT-000189,CLM-00785,POL-269430,2021-07-21,Inspection Completed,Fax,Kimberly Phillips,,No Action Needed,True,31.6,On-site inspection completed. Findings: Pre-existing damage noted.,CMS,2021-07-21
+EVT-000190,CLM-00368,POL-712554,2020-08-14,Document Submitted,In-Person,James Carter,,Pending,True,70.1,Document type: Photos received via In-Person.,Portal,2020-08-14
+EVT-000191,CLM-00202,POL-133659,2024-03-24,Payment Issued,In-Person,Christopher Hall,41735.57,Completed,True,57.2,"Payment of $41,735.57 issued to claimant. Check #759843.",PhoneSystem,2024-03-24
+EVT-000192,CLM-00693,POL-172132,2020-03-10,Payment Issued,Web Portal,Jason Williams,10252.5,Completed,True,19.2,"Payment of $10,252.50 issued to claimant. Check #739015.",Portal,2020-03-10
+EVT-000193,CLM-00246,POL-156802,2022-01-27,Settlement Offered,Phone,Susan Nguyen,,Completed,True,46.3,,EmailGateway,2022-01-27
+EVT-000194,CLM-00003,POL-608993,2022-02-17,Settlement Accepted,Email,Kimberly Thomas,,Pending,True,27.0,Claimant accepted settlement offer. Release form sent for signature.,PhoneSystem,2022-02-17
+EVT-000195,CLM-00818,POL-174441,2023-11-09,Inspection Completed,Email,Kimberly Thomas,,No Action Needed,True,1.6,On-site inspection completed. Findings: Damage less than reported.,MobileApp,2023-11-09
+EVT-000196,CLM-00395,POL-234628,2020-03-24,Settlement Accepted,In-Person,Amanda Miller,,Pending,True,26.5,Claimant accepted settlement offer. Release form sent for signature.,EmailGateway,2020-03-24
+EVT-000197,CLM-00943,POL-320861,2020-05-25,Appeal Filed,Fax,Kimberly Phillips,,Completed,False,49.0,Claimant filed formal appeal against coverage decision. Appeal team assigned.,CMS,2020-05-25
+EVT-000198,CLM-00018,POL-211579,2024-03-16,Status Update,Email,Sandra Anderson,,No Action Needed,False,11.9,Claim status updated to Pending Documentation. Adjuster notes recorded.,MobileApp,2024-03-16
+EVT-000199,CLM-00290,POL-795613,2022-06-22,Payment Issued,Phone,Patricia Scott,27147.22,Pending,True,29.1,"Payment of $27,147.22 issued to claimant. Check #144294.",MobileApp,2022-06-22
+EVT-000200,CLM-00737,POL-103402,2023-06-03,Inspection Completed,Fax,Sandra Carter,,Escalated,True,45.4,On-site inspection completed. Findings: Damage exceeds initial estimate.,EmailGateway,2023-06-03
+EVT-000201,CLM-00539,POL-755674,2024-01-13,Settlement Accepted,Fax,Sandra Anderson,,No Action Needed,False,39.9,Claimant accepted settlement offer. Release form sent for signature.,MobileApp,2024-01-13
+EVT-000202,CLM-00463,POL-234628,2021-04-23,Payment Issued,Fax,Susan Nguyen,34084.28,Follow-up Required,True,4.4,"Payment of $34,084.28 issued to claimant. Check #496916.",CMS,2021-04-23
+EVT-000203,CLM-00758,POL-692683,2022-09-26,Payment Issued,Mobile App,Sandra Anderson,780.28,Follow-up Required,True,1.7,Payment of $780.28 issued to claimant. Check #933633.,MobileApp,2022-09-26
+EVT-000204,CLM-00873,POL-322086,2020-12-08,Inspection Completed,Fax,Patricia Scott,,Pending,True,26.8,On-site inspection completed. Findings: Pre-existing damage noted.,MobileApp,2020-12-08
+EVT-000205,CLM-00553,POL-688153,2022-09-08,Inspection Scheduled,Email,Kimberly Thomas,,Escalated,True,49.6,Field inspection scheduled for 2022-09-20. Inspector: Patricia Scott.,EmailGateway,2022-09-08
+EVT-000206,CLM-00863,POL-413921,2024-06-28,Claim Closed,Fax,Joseph Johnson,,Completed,False,59.3,Claim closed. Final disposition: Partially paid.,MobileApp,2024-06-28
+EVT-000207,CLM-00030,POL-624902,2024-04-29,Settlement Offered,Web Portal,Kimberly Phillips,,No Action Needed,False,56.5,,CMS,2024-04-29
+EVT-000208,CLM-00883,POL-665579,2024-03-30,Inspection Scheduled,Email,James Carter,,Escalated,True,53.2,Field inspection scheduled for 2024-04-11. Inspector: Kimberly Martinez.,MobileApp,2024-03-30
+EVT-000209,CLM-00899,POL-692683,2023-07-11,Claim Closed,Web Portal,Patricia Garcia,,No Action Needed,True,18.5,Claim closed. Final disposition: Denied.,CMS,2023-07-11
+EVT-000210,CLM-00959,POL-839945,2023-11-11,Appeal Filed,Mobile App,Cynthia Nguyen,,Escalated,True,25.4,Claimant filed formal appeal against coverage decision. Appeal team assigned.,Portal,2023-11-11
+EVT-000211,CLM-00600,POL-728038,2020-12-17,Inspection Completed,In-Person,Joseph Johnson,,Follow-up Required,False,19.0,On-site inspection completed. Findings: Pre-existing damage noted.,MobileApp,2020-12-17
+EVT-000212,CLM-00178,POL-656116,2020-07-17,Settlement Accepted,In-Person,Jason Perez,,No Action Needed,False,58.2,Claimant accepted settlement offer. Release form sent for signature.,PhoneSystem,2020-07-17
+EVT-000213,CLM-00823,POL-359947,2022-02-17,Status Update,In-Person,Donald Rodriguez,,Escalated,True,47.8,Claim status updated to Denied. Adjuster notes recorded.,MobileApp,2022-02-17
+EVT-000214,CLM-00692,POL-171262,2022-07-15,Inspection Scheduled,Fax,Susan Nguyen,,No Action Needed,True,60.8,Field inspection scheduled for 2022-07-23. Inspector: Kimberly Phillips.,EmailGateway,2022-07-15
+EVT-000215,CLM-00224,POL-865388,2020-03-06,Document Submitted,Web Portal,Sharon Anderson,,No Action Needed,False,30.5,Document type: Signed statement received via Web Portal.,EmailGateway,2020-03-06
+EVT-000216,CLM-00924,POL-863587,2021-03-13,Appeal Filed,Phone,Sharon Anderson,,Follow-up Required,False,6.4,Claimant filed formal appeal against coverage decision. Appeal team assigned.,PhoneSystem,2021-03-13
+EVT-000217,CLM-00495,POL-946721,2023-06-05,Claim Closed,In-Person,Donald Rodriguez,,Follow-up Required,False,37.2,Claim closed. Final disposition: Denied.,Portal,2023-06-05
+EVT-000218,CLM-00493,POL-905635,2024-02-28,Appeal Filed,Email,Sandra Anderson,,No Action Needed,True,2.5,Claimant filed formal appeal against coverage decision. Appeal team assigned.,MobileApp,2024-02-28
+EVT-000219,CLM-00429,POL-804314,2020-01-24,Document Submitted,Email,Christopher Hall,,Pending,True,66.6,Document type: Tax return received via Email.,Portal,2020-01-24
+EVT-000220,CLM-00132,POL-398830,2021-07-12,Payment Issued,Fax,Susan Nguyen,45494.89,Escalated,False,66.2,"Payment of $45,494.89 issued to claimant. Check #666611.",MobileApp,2021-07-12
+EVT-000221,CLM-00860,POL-158655,2024-03-05,Settlement Offered,Phone,Christopher Hall,,No Action Needed,True,27.9,,CMS,2024-03-05
+EVT-000222,CLM-00705,POL-857168,2021-10-08,Claim Closed,Email,Kimberly Martinez,,No Action Needed,True,7.2,Claim closed. Final disposition: Withdrawn by claimant.,MobileApp,2021-10-08
+EVT-000223,CLM-00068,POL-669605,2023-03-05,Document Submitted,In-Person,Susan Nguyen,,No Action Needed,True,48.3,Document type: Tax return received via In-Person.,Portal,2023-03-05
+EVT-000224,CLM-00341,POL-238890,2023-09-17,Settlement Accepted,Fax,Cynthia Nguyen,,Escalated,True,61.4,Claimant accepted settlement offer. Release form sent for signature.,MobileApp,2023-09-17
+EVT-000225,CLM-00814,POL-757924,2021-10-07,Settlement Accepted,Web Portal,Patricia Scott,,Follow-up Required,True,36.5,Claimant accepted settlement offer. Release form sent for signature.,EmailGateway,2021-10-07
+EVT-000226,CLM-00949,POL-491559,2022-08-15,Inspection Completed,Mobile App,Sandra Carter,,Follow-up Required,True,22.8,On-site inspection completed. Findings: Damage less than reported.,PhoneSystem,2022-08-15
+EVT-000227,CLM-00661,POL-680099,2021-03-11,Claim Closed,Email,Patricia Garcia,,Pending,True,69.4,Claim closed. Final disposition: Withdrawn by claimant.,PhoneSystem,2021-03-11
+EVT-000228,CLM-00860,POL-158655,2020-04-16,Settlement Accepted,Phone,Amanda Miller,,Completed,True,2.2,Claimant accepted settlement offer. Release form sent for signature.,PhoneSystem,2020-04-16
+EVT-000229,CLM-00144,POL-439902,2024-06-18,Settlement Offered,Email,Donald Rodriguez,,Escalated,False,71.2,,MobileApp,2024-06-18
+EVT-000230,CLM-00439,POL-161483,2024-07-31,Inspection Scheduled,Fax,Donald Rodriguez,,Pending,True,57.0,Field inspection scheduled for 2024-08-11. Inspector: Jason Williams.,PhoneSystem,2024-07-31
+EVT-000231,CLM-00152,POL-624902,2023-10-14,Settlement Accepted,Mobile App,Jason Williams,,Escalated,False,71.8,Claimant accepted settlement offer. Release form sent for signature.,PhoneSystem,2023-10-14
+EVT-000232,CLM-00156,POL-226882,2020-05-14,Document Submitted,Email,Christopher Hall,,No Action Needed,True,60.4,Document type: Photos received via Email.,Portal,2020-05-14
+EVT-000233,CLM-00741,POL-783823,2020-03-18,Appeal Filed,Mobile App,Kimberly Thomas,,Pending,False,69.9,Claimant filed formal appeal against coverage decision. Appeal team assigned.,EmailGateway,2020-03-18
+EVT-000234,CLM-00049,POL-269396,2020-05-17,New Claim,In-Person,Kimberly Martinez,,Follow-up Required,True,70.8,Claim received and assigned claim number. Initial triage completed.,EmailGateway,2020-05-17
+EVT-000235,CLM-00569,POL-839945,2021-06-06,Payment Issued,Mobile App,Susan Harris,4695.8,Completed,True,51.8,"Payment of $4,695.80 issued to claimant. Check #778463.",EmailGateway,2021-06-06
+EVT-000236,CLM-00863,POL-413921,2024-08-07,Settlement Accepted,Phone,Cynthia Nguyen,,Follow-up Required,True,38.3,Claimant accepted settlement offer. Release form sent for signature.,EmailGateway,2024-08-07
+EVT-000237,CLM-00143,POL-160738,2021-04-28,Claim Closed,Email,Donald Rodriguez,,Follow-up Required,True,34.6,Claim closed. Final disposition: Withdrawn by claimant.,PhoneSystem,2021-04-28
+EVT-000238,CLM-00879,POL-890170,2022-04-03,Document Submitted,Phone,Amanda Miller,,Escalated,True,31.5,Document type: Medical records received via Phone.,PhoneSystem,2022-04-03
+EVT-000239,CLM-00918,POL-102260,2022-06-06,Settlement Accepted,Web Portal,Sandra Carter,,No Action Needed,True,66.7,Claimant accepted settlement offer. Release form sent for signature.,PhoneSystem,2022-06-06
+EVT-000240,CLM-00434,POL-905635,2024-09-30,Payment Issued,In-Person,Jason Perez,4160.4,Follow-up Required,True,32.4,"Payment of $4,160.40 issued to claimant. Check #582225.",EmailGateway,2024-09-30
+EVT-000241,CLM-00142,POL-608993,2021-04-30,Status Update,Fax,Joseph Johnson,,Escalated,False,65.1,Claim status updated to Denied. Adjuster notes recorded.,Portal,2021-04-30
+EVT-000242,CLM-00640,POL-179046,2020-09-20,Appeal Filed,Mobile App,Jessica Baker,,Pending,True,10.6,Claimant filed formal appeal against coverage decision. Appeal team assigned.,CMS,2020-09-20
+EVT-000243,CLM-00258,POL-765095,2024-01-05,Settlement Accepted,Mobile App,Kimberly Phillips,,Pending,True,6.3,Claimant accepted settlement offer. Release form sent for signature.,CMS,2024-01-05
+EVT-000244,CLM-00207,POL-249811,2020-09-02,Claim Closed,Mobile App,Donald Rodriguez,,Pending,True,66.7,Claim closed. Final disposition: Duplicate claim.,Portal,2020-09-02
+EVT-000245,CLM-00690,POL-185965,2022-05-27,Payment Issued,Mobile App,Sharon Anderson,45429.07,Follow-up Required,True,44.0,"Payment of $45,429.07 issued to claimant. Check #650473.",EmailGateway,2022-05-27
+EVT-000246,CLM-00547,POL-358607,2020-08-19,Payment Issued,Email,Sandra Anderson,28424.7,Follow-up Required,True,50.8,"Payment of $28,424.70 issued to claimant. Check #307290.",EmailGateway,2020-08-19
+EVT-000247,CLM-00328,POL-992697,2021-09-19,Status Update,Email,Margaret Rivera,,Completed,True,49.8,Claim status updated to In Litigation. Adjuster notes recorded.,EmailGateway,2021-09-19
+EVT-000248,CLM-00331,POL-178898,2021-12-21,Payment Issued,Email,Jason Williams,14783.24,Escalated,True,20.3,"Payment of $14,783.24 issued to claimant. Check #541467.",CMS,2021-12-21
+EVT-000249,CLM-00013,POL-987204,2023-11-14,Settlement Offered,Phone,James Carter,,No Action Needed,True,53.4,,EmailGateway,2023-11-14
+EVT-000250,CLM-00938,POL-523389,2020-01-22,New Claim,Web Portal,Margaret Rivera,,Pending,False,62.1,Claim received and assigned claim number. Initial triage completed.,Portal,2020-01-22
+EVT-000251,CLM-00478,POL-783823,2021-03-15,Settlement Offered,Email,Christopher Hall,,Pending,True,22.8,,MobileApp,2021-03-15
+EVT-000252,CLM-00973,POL-946305,2022-09-02,Status Update,Email,Sandra Anderson,,No Action Needed,True,66.6,Claim status updated to Pending Documentation. Adjuster notes recorded.,CMS,2022-09-02
+EVT-000253,CLM-00062,POL-299448,2023-04-02,Status Update,Email,Kimberly Thomas,,Pending,False,65.7,Claim status updated to Settled. Adjuster notes recorded.,MobileApp,2023-04-02
+EVT-000254,CLM-00945,POL-373432,2023-03-25,Inspection Completed,Email,James Carter,,Escalated,True,6.0,On-site inspection completed. Findings: Damage less than reported.,EmailGateway,2023-03-25
+EVT-000255,CLM-00276,POL-378082,2023-02-09,Claim Closed,Mobile App,Kimberly Phillips,,Follow-up Required,True,19.3,Claim closed. Final disposition: Withdrawn by claimant.,CMS,2023-02-09
+EVT-000256,CLM-00007,POL-765046,2021-11-08,Claim Closed,Fax,Margaret Rivera,,Escalated,False,44.1,Claim closed. Final disposition: Paid in full.,CMS,2021-11-08
+EVT-000257,CLM-00336,POL-905934,2020-03-18,Inspection Completed,Phone,Kimberly Thomas,,Pending,True,30.5,On-site inspection completed. Findings: Damage consistent with claim.,Portal,2020-03-18
+EVT-000258,CLM-00473,POL-823378,2020-01-22,Appeal Filed,Phone,Jessica Baker,,No Action Needed,True,70.1,Claimant filed formal appeal against coverage decision. Appeal team assigned.,MobileApp,2020-01-22
+EVT-000259,CLM-00644,POL-112038,2022-01-14,Payment Issued,Mobile App,Susan Harris,7507.12,Follow-up Required,True,34.4,"Payment of $7,507.12 issued to claimant. Check #606386.",EmailGateway,2022-01-14
+EVT-000260,CLM-00373,POL-392075,2023-09-07,Payment Issued,Phone,Margaret Rivera,39190.05,Pending,True,49.8,"Payment of $39,190.05 issued to claimant. Check #873364.",MobileApp,2023-09-07
+EVT-000261,CLM-00542,POL-167136,2020-09-24,Settlement Accepted,In-Person,Christopher Hall,,Escalated,True,61.3,Claimant accepted settlement offer. Release form sent for signature.,MobileApp,2020-09-24
+EVT-000262,CLM-00562,POL-340062,2022-04-30,Settlement Accepted,Email,Jessica Baker,,Follow-up Required,False,59.3,Claimant accepted settlement offer. Release form sent for signature.,Portal,2022-04-30
+EVT-000263,CLM-00054,POL-989921,2023-11-07,Settlement Offered,Web Portal,Kimberly Phillips,,Escalated,True,7.7,,Portal,2023-11-07
+EVT-000264,CLM-00856,POL-373432,2020-01-14,New Claim,Fax,Margaret Rivera,,No Action Needed,True,2.0,Claim received and assigned claim number. Initial triage completed.,EmailGateway,2020-01-14
+EVT-000265,CLM-00500,POL-595631,2020-12-18,Claim Closed,In-Person,Joseph Johnson,,Pending,True,43.2,Claim closed. Final disposition: Paid in full.,Portal,2020-12-18
+EVT-000266,CLM-00740,POL-544154,2024-03-17,Settlement Accepted,Fax,Sandra Carter,,Completed,True,5.8,Claimant accepted settlement offer. Release form sent for signature.,CMS,2024-03-17
+EVT-000267,CLM-00644,POL-112038,2024-12-27,Document Submitted,Email,Christopher Hall,,Pending,True,25.2,Document type: Repair estimate received via Email.,MobileApp,2024-12-27
+EVT-000268,CLM-00202,POL-133659,2022-05-18,Payment Issued,Mobile App,Susan Nguyen,26584.22,No Action Needed,True,3.4,"Payment of $26,584.22 issued to claimant. Check #118193.",CMS,2022-05-18
+EVT-000269,CLM-00553,POL-688153,2023-08-01,Status Update,Email,Sandra Carter,,Completed,True,45.5,Claim status updated to Approved. Adjuster notes recorded.,Portal,2023-08-01
+EVT-000270,CLM-00090,POL-617488,2020-10-05,Inspection Scheduled,Fax,Jessica Baker,,Completed,True,2.8,Field inspection scheduled for 2020-10-18. Inspector: James Carter.,PhoneSystem,2020-10-05
+EVT-000271,CLM-00341,POL-238890,2020-12-31,New Claim,Fax,Donald Rodriguez,,Completed,False,8.8,Claim received and assigned claim number. Initial triage completed.,MobileApp,2020-12-31
+EVT-000272,CLM-00029,POL-182582,2022-11-11,Inspection Completed,Fax,Margaret Rivera,,Completed,True,59.6,On-site inspection completed. Findings: Pre-existing damage noted.,PhoneSystem,2022-11-11
+EVT-000273,CLM-00062,POL-299448,2024-09-14,Status Update,Phone,Jason Williams,,No Action Needed,False,57.8,Claim status updated to Pending Documentation. Adjuster notes recorded.,Portal,2024-09-14
+EVT-000274,CLM-00580,POL-883300,2020-04-22,Claim Closed,Mobile App,Jessica Baker,,Escalated,True,35.7,Claim closed. Final disposition: Duplicate claim.,CMS,2020-04-22
+EVT-000275,CLM-00615,POL-736059,2020-07-09,New Claim,Web Portal,Sandra Carter,,Follow-up Required,True,56.8,Claim received and assigned claim number. Initial triage completed.,PhoneSystem,2020-07-09
+EVT-000276,CLM-00770,POL-208618,2022-04-18,Status Update,Phone,Sandra Anderson,,Escalated,True,58.9,Claim status updated to Awaiting Inspection. Adjuster notes recorded.,EmailGateway,2022-04-18
+EVT-000277,CLM-00344,POL-133659,2024-11-28,Payment Issued,Mobile App,Jason Williams,37264.96,Pending,True,67.8,"Payment of $37,264.96 issued to claimant. Check #595983.",PhoneSystem,2024-11-28
+EVT-000278,CLM-00488,POL-330283,2021-11-22,New Claim,In-Person,Patricia Garcia,,No Action Needed,True,60.8,Claim received and assigned claim number. Initial triage completed.,PhoneSystem,2021-11-22
+EVT-000279,CLM-00541,POL-994141,2021-11-08,Settlement Accepted,In-Person,Jason Perez,,Completed,False,70.7,Claimant accepted settlement offer. Release form sent for signature.,EmailGateway,2021-11-08
+EVT-000280,CLM-00864,POL-969634,2022-07-13,Inspection Completed,Mobile App,Kimberly Phillips,,Completed,True,20.9,On-site inspection completed. Findings: Damage consistent with claim.,CMS,2022-07-13
+EVT-000281,CLM-00256,POL-122056,2020-02-12,Settlement Offered,Email,Kimberly Martinez,,Completed,True,45.0,,EmailGateway,2020-02-12
+EVT-000282,CLM-00550,POL-170674,2020-02-13,New Claim,Fax,James Carter,,Follow-up Required,True,4.9,Claim received and assigned claim number. Initial triage completed.,MobileApp,2020-02-13
+EVT-000283,CLM-00326,POL-212235,2021-05-17,Inspection Scheduled,Fax,Kimberly Martinez,,Completed,True,21.9,Field inspection scheduled for 2021-05-25. Inspector: Kimberly Thomas.,PhoneSystem,2021-05-17
+EVT-000284,CLM-00243,POL-994141,2024-04-11,Claim Closed,Web Portal,Kimberly Phillips,,Pending,False,55.7,Claim closed. Final disposition: Withdrawn by claimant.,MobileApp,2024-04-11
+EVT-000285,CLM-00916,POL-609231,2021-12-05,Status Update,In-Person,Patricia Garcia,,Escalated,True,68.4,Claim status updated to In Litigation. Adjuster notes recorded.,PhoneSystem,2021-12-05
+EVT-000286,CLM-00938,POL-523389,2021-11-21,Document Submitted,In-Person,Donald Rodriguez,,Pending,True,38.6,Document type: Police report received via In-Person.,MobileApp,2021-11-21
+EVT-000287,CLM-00988,POL-974244,2024-08-20,Appeal Filed,Phone,Jessica Baker,,Pending,False,36.4,Claimant filed formal appeal against coverage decision. Appeal team assigned.,CMS,2024-08-20
+EVT-000288,CLM-00821,POL-272634,2023-01-12,Settlement Offered,Fax,Amanda Miller,,Pending,True,41.6,,EmailGateway,2023-01-12
+EVT-000289,CLM-00975,POL-716886,2022-08-24,Document Submitted,Web Portal,James Carter,,Pending,True,2.4,Document type: Repair estimate received via Web Portal.,PhoneSystem,2022-08-24
+EVT-000290,CLM-00419,POL-559469,2023-12-14,Appeal Filed,Fax,Amanda Miller,,Completed,True,58.7,Claimant filed formal appeal against coverage decision. Appeal team assigned.,PhoneSystem,2023-12-14
+EVT-000291,CLM-00752,POL-185965,2020-11-16,Settlement Accepted,In-Person,Joseph Johnson,,No Action Needed,True,19.3,Claimant accepted settlement offer. Release form sent for signature.,CMS,2020-11-16
+EVT-000292,CLM-00596,POL-299122,2020-02-24,Document Submitted,Web Portal,Susan Nguyen,,Pending,False,41.3,Document type: Photos received via Web Portal.,EmailGateway,2020-02-24
+EVT-000293,CLM-00780,POL-161483,2021-04-14,New Claim,In-Person,Amanda Miller,,Pending,True,9.4,Claim received and assigned claim number. Initial triage completed.,MobileApp,2021-04-14
+EVT-000294,CLM-00438,POL-684004,2021-07-31,Settlement Offered,Phone,Patricia Garcia,,Completed,True,56.3,,PhoneSystem,2021-07-31
+EVT-000295,CLM-00727,POL-665579,2021-07-08,Settlement Offered,Phone,Jessica Baker,,Escalated,True,1.3,,PhoneSystem,2021-07-08
+EVT-000296,CLM-00569,POL-839945,2022-11-20,Payment Issued,In-Person,Susan Nguyen,7490.71,Completed,True,58.2,"Payment of $7,490.71 issued to claimant. Check #966673.",EmailGateway,2022-11-20
+EVT-000297,CLM-00959,POL-839945,2024-10-19,Document Submitted,Phone,Cynthia Nguyen,,No Action Needed,True,49.1,Document type: Tax return received via Phone.,CMS,2024-10-19
+EVT-000298,CLM-00748,POL-237174,2024-03-29,Settlement Accepted,Mobile App,Joseph Johnson,,No Action Needed,False,18.0,Claimant accepted settlement offer. Release form sent for signature.,PhoneSystem,2024-03-29
+EVT-000299,CLM-00961,POL-684004,2024-06-02,Settlement Accepted,Mobile App,Cynthia Nguyen,,Completed,True,1.1,Claimant accepted settlement offer. Release form sent for signature.,MobileApp,2024-06-02
+EVT-000300,CLM-00081,POL-814825,2024-07-09,Settlement Offered,In-Person,Susan Harris,,Completed,True,50.0,,EmailGateway,2024-07-09
+EVT-000301,CLM-00436,POL-361941,2024-01-12,Status Update,Mobile App,Kimberly Martinez,,Pending,False,60.1,Claim status updated to Escalated. Adjuster notes recorded.,CMS,2024-01-12
+EVT-000302,CLM-00432,POL-627276,2020-05-18,Settlement Offered,Phone,Sandra Carter,,Escalated,True,44.1,,EmailGateway,2020-05-18
+EVT-000303,CLM-00980,POL-329974,2023-01-01,Document Submitted,Mobile App,Margaret Rivera,,Pending,True,4.9,Document type: Medical records received via Mobile App.,MobileApp,2023-01-01
+EVT-000304,CLM-00535,POL-712554,2021-11-16,Inspection Completed,In-Person,Jessica Baker,,No Action Needed,True,59.8,On-site inspection completed. Findings: Damage less than reported.,EmailGateway,2021-11-16
+EVT-000305,CLM-00746,POL-824586,2023-10-28,Payment Issued,Web Portal,James Carter,24517.83,Follow-up Required,True,12.0,"Payment of $24,517.83 issued to claimant. Check #304130.",CMS,2023-10-28
+EVT-000306,CLM-00479,POL-110139,2024-02-05,Payment Issued,In-Person,Jessica Baker,36712.62,Pending,False,58.6,"Payment of $36,712.62 issued to claimant. Check #403946.",MobileApp,2024-02-05
+EVT-000307,CLM-00184,POL-544154,2022-12-11,Claim Closed,Mobile App,Donald Rodriguez,,Follow-up Required,True,22.7,Claim closed. Final disposition: Withdrawn by claimant.,MobileApp,2022-12-11
+EVT-000308,CLM-00507,POL-526156,2022-08-29,Appeal Filed,Phone,James Carter,,Pending,True,26.5,Claimant filed formal appeal against coverage decision. Appeal team assigned.,CMS,2022-08-29
+EVT-000309,CLM-00941,POL-265840,2020-09-09,Inspection Completed,Mobile App,Jason Williams,,No Action Needed,True,50.0,On-site inspection completed. Findings: Pre-existing damage noted.,EmailGateway,2020-09-09
+EVT-000310,CLM-00543,POL-761759,2021-06-16,Appeal Filed,Mobile App,Kimberly Thomas,,Escalated,True,46.0,Claimant filed formal appeal against coverage decision. Appeal team assigned.,MobileApp,2021-06-16
+EVT-000311,CLM-00086,POL-431535,2023-08-13,New Claim,Email,Margaret Rivera,,Escalated,False,35.9,Claim received and assigned claim number. Initial triage completed.,CMS,2023-08-13
+EVT-000312,CLM-00164,POL-738551,2024-08-13,Status Update,Fax,Margaret Rivera,,Completed,True,25.7,Claim status updated to Pending Documentation. Adjuster notes recorded.,Portal,2024-08-13
+EVT-000313,CLM-00125,POL-955662,2023-10-21,Payment Issued,Phone,Amanda Miller,34789.13,Completed,True,56.8,"Payment of $34,789.13 issued to claimant. Check #359579.",MobileApp,2023-10-21
+EVT-000314,CLM-00164,POL-738551,2023-03-27,Settlement Offered,Mobile App,Donald Rodriguez,,Completed,True,68.2,,CMS,2023-03-27
+EVT-000315,CLM-00834,POL-214576,2023-08-07,Payment Issued,Email,Susan Harris,20369.57,Pending,False,40.6,"Payment of $20,369.57 issued to claimant. Check #999581.",EmailGateway,2023-08-07
+EVT-000316,CLM-00488,POL-330283,2022-09-12,Inspection Scheduled,Web Portal,Jessica Baker,,Follow-up Required,True,68.6,Field inspection scheduled for 2022-09-17. Inspector: Margaret Rivera.,PhoneSystem,2022-09-12
+EVT-000317,CLM-00278,POL-790993,2023-03-04,Appeal Filed,In-Person,Patricia Scott,,Completed,True,64.8,Claimant filed formal appeal against coverage decision. Appeal team assigned.,CMS,2023-03-04
+EVT-000318,CLM-00490,POL-765095,2022-10-20,Status Update,Mobile App,Margaret Rivera,,Pending,True,42.2,Claim status updated to Under Review. Adjuster notes recorded.,Portal,2022-10-20
+EVT-000319,CLM-00963,POL-359947,2024-08-29,Document Submitted,Web Portal,Cynthia Nguyen,,Escalated,True,71.4,Document type: Medical records received via Web Portal.,EmailGateway,2024-08-29
+EVT-000320,CLM-00973,POL-946305,2020-08-24,Document Submitted,Phone,Kimberly Thomas,,Follow-up Required,True,27.7,Document type: Photos received via Phone.,MobileApp,2020-08-24
+EVT-000321,CLM-00186,POL-783823,2021-07-06,Document Submitted,Email,Jason Perez,,Escalated,True,9.6,Document type: Tax return received via Email.,MobileApp,2021-07-06
+EVT-000322,CLM-00582,POL-324130,2023-03-06,Settlement Accepted,Email,Amanda Miller,,Completed,True,36.4,Claimant accepted settlement offer. Release form sent for signature.,PhoneSystem,2023-03-06
+EVT-000323,CLM-00964,POL-340174,2020-08-27,Claim Closed,Fax,Jessica Baker,,Completed,True,60.6,Claim closed. Final disposition: Denied.,PhoneSystem,2020-08-27
+EVT-000324,CLM-00411,POL-197793,2022-07-14,New Claim,Fax,Sandra Carter,,Escalated,False,17.6,Claim received and assigned claim number. Initial triage completed.,CMS,2022-07-14
+EVT-000325,CLM-00031,POL-867460,2024-04-06,Appeal Filed,Email,Sandra Carter,,Escalated,True,40.6,Claimant filed formal appeal against coverage decision. Appeal team assigned.,Portal,2024-04-06
+EVT-000326,CLM-00403,POL-246991,2020-05-12,Appeal Filed,Email,Susan Harris,,Follow-up Required,True,71.3,Claimant filed formal appeal against coverage decision. Appeal team assigned.,MobileApp,2020-05-12
+EVT-000327,CLM-00021,POL-522179,2024-03-26,Status Update,Mobile App,Christopher Hall,,Escalated,True,2.3,Claim status updated to Settled. Adjuster notes recorded.,MobileApp,2024-03-26
+EVT-000328,CLM-00682,POL-351083,2021-05-02,Inspection Completed,Mobile App,Jason Perez,,Completed,True,60.5,On-site inspection completed. Findings: Damage exceeds initial estimate.,PhoneSystem,2021-05-02
+EVT-000329,CLM-00246,POL-156802,2021-01-31,Settlement Accepted,Mobile App,Jason Williams,,Follow-up Required,True,65.4,Claimant accepted settlement offer. Release form sent for signature.,Portal,2021-01-31
+EVT-000330,CLM-00515,POL-681542,2023-10-08,Status Update,Fax,Kimberly Thomas,,No Action Needed,True,16.5,Claim status updated to Under Review. Adjuster notes recorded.,Portal,2023-10-08
+EVT-000331,CLM-00396,POL-158655,2020-12-02,Settlement Accepted,Fax,Kimberly Thomas,,Pending,True,27.5,Claimant accepted settlement offer. Release form sent for signature.,Portal,2020-12-02
+EVT-000332,CLM-00608,POL-378082,2021-07-25,Inspection Scheduled,Email,James Carter,,Escalated,False,11.2,Field inspection scheduled for 2021-08-04. Inspector: Jason Williams.,Portal,2021-07-25
+EVT-000333,CLM-00658,POL-231869,2021-05-16,Payment Issued,Web Portal,Susan Nguyen,37343.98,No Action Needed,True,27.3,"Payment of $37,343.98 issued to claimant. Check #497171.",EmailGateway,2021-05-16
+EVT-000334,CLM-00667,POL-955662,2024-12-26,Inspection Completed,In-Person,Sandra Anderson,,Completed,True,52.8,On-site inspection completed. Findings: Damage consistent with claim.,MobileApp,2024-12-26
+EVT-000335,CLM-00770,POL-208618,2020-06-19,Claim Closed,Fax,Jason Williams,,Follow-up Required,False,70.7,Claim closed. Final disposition: Paid in full.,PhoneSystem,2020-06-19
+EVT-000336,CLM-00831,POL-632323,2023-05-18,Settlement Offered,Web Portal,Joseph Johnson,,Follow-up Required,True,42.6,,PhoneSystem,2023-05-18
+EVT-000337,CLM-00633,POL-217308,2023-01-25,New Claim,Phone,Christopher Hall,,Follow-up Required,True,59.9,Claim received and assigned claim number. Initial triage completed.,PhoneSystem,2023-01-25
+EVT-000338,CLM-00962,POL-891952,2021-12-16,Inspection Completed,Web Portal,Susan Harris,,No Action Needed,True,35.5,On-site inspection completed. Findings: Pre-existing damage noted.,EmailGateway,2021-12-16
+EVT-000339,CLM-00576,POL-725380,2021-01-20,Document Submitted,Email,Jason Perez,,Escalated,True,71.2,Document type: Proof of ownership received via Email.,EmailGateway,2021-01-20
+EVT-000340,CLM-00654,POL-634277,2023-07-19,Payment Issued,Mobile App,Sharon Anderson,27091.61,Pending,True,10.9,"Payment of $27,091.61 issued to claimant. Check #723102.",EmailGateway,2023-07-19
+EVT-000341,CLM-00259,POL-526833,2021-12-10,Appeal Filed,Fax,Cynthia Nguyen,,No Action Needed,True,59.2,Claimant filed formal appeal against coverage decision. Appeal team assigned.,EmailGateway,2021-12-10
+EVT-000342,CLM-00096,POL-260265,2022-01-10,Claim Closed,Fax,Sandra Anderson,,Escalated,False,12.4,Claim closed. Final disposition: Partially paid.,PhoneSystem,2022-01-10
+EVT-000343,CLM-00345,POL-308573,2020-02-05,Status Update,Email,Sandra Anderson,,Escalated,True,6.1,Claim status updated to Settled. Adjuster notes recorded.,Portal,2020-02-05
+EVT-000344,CLM-00452,POL-110139,2021-01-29,Document Submitted,Phone,Sandra Carter,,Pending,True,45.6,Document type: Police report received via Phone.,CMS,2021-01-29
+EVT-000345,CLM-00985,POL-887352,2024-06-24,Appeal Filed,In-Person,Joseph Johnson,,No Action Needed,True,45.2,Claimant filed formal appeal against coverage decision. Appeal team assigned.,EmailGateway,2024-06-24
+EVT-000346,CLM-00827,POL-246991,2021-08-04,Settlement Accepted,In-Person,Christopher Hall,,Escalated,False,40.6,Claimant accepted settlement offer. Release form sent for signature.,CMS,2021-08-04
+EVT-000347,CLM-00590,POL-515011,2020-12-12,Claim Closed,In-Person,Susan Harris,,Follow-up Required,True,42.1,Claim closed. Final disposition: Partially paid.,Portal,2020-12-12
+EVT-000348,CLM-00539,POL-755674,2024-10-28,Payment Issued,Web Portal,Susan Harris,760.32,No Action Needed,True,61.1,Payment of $760.32 issued to claimant. Check #253499.,EmailGateway,2024-10-28
+EVT-000349,CLM-00196,POL-551989,2024-11-22,Document Submitted,Phone,Patricia Garcia,,Pending,True,17.5,Document type: Proof of ownership received via Phone.,EmailGateway,2024-11-22
+EVT-000350,CLM-00936,POL-903035,2024-09-11,Claim Closed,Phone,Jessica Baker,,Completed,True,7.2,Claim closed. Final disposition: Denied.,EmailGateway,2024-09-11
+EVT-000351,CLM-00301,POL-668532,2024-08-24,Inspection Scheduled,Mobile App,Cynthia Nguyen,,Follow-up Required,False,40.6,Field inspection scheduled for 2024-08-29. Inspector: Patricia Garcia.,EmailGateway,2024-08-24
+EVT-000352,CLM-00599,POL-555884,2020-02-08,New Claim,In-Person,Jason Williams,,Pending,False,3.4,Claim received and assigned claim number. Initial triage completed.,CMS,2020-02-08
+EVT-000353,CLM-00848,POL-598369,2022-12-17,Settlement Accepted,In-Person,Patricia Garcia,,Escalated,False,18.0,Claimant accepted settlement offer. Release form sent for signature.,CMS,2022-12-17
+EVT-000354,CLM-00991,POL-214975,2022-01-17,Payment Issued,In-Person,Patricia Scott,25911.7,Pending,True,17.5,"Payment of $25,911.70 issued to claimant. Check #205740.",EmailGateway,2022-01-17
+EVT-000355,CLM-00128,POL-109767,2022-06-02,New Claim,Phone,Susan Harris,,Pending,True,5.4,Claim received and assigned claim number. Initial triage completed.,CMS,2022-06-02
+EVT-000356,CLM-00041,POL-755674,2020-07-18,Inspection Completed,Phone,Margaret Rivera,,Follow-up Required,False,48.9,On-site inspection completed. Findings: Damage less than reported.,PhoneSystem,2020-07-18
+EVT-000357,CLM-00961,POL-684004,2023-10-12,Document Submitted,Fax,Sandra Anderson,,Completed,True,4.1,Document type: Signed statement received via Fax.,PhoneSystem,2023-10-12
+EVT-000358,CLM-00343,POL-260263,2021-02-15,Status Update,In-Person,Sandra Anderson,,Pending,False,6.2,Claim status updated to Denied. Adjuster notes recorded.,EmailGateway,2021-02-15
+EVT-000359,CLM-00795,POL-375504,2023-11-22,Document Submitted,Fax,Sandra Anderson,,Pending,False,65.6,Document type: Medical records received via Fax.,PhoneSystem,2023-11-22
+EVT-000360,CLM-00041,POL-755674,2023-04-06,Inspection Scheduled,Web Portal,Amanda Miller,,Pending,False,1.1,Field inspection scheduled for 2023-04-12. Inspector: Donald Rodriguez.,CMS,2023-04-06
+EVT-000361,CLM-00408,POL-634277,2020-06-16,Appeal Filed,Fax,Jason Perez,,Pending,False,12.1,Claimant filed formal appeal against coverage decision. Appeal team assigned.,PhoneSystem,2020-06-16
+EVT-000362,CLM-00493,POL-905635,2022-02-01,Settlement Accepted,Web Portal,Christopher Hall,,Completed,True,59.3,Claimant accepted settlement offer. Release form sent for signature.,MobileApp,2022-02-01
+EVT-000363,CLM-00630,POL-376807,2023-02-15,Settlement Accepted,Phone,Kimberly Martinez,,Pending,True,71.2,Claimant accepted settlement offer. Release form sent for signature.,Portal,2023-02-15
+EVT-000364,CLM-00955,POL-808011,2021-04-20,Inspection Completed,In-Person,Sandra Anderson,,Escalated,True,10.8,On-site inspection completed. Findings: Damage exceeds initial estimate.,PhoneSystem,2021-04-20
+EVT-000365,CLM-00078,POL-182582,2020-02-04,Status Update,Web Portal,Kimberly Phillips,,No Action Needed,True,54.5,Claim status updated to Denied. Adjuster notes recorded.,EmailGateway,2020-02-04
+EVT-000366,CLM-00432,POL-627276,2020-01-26,Appeal Filed,Phone,Margaret Rivera,,Pending,True,2.5,Claimant filed formal appeal against coverage decision. Appeal team assigned.,PhoneSystem,2020-01-26
+EVT-000367,CLM-00241,POL-629959,2023-06-17,Settlement Accepted,In-Person,Jessica Baker,,No Action Needed,False,19.2,Claimant accepted settlement offer. Release form sent for signature.,EmailGateway,2023-06-17
+EVT-000368,CLM-00970,POL-697347,2022-11-24,New Claim,Email,Sandra Carter,,Escalated,True,45.5,Claim received and assigned claim number. Initial triage completed.,CMS,2022-11-24
+EVT-000369,CLM-00457,POL-352572,2024-08-20,Appeal Filed,Fax,Sandra Carter,,Escalated,False,27.5,Claimant filed formal appeal against coverage decision. Appeal team assigned.,PhoneSystem,2024-08-20
+EVT-000370,CLM-00804,POL-604740,2022-05-26,Claim Closed,Email,Jason Williams,,No Action Needed,False,50.4,Claim closed. Final disposition: Duplicate claim.,EmailGateway,2022-05-26
+EVT-000371,CLM-00630,POL-376807,2024-03-21,Inspection Scheduled,Fax,Kimberly Phillips,,Pending,True,21.6,Field inspection scheduled for 2024-03-29. Inspector: Margaret Rivera.,EmailGateway,2024-03-21
+EVT-000372,CLM-00685,POL-518801,2023-02-17,Document Submitted,Phone,Sandra Anderson,,Escalated,True,69.9,Document type: Medical records received via Phone.,MobileApp,2023-02-17
+EVT-000373,CLM-00080,POL-514850,2021-04-25,Settlement Offered,Email,Sandra Anderson,,Escalated,True,5.3,,EmailGateway,2021-04-25
+EVT-000374,CLM-00652,POL-431535,2020-05-06,Inspection Completed,Mobile App,Patricia Garcia,,Completed,True,10.9,On-site inspection completed. Findings: Further review required.,CMS,2020-05-06
+EVT-000375,CLM-00197,POL-656926,2020-03-19,Inspection Scheduled,Email,Joseph Johnson,,Completed,True,65.6,Field inspection scheduled for 2020-03-29. Inspector: Christopher Hall.,PhoneSystem,2020-03-19
+EVT-000376,CLM-00903,POL-340062,2021-02-03,Document Submitted,Email,Sharon Anderson,,Escalated,True,1.2,Document type: Signed statement received via Email.,EmailGateway,2021-02-03
+EVT-000377,CLM-00854,POL-865990,2020-11-26,Settlement Offered,Phone,Susan Harris,,Follow-up Required,True,20.9,,MobileApp,2020-11-26
+EVT-000378,CLM-00056,POL-322955,2022-06-03,Appeal Filed,Mobile App,Kimberly Thomas,,No Action Needed,True,5.0,Claimant filed formal appeal against coverage decision. Appeal team assigned.,PhoneSystem,2022-06-03
+EVT-000379,CLM-00088,POL-156802,2020-09-28,Appeal Filed,Web Portal,Jason Williams,,Completed,True,9.0,Claimant filed formal appeal against coverage decision. Appeal team assigned.,Portal,2020-09-28
+EVT-000380,CLM-00242,POL-974244,2023-02-10,Settlement Offered,Mobile App,Kimberly Martinez,,Escalated,True,65.7,,CMS,2023-02-10
+EVT-000381,CLM-00417,POL-107540,2023-07-28,Claim Closed,Email,Kimberly Martinez,,Completed,True,14.4,Claim closed. Final disposition: Partially paid.,PhoneSystem,2023-07-28
+EVT-000382,CLM-00852,POL-352572,2021-08-31,Payment Issued,Fax,Kimberly Thomas,10747.57,Pending,True,45.5,"Payment of $10,747.57 issued to claimant. Check #262081.",CMS,2021-08-31
+EVT-000383,CLM-00457,POL-352572,2021-05-19,Settlement Offered,Email,James Carter,,Follow-up Required,False,31.6,,EmailGateway,2021-05-19
+EVT-000384,CLM-00732,POL-881177,2023-05-26,New Claim,Web Portal,Sharon Anderson,,Follow-up Required,True,53.4,Claim received and assigned claim number. Initial triage completed.,MobileApp,2023-05-26
+EVT-000385,CLM-00594,POL-542374,2021-07-24,Claim Closed,Email,Donald Rodriguez,,Escalated,True,13.9,Claim closed. Final disposition: Withdrawn by claimant.,MobileApp,2021-07-24
+EVT-000386,CLM-00450,POL-604740,2023-06-02,Settlement Accepted,Email,Sharon Anderson,,No Action Needed,True,63.5,Claimant accepted settlement offer. Release form sent for signature.,CMS,2023-06-02
+EVT-000387,CLM-00635,POL-944151,2021-06-18,Inspection Completed,Fax,Kimberly Phillips,,Completed,True,30.2,On-site inspection completed. Findings: Damage consistent with claim.,PhoneSystem,2021-06-18
+EVT-000388,CLM-00014,POL-161324,2023-04-07,Status Update,Fax,Sandra Anderson,,Pending,True,27.5,Claim status updated to Escalated. Adjuster notes recorded.,PhoneSystem,2023-04-07
+EVT-000389,CLM-00331,POL-178898,2024-06-13,Document Submitted,In-Person,Kimberly Phillips,,Escalated,True,19.6,Document type: Repair estimate received via In-Person.,PhoneSystem,2024-06-13
+EVT-000390,CLM-00803,POL-349565,2022-11-11,Status Update,Mobile App,Jason Williams,,Follow-up Required,False,39.9,Claim status updated to Denied. Adjuster notes recorded.,PhoneSystem,2022-11-11
+EVT-000391,CLM-01000,POL-704201,2023-06-07,Status Update,Web Portal,Patricia Scott,,Follow-up Required,True,31.9,Claim status updated to Escalated. Adjuster notes recorded.,MobileApp,2023-06-07
+EVT-000392,CLM-00708,POL-354801,2020-02-29,Appeal Filed,Phone,Kimberly Phillips,,Completed,True,50.3,Claimant filed formal appeal against coverage decision. Appeal team assigned.,MobileApp,2020-02-29
+EVT-000393,CLM-00740,POL-544154,2020-12-05,Document Submitted,Web Portal,Jason Perez,,Completed,False,35.4,Document type: Signed statement received via Web Portal.,MobileApp,2020-12-05
+EVT-000394,CLM-00402,POL-761759,2024-07-28,Inspection Completed,Phone,Amanda Miller,,No Action Needed,False,66.2,On-site inspection completed. Findings: Damage exceeds initial estimate.,EmailGateway,2024-07-28
+EVT-000395,CLM-00311,POL-214576,2024-06-18,Settlement Offered,Phone,Kimberly Phillips,,Escalated,False,5.5,,PhoneSystem,2024-06-18
+EVT-000396,CLM-00447,POL-161324,2022-04-23,Document Submitted,Web Portal,Donald Rodriguez,,No Action Needed,True,36.4,Document type: Signed statement received via Web Portal.,CMS,2022-04-23
+EVT-000397,CLM-00180,POL-858490,2022-02-21,Status Update,Web Portal,Kimberly Phillips,,Follow-up Required,False,37.8,Claim status updated to Pending Documentation. Adjuster notes recorded.,CMS,2022-02-21
+EVT-000398,CLM-00216,POL-680099,2022-05-14,Settlement Accepted,Phone,Kimberly Phillips,,Pending,True,49.5,Claimant accepted settlement offer. Release form sent for signature.,CMS,2022-05-14
+EVT-000399,CLM-00839,POL-774079,2020-03-28,Document Submitted,Mobile App,Jessica Baker,,Completed,True,8.3,Document type: Signed statement received via Mobile App.,Portal,2020-03-28
+EVT-000400,CLM-00625,POL-716886,2020-03-24,Inspection Completed,In-Person,Patricia Garcia,,No Action Needed,True,27.3,On-site inspection completed. Findings: Damage consistent with claim.,Portal,2020-03-24
+EVT-000401,CLM-00093,POL-785197,2024-05-03,Payment Issued,Fax,Jason Williams,15105.67,Follow-up Required,True,68.0,"Payment of $15,105.67 issued to claimant. Check #128818.",Portal,2024-05-03
+EVT-000402,CLM-00112,POL-585100,2023-04-22,Payment Issued,In-Person,Margaret Rivera,47752.51,Pending,True,6.2,"Payment of $47,752.51 issued to claimant. Check #274193.",PhoneSystem,2023-04-22
+EVT-000403,CLM-00894,POL-112038,2021-09-28,Settlement Offered,In-Person,Amanda Miller,,Follow-up Required,True,6.1,,Portal,2021-09-28
+EVT-000404,CLM-00018,POL-211579,2022-02-14,New Claim,Web Portal,Kimberly Martinez,,Escalated,True,60.7,Claim received and assigned claim number. Initial triage completed.,CMS,2022-02-14
+EVT-000405,CLM-00952,POL-564656,2020-09-23,Claim Closed,Fax,Patricia Scott,,Pending,True,0.7,Claim closed. Final disposition: Duplicate claim.,PhoneSystem,2020-09-23
+EVT-000406,CLM-00586,POL-610311,2020-06-13,Inspection Scheduled,In-Person,Joseph Johnson,,Completed,True,4.2,Field inspection scheduled for 2020-06-20. Inspector: Jason Williams.,CMS,2020-06-13
+EVT-000407,CLM-00546,POL-908577,2023-02-23,Settlement Offered,Phone,Amanda Miller,,Pending,True,4.5,,CMS,2023-02-23
+EVT-000408,CLM-00387,POL-577110,2020-12-19,Settlement Accepted,Phone,Sandra Anderson,,Pending,True,58.8,Claimant accepted settlement offer. Release form sent for signature.,EmailGateway,2020-12-19
+EVT-000409,CLM-00905,POL-422451,2022-01-21,New Claim,Mobile App,Joseph Johnson,,No Action Needed,False,65.3,Claim received and assigned claim number. Initial triage completed.,PhoneSystem,2022-01-21
+EVT-000410,CLM-00659,POL-428838,2020-04-24,Inspection Completed,Mobile App,Susan Nguyen,,No Action Needed,False,6.4,On-site inspection completed. Findings: Damage consistent with claim.,CMS,2020-04-24
+EVT-000411,CLM-00466,POL-392075,2020-10-03,Settlement Offered,Mobile App,Patricia Scott,,Pending,True,50.4,,EmailGateway,2020-10-03
+EVT-000412,CLM-00097,POL-308573,2024-09-08,Status Update,In-Person,Jessica Baker,,Follow-up Required,True,41.7,Claim status updated to Escalated. Adjuster notes recorded.,MobileApp,2024-09-08
+EVT-000413,CLM-00952,POL-564656,2021-05-09,New Claim,Phone,Amanda Miller,,Escalated,False,57.5,Claim received and assigned claim number. Initial triage completed.,MobileApp,2021-05-09
+EVT-000414,CLM-00640,POL-179046,2022-08-16,Appeal Filed,Fax,Cynthia Nguyen,,No Action Needed,True,53.8,Claimant filed formal appeal against coverage decision. Appeal team assigned.,CMS,2022-08-16
+EVT-000415,CLM-00851,POL-439902,2020-02-11,Claim Closed,Email,James Carter,,No Action Needed,True,26.2,Claim closed. Final disposition: Duplicate claim.,EmailGateway,2020-02-11
+EVT-000416,CLM-00913,POL-176819,2020-08-24,Claim Closed,Web Portal,Patricia Scott,,Completed,True,39.6,Claim closed. Final disposition: Partially paid.,PhoneSystem,2020-08-24
+EVT-000417,CLM-00074,POL-857168,2022-08-08,Appeal Filed,Mobile App,Cynthia Nguyen,,Follow-up Required,True,29.0,Claimant filed formal appeal against coverage decision. Appeal team assigned.,Portal,2022-08-08
+EVT-000418,CLM-00353,POL-526833,2023-06-08,Payment Issued,Phone,Susan Harris,7864.3,Follow-up Required,True,13.0,"Payment of $7,864.30 issued to claimant. Check #477325.",MobileApp,2023-06-08
+EVT-000419,CLM-00540,POL-551989,2021-01-07,Inspection Scheduled,In-Person,Patricia Garcia,,Escalated,True,33.0,Field inspection scheduled for 2021-01-13. Inspector: Donald Rodriguez.,CMS,2021-01-07
+EVT-000420,CLM-00059,POL-294851,2023-04-23,Status Update,Email,Kimberly Martinez,,No Action Needed,True,44.1,Claim status updated to Open. Adjuster notes recorded.,EmailGateway,2023-04-23
+EVT-000421,CLM-00232,POL-564656,2022-12-04,Inspection Scheduled,Web Portal,Jessica Baker,,Follow-up Required,False,28.0,Field inspection scheduled for 2022-12-18. Inspector: Patricia Scott.,Portal,2022-12-04
+EVT-000422,CLM-00913,POL-176819,2024-07-28,New Claim,Phone,Christopher Hall,,Escalated,False,67.2,Claim received and assigned claim number. Initial triage completed.,CMS,2024-07-28
+EVT-000423,CLM-00531,POL-159642,2020-05-22,Inspection Completed,Phone,Sandra Carter,,Pending,True,55.6,On-site inspection completed. Findings: Damage less than reported.,MobileApp,2020-05-22
+EVT-000424,CLM-00190,POL-399105,2022-04-20,Status Update,Web Portal,Cynthia Nguyen,,Pending,True,4.9,Claim status updated to Denied. Adjuster notes recorded.,CMS,2022-04-20
+EVT-000425,CLM-00957,POL-908577,2020-10-05,Appeal Filed,Mobile App,Jason Perez,,Escalated,False,67.3,Claimant filed formal appeal against coverage decision. Appeal team assigned.,PhoneSystem,2020-10-05
+EVT-000426,CLM-00536,POL-544151,2023-05-04,Status Update,Email,Cynthia Nguyen,,Pending,False,41.1,Claim status updated to Settled. Adjuster notes recorded.,PhoneSystem,2023-05-04
+EVT-000427,CLM-00463,POL-234628,2021-05-30,New Claim,Phone,Margaret Rivera,,Follow-up Required,True,32.3,Claim received and assigned claim number. Initial triage completed.,Portal,2021-05-30
+EVT-000428,CLM-00370,POL-226882,2021-06-08,Inspection Completed,Email,Susan Nguyen,,Pending,True,70.3,On-site inspection completed. Findings: Pre-existing damage noted.,MobileApp,2021-06-08
+EVT-000429,CLM-00927,POL-246413,2024-01-16,Status Update,Email,Christopher Hall,,Completed,True,70.8,Claim status updated to Pending Documentation. Adjuster notes recorded.,CMS,2024-01-16
+EVT-000430,CLM-00049,POL-269396,2020-10-31,Payment Issued,In-Person,Amanda Miller,14959.11,Escalated,True,9.2,"Payment of $14,959.11 issued to claimant. Check #236765.",EmailGateway,2020-10-31
+EVT-000431,CLM-00846,POL-539589,2024-01-29,Inspection Scheduled,In-Person,Margaret Rivera,,Follow-up Required,True,59.0,Field inspection scheduled for 2024-02-03. Inspector: Kimberly Martinez.,CMS,2024-01-29
+EVT-000432,CLM-00007,POL-765046,2023-04-24,Appeal Filed,Fax,Donald Rodriguez,,Completed,False,41.8,Claimant filed formal appeal against coverage decision. Appeal team assigned.,MobileApp,2023-04-24
+EVT-000433,CLM-00229,POL-665158,2024-06-15,Inspection Scheduled,Fax,Susan Nguyen,,Follow-up Required,False,20.0,Field inspection scheduled for 2024-06-26. Inspector: Christopher Hall.,EmailGateway,2024-06-15
+EVT-000434,CLM-00452,POL-110139,2023-05-27,Payment Issued,Phone,Donald Rodriguez,34760.32,Follow-up Required,True,35.1,"Payment of $34,760.32 issued to claimant. Check #223653.",CMS,2023-05-27
+EVT-000435,CLM-00732,POL-881177,2024-07-04,New Claim,Mobile App,Sandra Carter,,No Action Needed,True,22.0,Claim received and assigned claim number. Initial triage completed.,EmailGateway,2024-07-04
+EVT-000436,CLM-00956,POL-520521,2022-03-03,Payment Issued,Fax,Donald Rodriguez,49026.97,Pending,True,21.1,"Payment of $49,026.97 issued to claimant. Check #864769.",MobileApp,2022-03-03
+EVT-000437,CLM-00185,POL-260265,2021-10-04,Settlement Accepted,Mobile App,Sandra Anderson,,Completed,True,12.2,Claimant accepted settlement offer. Release form sent for signature.,MobileApp,2021-10-04
+EVT-000438,CLM-00114,POL-518373,2024-11-23,Inspection Completed,Mobile App,Sandra Anderson,,Pending,True,51.2,On-site inspection completed. Findings: Damage exceeds initial estimate.,EmailGateway,2024-11-23
+EVT-000439,CLM-00004,POL-335612,2024-10-16,Settlement Accepted,Web Portal,Jason Perez,,Pending,True,58.6,Claimant accepted settlement offer. Release form sent for signature.,MobileApp,2024-10-16
+EVT-000440,CLM-00953,POL-785743,2024-11-10,New Claim,Fax,Jason Perez,,Completed,False,66.9,Claim received and assigned claim number. Initial triage completed.,CMS,2024-11-10
+EVT-000441,CLM-00554,POL-997546,2024-06-23,Inspection Scheduled,In-Person,Jessica Baker,,Completed,True,53.0,Field inspection scheduled for 2024-07-07. Inspector: Jason Williams.,Portal,2024-06-23
+EVT-000442,CLM-00506,POL-976638,2021-10-20,New Claim,Mobile App,Kimberly Thomas,,Escalated,True,57.7,Claim received and assigned claim number. Initial triage completed.,EmailGateway,2021-10-20
+EVT-000443,CLM-00862,POL-608993,2021-05-26,Document Submitted,Email,Christopher Hall,,Follow-up Required,True,57.7,Document type: Photos received via Email.,CMS,2021-05-26
+EVT-000444,CLM-00218,POL-850981,2020-02-23,Settlement Offered,Email,Jessica Baker,,Follow-up Required,False,42.7,,EmailGateway,2020-02-23
+EVT-000445,CLM-00806,POL-203198,2023-05-01,Settlement Offered,In-Person,Jessica Baker,,Escalated,True,31.5,,MobileApp,2023-05-01
+EVT-000446,CLM-00178,POL-656116,2022-04-13,Inspection Completed,In-Person,Jessica Baker,,Pending,False,5.7,On-site inspection completed. Findings: Damage exceeds initial estimate.,Portal,2022-04-13
+EVT-000447,CLM-00088,POL-156802,2024-07-20,Inspection Completed,Phone,Susan Nguyen,,No Action Needed,True,8.3,On-site inspection completed. Findings: Further review required.,EmailGateway,2024-07-20
+EVT-000448,CLM-00487,POL-776856,2021-02-20,Inspection Scheduled,In-Person,Jason Perez,,Follow-up Required,False,53.0,Field inspection scheduled for 2021-03-03. Inspector: Patricia Scott.,EmailGateway,2021-02-20
+EVT-000449,CLM-00513,POL-898975,2024-09-24,Inspection Scheduled,Phone,Joseph Johnson,,No Action Needed,True,9.6,Field inspection scheduled for 2024-10-05. Inspector: Cynthia Nguyen.,EmailGateway,2024-09-24
+EVT-000450,CLM-00525,POL-176819,2024-07-30,Settlement Offered,Email,Kimberly Martinez,,No Action Needed,False,7.7,,PhoneSystem,2024-07-30
+EVT-000451,CLM-00539,POL-755674,2023-08-20,Claim Closed,Fax,Cynthia Nguyen,,Follow-up Required,True,15.9,Claim closed. Final disposition: Partially paid.,MobileApp,2023-08-20
+EVT-000452,CLM-00702,POL-994141,2023-02-26,Status Update,In-Person,Kimberly Martinez,,No Action Needed,True,11.9,Claim status updated to Closed. Adjuster notes recorded.,PhoneSystem,2023-02-26
+EVT-000453,CLM-00070,POL-414569,2020-06-14,Document Submitted,Fax,Kimberly Martinez,,Pending,False,35.3,Document type: Medical records received via Fax.,EmailGateway,2020-06-14
+EVT-000454,CLM-00675,POL-491559,2021-12-20,Payment Issued,In-Person,Jason Williams,28361.96,No Action Needed,True,71.7,"Payment of $28,361.96 issued to claimant. Check #323176.",Portal,2021-12-20
+EVT-000455,CLM-00447,POL-161324,2023-09-14,Appeal Filed,Mobile App,Patricia Garcia,,Escalated,True,35.2,Claimant filed formal appeal against coverage decision. Appeal team assigned.,MobileApp,2023-09-14
+EVT-000456,CLM-00691,POL-946721,2021-07-02,Payment Issued,Web Portal,Kimberly Phillips,1918.84,No Action Needed,True,34.9,"Payment of $1,918.84 issued to claimant. Check #834038.",PhoneSystem,2021-07-02
+EVT-000457,CLM-00535,POL-712554,2022-06-08,New Claim,Fax,Joseph Johnson,,No Action Needed,False,28.6,Claim received and assigned claim number. Initial triage completed.,CMS,2022-06-08
+EVT-000458,CLM-00742,POL-159642,2020-11-10,Claim Closed,Fax,Patricia Garcia,,Escalated,False,1.0,Claim closed. Final disposition: Paid in full.,MobileApp,2020-11-10
+EVT-000459,CLM-00054,POL-989921,2020-06-04,Inspection Scheduled,In-Person,Sharon Anderson,,Follow-up Required,True,49.6,Field inspection scheduled for 2020-06-15. Inspector: Donald Rodriguez.,Portal,2020-06-04
+EVT-000460,CLM-00657,POL-992697,2022-03-28,Payment Issued,Fax,Margaret Rivera,39092.24,Pending,True,68.8,"Payment of $39,092.24 issued to claimant. Check #337768.",EmailGateway,2022-03-28
+EVT-000461,CLM-00011,POL-346629,2020-11-20,Settlement Offered,In-Person,Kimberly Phillips,,Follow-up Required,True,68.5,,PhoneSystem,2020-11-20
+EVT-000462,CLM-00610,POL-680097,2024-03-14,Inspection Scheduled,Fax,Joseph Johnson,,No Action Needed,True,3.6,Field inspection scheduled for 2024-03-24. Inspector: Kimberly Thomas.,PhoneSystem,2024-03-14
+EVT-000463,CLM-00386,POL-632323,2021-09-18,New Claim,Fax,Kimberly Martinez,,No Action Needed,False,44.1,Claim received and assigned claim number. Initial triage completed.,Portal,2021-09-18
+EVT-000464,CLM-00294,POL-431535,2024-01-25,New Claim,Fax,Cynthia Nguyen,,Completed,False,24.2,Claim received and assigned claim number. Initial triage completed.,EmailGateway,2024-01-25
+EVT-000465,CLM-00265,POL-612262,2021-09-19,Claim Closed,Mobile App,Sandra Carter,,Completed,False,22.7,Claim closed. Final disposition: Denied.,PhoneSystem,2021-09-19
+EVT-000466,CLM-00734,POL-684004,2024-12-29,New Claim,Web Portal,Amanda Miller,,Completed,False,4.1,Claim received and assigned claim number. Initial triage completed.,Portal,2024-12-29
+EVT-000467,CLM-00726,POL-707040,2020-10-09,Document Submitted,Mobile App,Jason Williams,,No Action Needed,False,10.1,Document type: Tax return received via Mobile App.,Portal,2020-10-09
+EVT-000468,CLM-00877,POL-471507,2021-07-23,Status Update,Mobile App,Sandra Carter,,Follow-up Required,False,26.3,Claim status updated to In Litigation. Adjuster notes recorded.,MobileApp,2021-07-23
+EVT-000469,CLM-00392,POL-159642,2020-07-30,Inspection Scheduled,Mobile App,Sandra Anderson,,No Action Needed,False,54.2,Field inspection scheduled for 2020-08-12. Inspector: Jessica Baker.,EmailGateway,2020-07-30
+EVT-000470,CLM-00282,POL-149405,2020-07-03,Document Submitted,Email,Patricia Scott,,Escalated,False,57.9,Document type: Photos received via Email.,MobileApp,2020-07-03
+EVT-000471,CLM-00397,POL-412942,2023-03-02,Inspection Scheduled,Fax,Sandra Carter,,Completed,False,10.5,Field inspection scheduled for 2023-03-14. Inspector: Kimberly Thomas.,MobileApp,2023-03-02
+EVT-000472,CLM-00779,POL-707040,2024-07-02,Payment Issued,Web Portal,Kimberly Thomas,36412.21,Follow-up Required,True,66.6,"Payment of $36,412.21 issued to claimant. Check #605013.",MobileApp,2024-07-02
+EVT-000473,CLM-00086,POL-431535,2024-01-28,Document Submitted,Fax,Sharon Anderson,,Pending,True,51.9,Document type: Police report received via Fax.,PhoneSystem,2024-01-28
+EVT-000474,CLM-00123,POL-776856,2020-12-03,Appeal Filed,Mobile App,Sharon Anderson,,No Action Needed,False,56.4,Claimant filed formal appeal against coverage decision. Appeal team assigned.,CMS,2020-12-03
+EVT-000475,CLM-00863,POL-413921,2024-11-09,Claim Closed,Phone,Donald Rodriguez,,Completed,True,46.0,Claim closed. Final disposition: Paid in full.,CMS,2024-11-09
+EVT-000476,CLM-00093,POL-785197,2022-01-04,New Claim,Email,Christopher Hall,,No Action Needed,True,46.7,Claim received and assigned claim number. Initial triage completed.,CMS,2022-01-04
+EVT-000477,CLM-00915,POL-531071,2020-04-16,Inspection Scheduled,Web Portal,Margaret Rivera,,No Action Needed,True,58.1,Field inspection scheduled for 2020-04-27. Inspector: Sandra Carter.,MobileApp,2020-04-16
+EVT-000478,CLM-00026,POL-413921,2023-12-20,Inspection Scheduled,In-Person,Kimberly Martinez,,Escalated,True,53.0,Field inspection scheduled for 2023-12-29. Inspector: Joseph Johnson.,EmailGateway,2023-12-20
+EVT-000479,CLM-00284,POL-238890,2020-07-11,Payment Issued,Mobile App,Margaret Rivera,7306.16,Escalated,False,68.1,"Payment of $7,306.16 issued to claimant. Check #210618.",EmailGateway,2020-07-11
+EVT-000480,CLM-00434,POL-905635,2022-10-29,New Claim,Email,Amanda Miller,,Follow-up Required,False,24.0,Claim received and assigned claim number. Initial triage completed.,Portal,2022-10-29
+EVT-000481,CLM-00878,POL-231869,2022-04-23,Inspection Completed,Mobile App,Kimberly Martinez,,Escalated,True,62.1,On-site inspection completed. Findings: Damage less than reported.,Portal,2022-04-23
+EVT-000482,CLM-00901,POL-887352,2024-05-19,Document Submitted,In-Person,Kimberly Thomas,,Follow-up Required,False,13.2,Document type: Tax return received via In-Person.,Portal,2024-05-19
+EVT-000483,CLM-00579,POL-216970,2024-01-22,Inspection Completed,Fax,Jessica Baker,,Completed,True,15.1,On-site inspection completed. Findings: Damage consistent with claim.,PhoneSystem,2024-01-22
+EVT-000484,CLM-00643,POL-349565,2023-07-24,Claim Closed,Fax,Susan Harris,,Follow-up Required,False,3.1,Claim closed. Final disposition: Withdrawn by claimant.,EmailGateway,2023-07-24
+EVT-000485,CLM-00478,POL-783823,2024-09-24,Inspection Completed,Mobile App,Patricia Garcia,,Follow-up Required,True,36.0,On-site inspection completed. Findings: Damage less than reported.,PhoneSystem,2024-09-24
+EVT-000486,CLM-00916,POL-609231,2022-04-16,Claim Closed,Phone,Susan Harris,,Completed,True,9.1,Claim closed. Final disposition: Denied.,MobileApp,2022-04-16
+EVT-000487,CLM-00946,POL-189814,2024-09-21,New Claim,In-Person,Joseph Johnson,,Pending,True,28.4,Claim received and assigned claim number. Initial triage completed.,EmailGateway,2024-09-21
+EVT-000488,CLM-00783,POL-446479,2024-08-14,Document Submitted,Fax,Cynthia Nguyen,,Pending,True,36.9,Document type: Tax return received via Fax.,CMS,2024-08-14
+EVT-000489,CLM-00245,POL-392004,2021-04-09,New Claim,Email,James Carter,,Follow-up Required,False,52.8,Claim received and assigned claim number. Initial triage completed.,EmailGateway,2021-04-09
+EVT-000490,CLM-00962,POL-891952,2021-08-24,Status Update,Phone,Susan Nguyen,,Follow-up Required,False,35.9,Claim status updated to In Litigation. Adjuster notes recorded.,Portal,2021-08-24
+EVT-000491,CLM-00291,POL-274389,2024-04-25,Settlement Accepted,Web Portal,Patricia Scott,,Pending,True,57.2,Claimant accepted settlement offer. Release form sent for signature.,CMS,2024-04-25
+EVT-000492,CLM-00450,POL-604740,2024-07-10,Status Update,Fax,Sharon Anderson,,Follow-up Required,True,47.2,Claim status updated to Open. Adjuster notes recorded.,PhoneSystem,2024-07-10
+EVT-000493,CLM-00858,POL-163556,2023-04-28,Inspection Scheduled,Email,Patricia Garcia,,No Action Needed,True,15.4,Field inspection scheduled for 2023-05-08. Inspector: Cynthia Nguyen.,MobileApp,2023-04-28
+EVT-000494,CLM-00881,POL-262316,2023-11-11,Document Submitted,In-Person,Patricia Scott,,Completed,True,58.2,Document type: Tax return received via In-Person.,Portal,2023-11-11
+EVT-000495,CLM-00365,POL-684004,2022-05-07,Inspection Scheduled,Phone,Sandra Anderson,,Completed,True,21.6,Field inspection scheduled for 2022-05-10. Inspector: James Carter.,EmailGateway,2022-05-07
+EVT-000496,CLM-00584,POL-132938,2022-05-21,Inspection Completed,Phone,Christopher Hall,,Pending,True,29.6,On-site inspection completed. Findings: Further review required.,Portal,2022-05-21
+EVT-000497,CLM-00939,POL-930555,2023-07-03,Payment Issued,Phone,Jason Perez,3169.35,Completed,True,25.7,"Payment of $3,169.35 issued to claimant. Check #262662.",Portal,2023-07-03
+EVT-000498,CLM-00440,POL-989921,2022-10-01,Payment Issued,Phone,Jessica Baker,35399.53,Follow-up Required,True,59.1,"Payment of $35,399.53 issued to claimant. Check #923746.",MobileApp,2022-10-01
+EVT-000499,CLM-00907,POL-214576,2021-05-01,Appeal Filed,Phone,Susan Harris,,Follow-up Required,True,26.5,Claimant filed formal appeal against coverage decision. Appeal team assigned.,Portal,2021-05-01
+EVT-000500,CLM-00096,POL-260265,2020-02-18,Payment Issued,Fax,Sharon Anderson,42475.4,Follow-up Required,True,7.7,"Payment of $42,475.40 issued to claimant. Check #907278.",Portal,2020-02-18
+EVT-000501,CLM-00010,POL-340062,2023-10-07,Settlement Offered,Web Portal,Christopher Hall,,No Action Needed,True,43.9,,PhoneSystem,2023-10-07
+EVT-000502,CLM-00160,POL-994141,2020-10-06,Inspection Completed,Mobile App,Patricia Garcia,,Completed,True,5.0,On-site inspection completed. Findings: Damage less than reported.,MobileApp,2020-10-06
+EVT-000503,CLM-00084,POL-577110,2021-09-06,Inspection Scheduled,Email,Kimberly Thomas,,Pending,True,34.6,Field inspection scheduled for 2021-09-10. Inspector: Margaret Rivera.,PhoneSystem,2021-09-06
+EVT-000504,CLM-00106,POL-385577,2021-12-02,Inspection Scheduled,Mobile App,Susan Nguyen,,Pending,False,5.8,Field inspection scheduled for 2021-12-07. Inspector: Cynthia Nguyen.,MobileApp,2021-12-02
+EVT-000505,CLM-00188,POL-156802,2023-07-14,New Claim,Mobile App,Kimberly Phillips,,Pending,False,36.8,Claim received and assigned claim number. Initial triage completed.,Portal,2023-07-14
+EVT-000506,CLM-00135,POL-238739,2023-07-29,Settlement Accepted,Web Portal,Jessica Baker,,No Action Needed,False,58.2,Claimant accepted settlement offer. Release form sent for signature.,PhoneSystem,2023-07-29
+EVT-000507,CLM-00714,POL-817870,2020-01-25,New Claim,Fax,Christopher Hall,,Completed,True,34.1,Claim received and assigned claim number. Initial triage completed.,CMS,2020-01-25
+EVT-000508,CLM-00974,POL-697347,2022-01-22,Status Update,In-Person,Kimberly Thomas,,Completed,True,18.6,Claim status updated to Denied. Adjuster notes recorded.,Portal,2022-01-22
+EVT-000509,CLM-00658,POL-231869,2020-07-03,Document Submitted,Email,Sandra Anderson,,Pending,False,12.3,Document type: Tax return received via Email.,PhoneSystem,2020-07-03
+EVT-000510,CLM-00798,POL-373432,2023-11-05,Inspection Completed,Phone,James Carter,,Escalated,True,13.6,On-site inspection completed. Findings: Pre-existing damage noted.,Portal,2023-11-05
+EVT-000511,CLM-00155,POL-877236,2024-10-03,Inspection Completed,Email,James Carter,,No Action Needed,True,27.7,On-site inspection completed. Findings: Damage exceeds initial estimate.,MobileApp,2024-10-03
+EVT-000512,CLM-00262,POL-808011,2021-05-09,Inspection Completed,Phone,Kimberly Thomas,,Escalated,True,16.9,On-site inspection completed. Findings: Damage exceeds initial estimate.,PhoneSystem,2021-05-09
+EVT-000513,CLM-00915,POL-531071,2021-12-28,Inspection Completed,In-Person,Amanda Miller,,Completed,True,67.1,On-site inspection completed. Findings: Damage consistent with claim.,EmailGateway,2021-12-28
+EVT-000514,CLM-00471,POL-698782,2023-11-01,Inspection Scheduled,Web Portal,Susan Harris,,Completed,True,54.4,Field inspection scheduled for 2023-11-09. Inspector: Sandra Carter.,CMS,2023-11-01
+EVT-000515,CLM-00229,POL-665158,2024-11-30,New Claim,In-Person,James Carter,,Completed,False,30.5,Claim received and assigned claim number. Initial triage completed.,PhoneSystem,2024-11-30
+EVT-000516,CLM-00969,POL-176066,2020-07-06,Claim Closed,Mobile App,Susan Harris,,Follow-up Required,True,16.1,Claim closed. Final disposition: Partially paid.,CMS,2020-07-06
+EVT-000517,CLM-00147,POL-149405,2022-06-14,Inspection Completed,Email,Susan Harris,,Follow-up Required,False,5.9,On-site inspection completed. Findings: Damage less than reported.,CMS,2022-06-14
+EVT-000518,CLM-00365,POL-684004,2021-06-07,Settlement Accepted,Web Portal,Sandra Carter,,No Action Needed,False,29.9,Claimant accepted settlement offer. Release form sent for signature.,MobileApp,2021-06-07
+EVT-000519,CLM-00978,POL-221035,2023-09-04,Status Update,Web Portal,Sandra Anderson,,Pending,True,28.0,Claim status updated to Approved. Adjuster notes recorded.,EmailGateway,2023-09-04
+EVT-000520,CLM-00587,POL-688153,2021-12-16,Inspection Scheduled,In-Person,Cynthia Nguyen,,Escalated,True,4.2,Field inspection scheduled for 2021-12-24. Inspector: Amanda Miller.,Portal,2021-12-16
+EVT-000521,CLM-00154,POL-801474,2022-01-24,Settlement Offered,In-Person,Jason Perez,,Pending,False,43.8,,PhoneSystem,2022-01-24
+EVT-000522,CLM-00191,POL-804318,2021-03-06,Document Submitted,Phone,Christopher Hall,,Pending,True,56.9,Document type: Signed statement received via Phone.,EmailGateway,2021-03-06
+EVT-000523,CLM-00012,POL-523389,2020-05-22,Document Submitted,Phone,Cynthia Nguyen,,Follow-up Required,True,9.8,Document type: Proof of ownership received via Phone.,EmailGateway,2020-05-22
+EVT-000524,CLM-00131,POL-171849,2023-10-23,Inspection Scheduled,In-Person,Kimberly Martinez,,Escalated,False,36.6,Field inspection scheduled for 2023-11-04. Inspector: Sandra Anderson.,EmailGateway,2023-10-23
+EVT-000525,CLM-00211,POL-680828,2021-07-13,New Claim,Web Portal,Christopher Hall,,Completed,True,63.1,Claim received and assigned claim number. Initial triage completed.,Portal,2021-07-13
+EVT-000526,CLM-00453,POL-663750,2023-03-04,Appeal Filed,Mobile App,Jessica Baker,,Follow-up Required,True,49.4,Claimant filed formal appeal against coverage decision. Appeal team assigned.,PhoneSystem,2023-03-04
+EVT-000527,CLM-00846,POL-539589,2020-03-08,Status Update,Email,Patricia Garcia,,Follow-up Required,True,70.1,Claim status updated to Approved. Adjuster notes recorded.,MobileApp,2020-03-08
+EVT-000528,CLM-00758,POL-692683,2022-08-02,New Claim,In-Person,Susan Nguyen,,Follow-up Required,True,48.8,Claim received and assigned claim number. Initial triage completed.,EmailGateway,2022-08-02
+EVT-000529,CLM-00320,POL-249811,2021-09-24,Status Update,Web Portal,Sharon Anderson,,Follow-up Required,True,9.2,Claim status updated to In Litigation. Adjuster notes recorded.,MobileApp,2021-09-24
+EVT-000530,CLM-00233,POL-564656,2022-02-15,Settlement Accepted,Fax,Amanda Miller,,Pending,True,1.9,Claimant accepted settlement offer. Release form sent for signature.,MobileApp,2022-02-15
+EVT-000531,CLM-00400,POL-413921,2021-08-06,Inspection Scheduled,Fax,Susan Nguyen,,Escalated,True,43.5,Field inspection scheduled for 2021-08-10. Inspector: Jason Perez.,CMS,2021-08-06
+EVT-000532,CLM-00642,POL-245051,2021-01-08,Inspection Completed,Web Portal,Sandra Carter,,Follow-up Required,False,66.5,On-site inspection completed. Findings: Damage exceeds initial estimate.,EmailGateway,2021-01-08
+EVT-000533,CLM-00890,POL-598369,2022-04-18,New Claim,Fax,Sandra Anderson,,Pending,True,60.4,Claim received and assigned claim number. Initial triage completed.,PhoneSystem,2022-04-18
+EVT-000534,CLM-00896,POL-179046,2022-10-22,Payment Issued,Fax,Kimberly Martinez,20238.7,No Action Needed,False,70.4,"Payment of $20,238.70 issued to claimant. Check #840762.",Portal,2022-10-22
+EVT-000535,CLM-00983,POL-163556,2023-07-12,Appeal Filed,Phone,Sandra Anderson,,Pending,False,10.3,Claimant filed formal appeal against coverage decision. Appeal team assigned.,MobileApp,2023-07-12
+EVT-000536,CLM-00703,POL-707314,2023-08-21,Status Update,Mobile App,Christopher Hall,,Completed,True,48.7,Claim status updated to Settled. Adjuster notes recorded.,EmailGateway,2023-08-21
+EVT-000537,CLM-00690,POL-185965,2023-07-03,Inspection Completed,Phone,Amanda Miller,,No Action Needed,False,71.8,On-site inspection completed. Findings: Pre-existing damage noted.,CMS,2023-07-03
+EVT-000538,CLM-00458,POL-801474,2021-06-01,Appeal Filed,In-Person,Kimberly Phillips,,Completed,True,64.7,Claimant filed formal appeal against coverage decision. Appeal team assigned.,EmailGateway,2021-06-01
+EVT-000539,CLM-00562,POL-340062,2023-11-14,Status Update,Email,Jason Perez,,No Action Needed,True,61.4,Claim status updated to Closed. Adjuster notes recorded.,PhoneSystem,2023-11-14
+EVT-000540,CLM-00978,POL-221035,2022-11-15,Claim Closed,In-Person,Susan Nguyen,,No Action Needed,True,21.5,Claim closed. Final disposition: Withdrawn by claimant.,CMS,2022-11-15
+EVT-000541,CLM-00292,POL-322086,2023-08-05,Status Update,In-Person,Sandra Carter,,Pending,True,29.2,Claim status updated to Settled. Adjuster notes recorded.,Portal,2023-08-05
+EVT-000542,CLM-00595,POL-376183,2020-04-06,New Claim,Email,Amanda Miller,,Escalated,True,52.4,Claim received and assigned claim number. Initial triage completed.,PhoneSystem,2020-04-06
+EVT-000543,CLM-00997,POL-240814,2020-06-25,Payment Issued,Phone,Cynthia Nguyen,24448.1,Follow-up Required,True,46.3,"Payment of $24,448.10 issued to claimant. Check #254303.",PhoneSystem,2020-06-25
+EVT-000544,CLM-00931,POL-847581,2022-09-06,New Claim,In-Person,Sandra Anderson,,Completed,True,4.4,Claim received and assigned claim number. Initial triage completed.,MobileApp,2022-09-06
+EVT-000545,CLM-00877,POL-471507,2024-03-22,Payment Issued,Fax,Jessica Baker,24874.1,Pending,True,46.7,"Payment of $24,874.10 issued to claimant. Check #372776.",EmailGateway,2024-03-22
+EVT-000546,CLM-00625,POL-716886,2024-12-03,Settlement Accepted,Fax,Jessica Baker,,No Action Needed,True,59.6,Claimant accepted settlement offer. Release form sent for signature.,CMS,2024-12-03
+EVT-000547,CLM-00553,POL-688153,2023-12-31,Claim Closed,In-Person,Donald Rodriguez,,Completed,True,65.2,Claim closed. Final disposition: Partially paid.,Portal,2023-12-31
+EVT-000548,CLM-00745,POL-774079,2020-07-12,Inspection Completed,Email,Christopher Hall,,No Action Needed,True,33.9,On-site inspection completed. Findings: Damage consistent with claim.,EmailGateway,2020-07-12
+EVT-000549,CLM-00559,POL-385577,2020-07-26,Document Submitted,Fax,Patricia Scott,,Escalated,True,10.3,Document type: Signed statement received via Fax.,Portal,2020-07-26
+EVT-000550,CLM-00777,POL-161324,2024-02-10,Payment Issued,Fax,Jessica Baker,33024.62,Escalated,True,34.5,"Payment of $33,024.62 issued to claimant. Check #623616.",PhoneSystem,2024-02-10
+EVT-000551,CLM-00668,POL-723398,2022-06-03,Inspection Completed,Mobile App,Jessica Baker,,No Action Needed,True,62.3,On-site inspection completed. Findings: Damage consistent with claim.,CMS,2022-06-03
+EVT-000552,CLM-00695,POL-341292,2020-10-11,Status Update,Web Portal,Patricia Scott,,Completed,True,54.0,Claim status updated to Pending Documentation. Adjuster notes recorded.,EmailGateway,2020-10-11
+EVT-000553,CLM-00982,POL-765046,2021-08-02,Inspection Completed,Web Portal,Donald Rodriguez,,Pending,True,18.6,On-site inspection completed. Findings: Further review required.,CMS,2021-08-02
+EVT-000554,CLM-00385,POL-817870,2020-07-17,Claim Closed,Web Portal,Susan Nguyen,,Pending,False,44.0,Claim closed. Final disposition: Duplicate claim.,MobileApp,2020-07-17
+EVT-000555,CLM-00842,POL-666847,2021-04-25,Document Submitted,Fax,Christopher Hall,,Completed,True,15.1,Document type: Police report received via Fax.,PhoneSystem,2021-04-25
+EVT-000556,CLM-00151,POL-398830,2021-12-26,Status Update,Mobile App,Donald Rodriguez,,Pending,True,27.2,Claim status updated to Open. Adjuster notes recorded.,PhoneSystem,2021-12-26
+EVT-000557,CLM-00138,POL-765095,2021-06-24,Settlement Accepted,In-Person,Patricia Garcia,,Completed,True,29.4,Claimant accepted settlement offer. Release form sent for signature.,MobileApp,2021-06-24
+EVT-000558,CLM-00536,POL-544151,2020-02-24,Inspection Scheduled,Phone,Jessica Baker,,Completed,True,30.9,Field inspection scheduled for 2020-02-29. Inspector: Donald Rodriguez.,CMS,2020-02-24
+EVT-000559,CLM-00050,POL-563298,2023-12-19,Document Submitted,Fax,Susan Harris,,No Action Needed,False,37.1,Document type: Proof of ownership received via Fax.,Portal,2023-12-19
+EVT-000560,CLM-00292,POL-322086,2023-03-16,Payment Issued,Phone,Cynthia Nguyen,21816.3,Escalated,False,22.8,"Payment of $21,816.30 issued to claimant. Check #722823.",CMS,2023-03-16
+EVT-000561,CLM-00555,POL-456699,2021-11-30,Settlement Offered,Web Portal,Sharon Anderson,,No Action Needed,True,37.8,,EmailGateway,2021-11-30
+EVT-000562,CLM-00259,POL-526833,2021-04-27,Document Submitted,Email,Jessica Baker,,Follow-up Required,True,23.8,Document type: Proof of ownership received via Email.,MobileApp,2021-04-27
+EVT-000563,CLM-00610,POL-680097,2023-06-09,Appeal Filed,Phone,Patricia Scott,,Pending,True,43.3,Claimant filed formal appeal against coverage decision. Appeal team assigned.,EmailGateway,2023-06-09
+EVT-000564,CLM-00162,POL-590785,2020-02-09,Inspection Scheduled,In-Person,Donald Rodriguez,,No Action Needed,True,39.1,Field inspection scheduled for 2020-02-12. Inspector: Jessica Baker.,CMS,2020-02-09
+EVT-000565,CLM-00070,POL-414569,2023-09-11,Settlement Accepted,In-Person,Jason Perez,,Completed,True,47.7,Claimant accepted settlement offer. Release form sent for signature.,PhoneSystem,2023-09-11
+EVT-000566,CLM-00571,POL-260263,2024-11-07,Claim Closed,In-Person,Susan Harris,,Completed,True,7.9,Claim closed. Final disposition: Partially paid.,EmailGateway,2024-11-07
+EVT-000567,CLM-00583,POL-500156,2022-07-01,Document Submitted,In-Person,Kimberly Thomas,,No Action Needed,True,57.2,Document type: Signed statement received via In-Person.,PhoneSystem,2022-07-01
+EVT-000568,CLM-00235,POL-852787,2020-06-18,Claim Closed,Phone,Kimberly Phillips,,Follow-up Required,False,51.1,Claim closed. Final disposition: Denied.,PhoneSystem,2020-06-18
+EVT-000569,CLM-00702,POL-994141,2023-01-31,Claim Closed,Mobile App,Jason Perez,,Completed,True,27.3,Claim closed. Final disposition: Partially paid.,EmailGateway,2023-01-31
+EVT-000570,CLM-00899,POL-692683,2023-08-27,Document Submitted,Phone,Kimberly Martinez,,Follow-up Required,True,40.1,Document type: Tax return received via Phone.,EmailGateway,2023-08-27
+EVT-000571,CLM-00280,POL-341292,2021-03-27,Inspection Completed,Fax,Sandra Carter,,No Action Needed,False,30.0,On-site inspection completed. Findings: Damage consistent with claim.,CMS,2021-03-27
+EVT-000572,CLM-00168,POL-523389,2024-11-26,Claim Closed,Web Portal,Joseph Johnson,,Follow-up Required,True,11.2,Claim closed. Final disposition: Partially paid.,EmailGateway,2024-11-26
+EVT-000573,CLM-00743,POL-163556,2020-04-25,Settlement Offered,Email,Jason Perez,,Pending,True,69.0,,PhoneSystem,2020-04-25
+EVT-000574,CLM-00466,POL-392075,2020-01-25,Claim Closed,In-Person,Donald Rodriguez,,No Action Needed,True,17.2,Claim closed. Final disposition: Withdrawn by claimant.,Portal,2020-01-25
+EVT-000575,CLM-00916,POL-609231,2024-12-30,Inspection Completed,Email,Sharon Anderson,,No Action Needed,False,64.2,On-site inspection completed. Findings: Pre-existing damage noted.,MobileApp,2024-12-30
+EVT-000576,CLM-00126,POL-790993,2020-08-15,Document Submitted,Phone,Cynthia Nguyen,,Pending,True,54.1,Document type: Proof of ownership received via Phone.,PhoneSystem,2020-08-15
+EVT-000577,CLM-00021,POL-522179,2022-09-14,Inspection Scheduled,Email,Joseph Johnson,,No Action Needed,True,43.8,Field inspection scheduled for 2022-09-25. Inspector: Christopher Hall.,Portal,2022-09-14
+EVT-000578,CLM-00233,POL-564656,2021-12-21,Claim Closed,Fax,Patricia Scott,,Follow-up Required,True,18.2,Claim closed. Final disposition: Denied.,Portal,2021-12-21
+EVT-000579,CLM-00558,POL-997546,2023-04-22,New Claim,Phone,Kimberly Martinez,,Completed,True,39.5,Claim received and assigned claim number. Initial triage completed.,MobileApp,2023-04-22
+EVT-000580,CLM-00830,POL-354801,2023-04-18,Payment Issued,In-Person,Donald Rodriguez,10586.99,Pending,True,4.5,"Payment of $10,586.99 issued to claimant. Check #373113.",Portal,2023-04-18
+EVT-000581,CLM-00777,POL-161324,2022-11-04,Inspection Scheduled,Phone,Susan Harris,,Completed,True,58.5,Field inspection scheduled for 2022-11-15. Inspector: Christopher Hall.,MobileApp,2022-11-04
+EVT-000582,CLM-00668,POL-723398,2022-08-02,Payment Issued,Email,James Carter,11695.56,Pending,True,60.7,"Payment of $11,695.56 issued to claimant. Check #206811.",PhoneSystem,2022-08-02
+EVT-000583,CLM-00280,POL-341292,2020-02-22,Inspection Completed,Fax,Sandra Carter,,Pending,True,69.6,On-site inspection completed. Findings: Further review required.,Portal,2020-02-22
+EVT-000584,CLM-00457,POL-352572,2023-10-23,Settlement Accepted,Mobile App,Kimberly Thomas,,Escalated,True,44.3,Claimant accepted settlement offer. Release form sent for signature.,MobileApp,2023-10-23
+EVT-000585,CLM-00957,POL-908577,2022-12-23,Claim Closed,Fax,Kimberly Martinez,,Follow-up Required,True,23.6,Claim closed. Final disposition: Denied.,MobileApp,2022-12-23
+EVT-000586,CLM-00343,POL-260263,2020-05-16,Inspection Completed,Web Portal,Jason Williams,,No Action Needed,True,4.2,On-site inspection completed. Findings: Pre-existing damage noted.,EmailGateway,2020-05-16
+EVT-000587,CLM-00246,POL-156802,2022-03-12,Inspection Scheduled,Mobile App,Susan Nguyen,,Follow-up Required,True,69.7,Field inspection scheduled for 2022-03-23. Inspector: Jason Perez.,MobileApp,2022-03-12
+EVT-000588,CLM-00920,POL-684004,2023-06-02,Status Update,In-Person,Patricia Garcia,,Pending,False,35.4,Claim status updated to Pending Documentation. Adjuster notes recorded.,MobileApp,2023-06-02
+EVT-000589,CLM-00587,POL-688153,2024-12-13,Payment Issued,In-Person,Patricia Garcia,995.94,No Action Needed,False,62.1,Payment of $995.94 issued to claimant. Check #570182.,PhoneSystem,2024-12-13
+EVT-000590,CLM-00607,POL-682765,2020-08-10,Claim Closed,Phone,Christopher Hall,,Follow-up Required,False,16.0,Claim closed. Final disposition: Denied.,CMS,2020-08-10
+EVT-000591,CLM-00517,POL-166613,2020-04-16,Document Submitted,Mobile App,Cynthia Nguyen,,No Action Needed,True,5.6,Document type: Police report received via Mobile App.,MobileApp,2020-04-16
+EVT-000592,CLM-00010,POL-340062,2021-05-25,Document Submitted,Email,James Carter,,Follow-up Required,True,40.2,Document type: Medical records received via Email.,EmailGateway,2021-05-25
+EVT-000593,CLM-00886,POL-378082,2020-03-02,Settlement Offered,Phone,Jason Perez,,Pending,True,6.8,,EmailGateway,2020-03-02
+EVT-000594,CLM-00571,POL-260263,2021-11-28,Settlement Accepted,Fax,Kimberly Martinez,,Completed,True,70.0,Claimant accepted settlement offer. Release form sent for signature.,PhoneSystem,2021-11-28
+EVT-000595,CLM-00205,POL-272634,2024-02-03,Inspection Scheduled,Phone,Jason Williams,,Pending,True,49.6,Field inspection scheduled for 2024-02-10. Inspector: Jason Perez.,CMS,2024-02-03
+EVT-000596,CLM-00788,POL-141672,2020-04-12,Settlement Offered,Fax,Cynthia Nguyen,,Completed,True,42.7,,CMS,2020-04-12
+EVT-000597,CLM-00859,POL-579434,2022-08-19,Document Submitted,Mobile App,Susan Harris,,No Action Needed,True,23.2,Document type: Proof of ownership received via Mobile App.,MobileApp,2022-08-19
+EVT-000598,CLM-00608,POL-378082,2023-03-03,Status Update,Mobile App,Sharon Anderson,,Pending,True,32.9,Claim status updated to In Litigation. Adjuster notes recorded.,EmailGateway,2023-03-03
+EVT-000599,CLM-00876,POL-658582,2024-10-25,Document Submitted,Fax,Christopher Hall,,Completed,False,40.7,Document type: Photos received via Fax.,Portal,2024-10-25
+EVT-000600,CLM-00775,POL-249811,2023-01-28,Payment Issued,Web Portal,Sharon Anderson,26300.05,Completed,True,23.0,"Payment of $26,300.05 issued to claimant. Check #199342.",MobileApp,2023-01-28
+EVT-000601,CLM-00217,POL-363319,2022-01-20,Inspection Scheduled,Email,Susan Harris,,No Action Needed,True,22.7,Field inspection scheduled for 2022-01-24. Inspector: Patricia Garcia.,PhoneSystem,2022-01-20
+EVT-000602,CLM-00304,POL-109767,2020-02-17,New Claim,Web Portal,Margaret Rivera,,Pending,True,63.5,Claim received and assigned claim number. Initial triage completed.,Portal,2020-02-17
+EVT-000603,CLM-00167,POL-994141,2022-09-20,Claim Closed,Phone,Cynthia Nguyen,,Escalated,True,29.5,Claim closed. Final disposition: Withdrawn by claimant.,Portal,2022-09-20
+EVT-000604,CLM-00010,POL-340062,2021-01-02,New Claim,Phone,Patricia Garcia,,Pending,True,22.2,Claim received and assigned claim number. Initial triage completed.,CMS,2021-01-02
+EVT-000605,CLM-00658,POL-231869,2021-08-14,Document Submitted,Email,Margaret Rivera,,Follow-up Required,True,4.0,Document type: Photos received via Email.,CMS,2021-08-14
+EVT-000606,CLM-00206,POL-946305,2022-04-06,Settlement Offered,Email,Susan Nguyen,,Completed,True,38.2,,MobileApp,2022-04-06
+EVT-000607,CLM-00697,POL-830429,2024-08-13,Settlement Offered,Web Portal,Susan Harris,,Escalated,True,47.8,,PhoneSystem,2024-08-13
+EVT-000608,CLM-00225,POL-153266,2020-07-21,New Claim,Email,Jason Perez,,No Action Needed,True,66.2,Claim received and assigned claim number. Initial triage completed.,Portal,2020-07-21
+EVT-000609,CLM-00646,POL-379786,2022-01-05,Settlement Offered,Phone,Susan Harris,,Pending,False,41.9,,EmailGateway,2022-01-05
+EVT-000610,CLM-00631,POL-197793,2021-01-28,Inspection Scheduled,In-Person,Jason Perez,,Escalated,True,29.2,Field inspection scheduled for 2021-02-09. Inspector: Patricia Scott.,MobileApp,2021-01-28
+EVT-000611,CLM-00010,POL-340062,2020-09-01,Settlement Offered,Web Portal,Christopher Hall,,Escalated,True,16.3,,CMS,2020-09-01
+EVT-000612,CLM-00429,POL-804314,2024-12-16,Settlement Accepted,Phone,Joseph Johnson,,Follow-up Required,False,40.5,Claimant accepted settlement offer. Release form sent for signature.,CMS,2024-12-16
+EVT-000613,CLM-00180,POL-858490,2020-02-23,New Claim,Email,Kimberly Thomas,,Escalated,False,29.5,Claim received and assigned claim number. Initial triage completed.,MobileApp,2020-02-23
+EVT-000614,CLM-00341,POL-238890,2021-08-30,Inspection Scheduled,Phone,Patricia Garcia,,No Action Needed,True,5.3,Field inspection scheduled for 2021-09-10. Inspector: Kimberly Martinez.,MobileApp,2021-08-30
+EVT-000615,CLM-00210,POL-380746,2020-02-25,Inspection Scheduled,Phone,Susan Nguyen,,Follow-up Required,False,1.7,Field inspection scheduled for 2020-02-28. Inspector: Kimberly Martinez.,PhoneSystem,2020-02-25
+EVT-000616,CLM-00430,POL-955662,2020-11-17,New Claim,In-Person,Jason Williams,,Completed,True,55.2,Claim received and assigned claim number. Initial triage completed.,Portal,2020-11-17
+EVT-000617,CLM-00809,POL-108203,2021-08-30,Payment Issued,In-Person,Sandra Anderson,44070.37,Follow-up Required,True,25.0,"Payment of $44,070.37 issued to claimant. Check #991231.",PhoneSystem,2021-08-30
+EVT-000618,CLM-00485,POL-694731,2021-09-20,Payment Issued,Fax,Sandra Anderson,8591.07,Follow-up Required,True,26.4,"Payment of $8,591.07 issued to claimant. Check #473605.",EmailGateway,2021-09-20
+EVT-000619,CLM-00933,POL-454508,2021-12-06,Inspection Scheduled,Phone,Patricia Scott,,Pending,True,41.3,Field inspection scheduled for 2021-12-18. Inspector: Joseph Johnson.,MobileApp,2021-12-06
+EVT-000620,CLM-00136,POL-440035,2023-11-14,New Claim,Email,Joseph Johnson,,Pending,True,45.9,Claim received and assigned claim number. Initial triage completed.,Portal,2023-11-14
+EVT-000621,CLM-00538,POL-158655,2022-10-24,Settlement Accepted,In-Person,Kimberly Thomas,,Escalated,True,4.9,Claimant accepted settlement offer. Release form sent for signature.,CMS,2022-10-24
+EVT-000622,CLM-00032,POL-390120,2024-03-25,Settlement Accepted,Web Portal,Christopher Hall,,Escalated,True,64.4,Claimant accepted settlement offer. Release form sent for signature.,Portal,2024-03-25
+EVT-000623,CLM-00563,POL-153045,2022-03-15,Payment Issued,Fax,Christopher Hall,32010.54,Follow-up Required,True,51.4,"Payment of $32,010.54 issued to claimant. Check #522689.",EmailGateway,2022-03-15
+EVT-000624,CLM-00165,POL-269396,2024-10-24,Document Submitted,In-Person,Susan Harris,,Completed,False,69.6,Document type: Proof of ownership received via In-Person.,PhoneSystem,2024-10-24
+EVT-000625,CLM-00979,POL-431535,2024-09-01,Document Submitted,Fax,Donald Rodriguez,,Follow-up Required,True,37.9,Document type: Signed statement received via Fax.,MobileApp,2024-09-01
+EVT-000626,CLM-00901,POL-887352,2023-01-08,Status Update,Mobile App,Patricia Garcia,,No Action Needed,True,64.1,Claim status updated to Denied. Adjuster notes recorded.,PhoneSystem,2023-01-08
+EVT-000627,CLM-00952,POL-564656,2020-08-15,New Claim,Email,Margaret Rivera,,Completed,True,28.5,Claim received and assigned claim number. Initial triage completed.,MobileApp,2020-08-15
+EVT-000628,CLM-00129,POL-736059,2022-10-02,Settlement Offered,Fax,Sandra Anderson,,No Action Needed,True,42.1,,Portal,2022-10-02
+EVT-000629,CLM-00443,POL-974244,2023-12-29,Inspection Completed,Mobile App,Susan Nguyen,,Follow-up Required,True,5.7,On-site inspection completed. Findings: Further review required.,CMS,2023-12-29
+EVT-000630,CLM-00078,POL-182582,2020-03-20,Status Update,In-Person,Patricia Scott,,Escalated,False,62.7,Claim status updated to Settled. Adjuster notes recorded.,Portal,2020-03-20
+EVT-000631,CLM-00918,POL-102260,2023-02-11,Status Update,Fax,Susan Harris,,Completed,False,44.3,Claim status updated to Closed. Adjuster notes recorded.,Portal,2023-02-11
+EVT-000632,CLM-00146,POL-226882,2022-12-13,Inspection Completed,Email,Joseph Johnson,,Escalated,False,29.2,On-site inspection completed. Findings: Damage exceeds initial estimate.,CMS,2022-12-13
+EVT-000633,CLM-00720,POL-922733,2024-09-29,Settlement Offered,Email,Cynthia Nguyen,,Follow-up Required,True,12.9,,CMS,2024-09-29
+EVT-000634,CLM-00963,POL-359947,2022-12-03,Appeal Filed,Email,Amanda Miller,,Escalated,False,20.7,Claimant filed formal appeal against coverage decision. Appeal team assigned.,Portal,2022-12-03
+EVT-000635,CLM-00261,POL-491559,2021-02-21,Inspection Scheduled,In-Person,Amanda Miller,,Pending,False,16.3,Field inspection scheduled for 2021-02-27. Inspector: Patricia Scott.,PhoneSystem,2021-02-21
+EVT-000636,CLM-00261,POL-491559,2021-09-05,Settlement Accepted,Email,Sharon Anderson,,Follow-up Required,False,1.3,Claimant accepted settlement offer. Release form sent for signature.,MobileApp,2021-09-05
+EVT-000637,CLM-00231,POL-413921,2023-07-28,Settlement Offered,Mobile App,Kimberly Phillips,,Follow-up Required,True,57.0,,Portal,2023-07-28
+EVT-000638,CLM-00318,POL-632496,2021-11-24,Settlement Offered,Phone,James Carter,,Escalated,True,61.0,,Portal,2021-11-24
+EVT-000639,CLM-00438,POL-684004,2021-09-13,Settlement Offered,Email,Susan Nguyen,,Completed,True,1.4,,EmailGateway,2021-09-13
+EVT-000640,CLM-00405,POL-878480,2022-01-03,Settlement Offered,In-Person,Patricia Garcia,,Escalated,True,55.3,,PhoneSystem,2022-01-03
+EVT-000641,CLM-00475,POL-340062,2024-10-21,Settlement Offered,Fax,Kimberly Phillips,,No Action Needed,True,32.4,,EmailGateway,2024-10-21
+EVT-000642,CLM-00123,POL-776856,2021-01-07,New Claim,Web Portal,Patricia Scott,,Completed,True,44.8,Claim received and assigned claim number. Initial triage completed.,CMS,2021-01-07
+EVT-000643,CLM-00406,POL-320861,2024-06-02,Claim Closed,Email,Cynthia Nguyen,,Escalated,False,25.1,Claim closed. Final disposition: Paid in full.,Portal,2024-06-02
+EVT-000644,CLM-00632,POL-141672,2024-10-27,Document Submitted,Mobile App,Patricia Scott,,Follow-up Required,True,55.7,Document type: Medical records received via Mobile App.,PhoneSystem,2024-10-27
+EVT-000645,CLM-00444,POL-167136,2022-09-12,Settlement Offered,In-Person,Kimberly Thomas,,Pending,False,40.6,,Portal,2022-09-12
+EVT-000646,CLM-00692,POL-171262,2022-02-28,Payment Issued,Fax,Christopher Hall,43438.28,Follow-up Required,True,6.3,"Payment of $43,438.28 issued to claimant. Check #339612.",CMS,2022-02-28
+EVT-000647,CLM-00181,POL-439902,2020-02-02,Status Update,Phone,James Carter,,Follow-up Required,True,13.0,Claim status updated to Awaiting Inspection. Adjuster notes recorded.,Portal,2020-02-02
+EVT-000648,CLM-00466,POL-392075,2024-04-24,Inspection Scheduled,Mobile App,Margaret Rivera,,Follow-up Required,False,55.4,Field inspection scheduled for 2024-04-28. Inspector: Sharon Anderson.,MobileApp,2024-04-24
+EVT-000649,CLM-00895,POL-947272,2021-09-13,New Claim,Phone,Donald Rodriguez,,Pending,True,2.0,Claim received and assigned claim number. Initial triage completed.,EmailGateway,2021-09-13
+EVT-000650,CLM-00434,POL-905635,2024-01-21,Appeal Filed,Mobile App,Kimberly Phillips,,No Action Needed,True,25.8,Claimant filed formal appeal against coverage decision. Appeal team assigned.,Portal,2024-01-21
+EVT-000651,CLM-00530,POL-378517,2021-02-12,Settlement Offered,Email,Kimberly Phillips,,Completed,True,6.7,,EmailGateway,2021-02-12
+EVT-000652,CLM-00455,POL-160738,2022-07-26,Payment Issued,Fax,Donald Rodriguez,18405.35,Pending,False,57.0,"Payment of $18,405.35 issued to claimant. Check #529343.",PhoneSystem,2022-07-26
+EVT-000653,CLM-00492,POL-946721,2024-07-29,Claim Closed,In-Person,Susan Harris,,Follow-up Required,True,24.2,Claim closed. Final disposition: Paid in full.,PhoneSystem,2024-07-29
+EVT-000654,CLM-00074,POL-857168,2020-11-12,New Claim,In-Person,Jason Perez,,Completed,True,21.0,Claim received and assigned claim number. Initial triage completed.,PhoneSystem,2020-11-12
+EVT-000655,CLM-00700,POL-431737,2023-01-26,Settlement Offered,Phone,Christopher Hall,,Completed,True,20.1,,CMS,2023-01-26
+EVT-000656,CLM-00402,POL-761759,2021-02-05,Settlement Accepted,Mobile App,Kimberly Thomas,,Completed,True,14.4,Claimant accepted settlement offer. Release form sent for signature.,Portal,2021-02-05
+EVT-000657,CLM-00886,POL-378082,2024-05-30,Settlement Offered,In-Person,Kimberly Martinez,,Follow-up Required,False,14.3,,MobileApp,2024-05-30
+EVT-000658,CLM-00976,POL-570405,2023-09-13,Inspection Scheduled,Phone,Susan Harris,,Escalated,True,31.9,Field inspection scheduled for 2023-09-18. Inspector: Sandra Carter.,EmailGateway,2023-09-13
+EVT-000659,CLM-00636,POL-265840,2020-02-29,Inspection Completed,Mobile App,Patricia Garcia,,Follow-up Required,True,34.9,On-site inspection completed. Findings: Damage consistent with claim.,MobileApp,2020-02-29
+EVT-000660,CLM-00910,POL-428838,2024-12-29,Inspection Completed,Email,Susan Nguyen,,Escalated,True,44.0,On-site inspection completed. Findings: Pre-existing damage noted.,CMS,2024-12-29
+EVT-000661,CLM-00478,POL-783823,2024-04-15,Settlement Accepted,Mobile App,Kimberly Martinez,,No Action Needed,True,30.0,Claimant accepted settlement offer. Release form sent for signature.,EmailGateway,2024-04-15
+EVT-000662,CLM-00740,POL-544154,2024-10-24,Claim Closed,Mobile App,Cynthia Nguyen,,No Action Needed,True,52.7,Claim closed. Final disposition: Duplicate claim.,MobileApp,2024-10-24
+EVT-000663,CLM-00331,POL-178898,2024-02-22,Claim Closed,Fax,Patricia Garcia,,Escalated,False,40.0,Claim closed. Final disposition: Withdrawn by claimant.,EmailGateway,2024-02-22
+EVT-000664,CLM-00767,POL-363626,2021-07-04,Settlement Accepted,Phone,Margaret Rivera,,Pending,False,66.5,Claimant accepted settlement offer. Release form sent for signature.,CMS,2021-07-04
+EVT-000665,CLM-00759,POL-428838,2020-01-10,Document Submitted,Email,Sharon Anderson,,No Action Needed,True,50.2,Document type: Repair estimate received via Email.,Portal,2020-01-10
+EVT-000666,CLM-00355,POL-955662,2020-10-01,Appeal Filed,Email,Kimberly Phillips,,Completed,False,51.3,Claimant filed formal appeal against coverage decision. Appeal team assigned.,EmailGateway,2020-10-01
+EVT-000667,CLM-00037,POL-146228,2022-03-25,Document Submitted,Web Portal,Kimberly Phillips,,Completed,True,44.7,Document type: Signed statement received via Web Portal.,MobileApp,2022-03-25
+EVT-000668,CLM-00726,POL-707040,2020-05-05,Claim Closed,Web Portal,Sandra Anderson,,Pending,True,10.4,Claim closed. Final disposition: Duplicate claim.,Portal,2020-05-05
+EVT-000669,CLM-00442,POL-440035,2022-10-01,Payment Issued,Mobile App,Jessica Baker,34816.33,Completed,True,55.5,"Payment of $34,816.33 issued to claimant. Check #150031.",CMS,2022-10-01
+EVT-000670,CLM-00865,POL-632342,2024-02-08,Document Submitted,Mobile App,Jason Perez,,Escalated,True,44.7,Document type: Police report received via Mobile App.,Portal,2024-02-08
+EVT-000671,CLM-00561,POL-598369,2023-03-10,Document Submitted,Fax,Sharon Anderson,,Follow-up Required,False,18.0,Document type: Police report received via Fax.,PhoneSystem,2023-03-10
+EVT-000672,CLM-00448,POL-363626,2023-04-14,Document Submitted,Email,Amanda Miller,,Follow-up Required,False,70.4,Document type: Photos received via Email.,EmailGateway,2023-04-14
+EVT-000673,CLM-00840,POL-197793,2021-04-01,Claim Closed,Phone,Patricia Garcia,,Follow-up Required,True,13.0,Claim closed. Final disposition: Partially paid.,MobileApp,2021-04-01
+EVT-000674,CLM-00899,POL-692683,2020-02-25,New Claim,Email,Susan Harris,,Pending,True,20.9,Claim received and assigned claim number. Initial triage completed.,EmailGateway,2020-02-25
+EVT-000675,CLM-00686,POL-172574,2021-05-17,Payment Issued,Mobile App,Amanda Miller,5672.0,Escalated,True,71.8,"Payment of $5,672.00 issued to claimant. Check #328129.",PhoneSystem,2021-05-17
+EVT-000676,CLM-00684,POL-299448,2023-08-31,Claim Closed,Mobile App,Kimberly Martinez,,Escalated,False,11.3,Claim closed. Final disposition: Partially paid.,CMS,2023-08-31
+EVT-000677,CLM-00985,POL-887352,2024-06-08,Appeal Filed,Mobile App,Joseph Johnson,,Follow-up Required,True,63.7,Claimant filed formal appeal against coverage decision. Appeal team assigned.,CMS,2024-06-08
+EVT-000678,CLM-00246,POL-156802,2021-09-24,Appeal Filed,Web Portal,Sandra Anderson,,Pending,True,40.6,Claimant filed formal appeal against coverage decision. Appeal team assigned.,Portal,2021-09-24
+EVT-000679,CLM-00709,POL-379786,2020-09-30,Appeal Filed,Web Portal,Kimberly Martinez,,Completed,True,47.1,Claimant filed formal appeal against coverage decision. Appeal team assigned.,MobileApp,2020-09-30
+EVT-000680,CLM-00628,POL-802258,2021-03-30,Appeal Filed,Web Portal,Kimberly Phillips,,No Action Needed,True,47.2,Claimant filed formal appeal against coverage decision. Appeal team assigned.,Portal,2021-03-30
+EVT-000681,CLM-00291,POL-274389,2022-04-16,Settlement Accepted,Fax,Kimberly Phillips,,Completed,True,8.5,Claimant accepted settlement offer. Release form sent for signature.,EmailGateway,2022-04-16
+EVT-000682,CLM-00862,POL-608993,2021-09-29,Settlement Offered,Email,James Carter,,Follow-up Required,False,36.0,,EmailGateway,2021-09-29
+EVT-000683,CLM-00794,POL-217301,2024-11-29,Inspection Completed,Fax,Jason Perez,,Completed,False,15.4,On-site inspection completed. Findings: Further review required.,PhoneSystem,2024-11-29
+EVT-000684,CLM-00663,POL-891952,2020-09-13,Status Update,In-Person,Kimberly Phillips,,Follow-up Required,True,63.7,Claim status updated to Open. Adjuster notes recorded.,Portal,2020-09-13
+EVT-000685,CLM-00738,POL-375504,2022-10-17,Claim Closed,In-Person,Sharon Anderson,,No Action Needed,False,36.4,Claim closed. Final disposition: Paid in full.,EmailGateway,2022-10-17
+EVT-000686,CLM-00230,POL-658582,2022-01-04,Document Submitted,Mobile App,Sandra Carter,,Completed,True,17.9,Document type: Repair estimate received via Mobile App.,CMS,2022-01-04
+EVT-000687,CLM-00819,POL-358607,2021-02-02,Appeal Filed,Phone,Sharon Anderson,,Completed,True,67.8,Claimant filed formal appeal against coverage decision. Appeal team assigned.,CMS,2021-02-02
+EVT-000688,CLM-00921,POL-170674,2023-02-28,Claim Closed,Web Portal,Kimberly Phillips,,Escalated,False,10.8,Claim closed. Final disposition: Partially paid.,CMS,2023-02-28
+EVT-000689,CLM-00428,POL-380746,2022-07-22,Inspection Completed,Email,Donald Rodriguez,,Escalated,False,52.8,On-site inspection completed. Findings: Pre-existing damage noted.,Portal,2022-07-22
+EVT-000690,CLM-00594,POL-542374,2022-10-12,Inspection Scheduled,Email,Sandra Carter,,Follow-up Required,True,45.1,Field inspection scheduled for 2022-10-22. Inspector: Margaret Rivera.,MobileApp,2022-10-12
+EVT-000691,CLM-00725,POL-795613,2021-10-08,Claim Closed,Mobile App,Margaret Rivera,,No Action Needed,True,27.6,Claim closed. Final disposition: Duplicate claim.,CMS,2021-10-08
+EVT-000692,CLM-00806,POL-203198,2022-03-21,New Claim,Email,Patricia Scott,,Follow-up Required,False,40.4,Claim received and assigned claim number. Initial triage completed.,MobileApp,2022-03-21
+EVT-000693,CLM-00311,POL-214576,2020-08-03,Settlement Offered,Email,Sandra Carter,,Pending,True,49.1,,MobileApp,2020-08-03
+EVT-000694,CLM-00165,POL-269396,2024-10-28,Payment Issued,Phone,Susan Nguyen,15635.03,Follow-up Required,True,21.2,"Payment of $15,635.03 issued to claimant. Check #259472.",EmailGateway,2024-10-28
+EVT-000695,CLM-00588,POL-274389,2023-11-24,Settlement Accepted,Phone,Patricia Scott,,No Action Needed,False,47.5,Claimant accepted settlement offer. Release form sent for signature.,MobileApp,2023-11-24
+EVT-000696,CLM-00600,POL-728038,2022-06-27,Settlement Accepted,Fax,Donald Rodriguez,,Pending,True,47.0,Claimant accepted settlement offer. Release form sent for signature.,CMS,2022-06-27
+EVT-000697,CLM-00471,POL-698782,2022-12-16,Settlement Accepted,Fax,Kimberly Phillips,,No Action Needed,False,44.2,Claimant accepted settlement offer. Release form sent for signature.,EmailGateway,2022-12-16
+EVT-000698,CLM-00275,POL-399105,2024-03-28,Document Submitted,Email,Margaret Rivera,,No Action Needed,True,7.0,Document type: Proof of ownership received via Email.,MobileApp,2024-03-28
+EVT-000699,CLM-00748,POL-237174,2024-04-01,Inspection Completed,Web Portal,Christopher Hall,,Completed,True,44.6,On-site inspection completed. Findings: Damage consistent with claim.,PhoneSystem,2024-04-01
+EVT-000700,CLM-00660,POL-234628,2023-12-06,Inspection Scheduled,Fax,Sharon Anderson,,Completed,True,5.8,Field inspection scheduled for 2023-12-12. Inspector: Kimberly Phillips.,Portal,2023-12-06
+EVT-000701,CLM-00155,POL-877236,2020-07-12,Settlement Accepted,Phone,Jessica Baker,,Escalated,False,60.2,Claimant accepted settlement offer. Release form sent for signature.,CMS,2020-07-12
+EVT-000702,CLM-00060,POL-377746,2022-09-23,Document Submitted,Mobile App,James Carter,,Escalated,True,46.3,Document type: Photos received via Mobile App.,EmailGateway,2022-09-23
+EVT-000703,CLM-00295,POL-426858,2020-03-09,New Claim,Web Portal,Jessica Baker,,Pending,True,71.5,Claim received and assigned claim number. Initial triage completed.,Portal,2020-03-09
+EVT-000704,CLM-00637,POL-225710,2021-06-19,Document Submitted,In-Person,Margaret Rivera,,Follow-up Required,False,12.1,Document type: Signed statement received via In-Person.,PhoneSystem,2021-06-19
+EVT-000705,CLM-00538,POL-158655,2024-03-09,Payment Issued,Email,Jessica Baker,15814.32,Pending,True,65.9,"Payment of $15,814.32 issued to claimant. Check #619358.",PhoneSystem,2024-03-09
+EVT-000706,CLM-00595,POL-376183,2023-03-30,Payment Issued,Email,Kimberly Martinez,12819.34,No Action Needed,True,28.9,"Payment of $12,819.34 issued to claimant. Check #917209.",PhoneSystem,2023-03-30
+EVT-000707,CLM-00393,POL-898975,2024-03-06,Settlement Offered,Web Portal,Margaret Rivera,,No Action Needed,False,37.6,,EmailGateway,2024-03-06
+EVT-000708,CLM-00140,POL-300896,2021-11-06,Settlement Offered,Fax,Sharon Anderson,,Escalated,False,13.9,,EmailGateway,2021-11-06
+EVT-000709,CLM-00672,POL-897549,2022-05-14,Document Submitted,Phone,Susan Harris,,Escalated,True,67.4,Document type: Tax return received via Phone.,EmailGateway,2022-05-14
+EVT-000710,CLM-00643,POL-349565,2021-01-10,Settlement Offered,Email,Amanda Miller,,Follow-up Required,False,22.8,,CMS,2021-01-10
+EVT-000711,CLM-00640,POL-179046,2021-08-07,Settlement Accepted,In-Person,Susan Harris,,Follow-up Required,False,71.8,Claimant accepted settlement offer. Release form sent for signature.,CMS,2021-08-07
+EVT-000712,CLM-00320,POL-249811,2021-07-10,Settlement Offered,Phone,Jason Perez,,Completed,True,66.8,,PhoneSystem,2021-07-10
+EVT-000713,CLM-00337,POL-887352,2023-06-29,Inspection Completed,Fax,Christopher Hall,,No Action Needed,True,6.5,On-site inspection completed. Findings: Damage consistent with claim.,MobileApp,2023-06-29
+EVT-000714,CLM-00289,POL-610311,2020-07-30,Document Submitted,Mobile App,Susan Nguyen,,Follow-up Required,True,60.8,Document type: Proof of ownership received via Mobile App.,Portal,2020-07-30
+EVT-000715,CLM-00474,POL-430776,2022-04-10,Claim Closed,Fax,Jason Williams,,Completed,False,20.4,Claim closed. Final disposition: Withdrawn by claimant.,Portal,2022-04-10
+EVT-000716,CLM-00133,POL-399105,2023-09-08,Appeal Filed,Phone,Amanda Miller,,Pending,True,25.2,Claimant filed formal appeal against coverage decision. Appeal team assigned.,Portal,2023-09-08
+EVT-000717,CLM-00171,POL-429963,2022-07-04,Claim Closed,Phone,Jason Perez,,Completed,True,51.1,Claim closed. Final disposition: Denied.,EmailGateway,2022-07-04
+EVT-000718,CLM-00949,POL-491559,2024-09-20,Settlement Accepted,In-Person,James Carter,,Pending,True,58.9,Claimant accepted settlement offer. Release form sent for signature.,EmailGateway,2024-09-20
+EVT-000719,CLM-00664,POL-542666,2021-05-19,Payment Issued,Mobile App,Jason Williams,42861.73,No Action Needed,True,66.7,"Payment of $42,861.73 issued to claimant. Check #706782.",Portal,2021-05-19
+EVT-000720,CLM-00765,POL-330914,2024-06-12,Settlement Accepted,In-Person,Amanda Miller,,No Action Needed,False,65.4,Claimant accepted settlement offer. Release form sent for signature.,PhoneSystem,2024-06-12
+EVT-000721,CLM-00979,POL-431535,2021-09-05,New Claim,Mobile App,Donald Rodriguez,,No Action Needed,True,67.1,Claim received and assigned claim number. Initial triage completed.,PhoneSystem,2021-09-05
+EVT-000722,CLM-00222,POL-500156,2020-11-30,Settlement Accepted,Phone,Christopher Hall,,Escalated,True,49.0,Claimant accepted settlement offer. Release form sent for signature.,MobileApp,2020-11-30
+EVT-000723,CLM-00619,POL-324130,2023-08-06,Inspection Scheduled,Email,Patricia Scott,,Pending,False,25.5,Field inspection scheduled for 2023-08-19. Inspector: Sandra Carter.,CMS,2023-08-06
+EVT-000724,CLM-00280,POL-341292,2020-02-21,Appeal Filed,Web Portal,Cynthia Nguyen,,Pending,True,31.1,Claimant filed formal appeal against coverage decision. Appeal team assigned.,PhoneSystem,2020-02-21
+EVT-000725,CLM-00452,POL-110139,2020-04-07,Inspection Completed,In-Person,Patricia Scott,,Completed,False,46.6,On-site inspection completed. Findings: Pre-existing damage noted.,Portal,2020-04-07
+EVT-000726,CLM-00185,POL-260265,2023-01-05,Inspection Scheduled,Web Portal,Susan Nguyen,,Pending,True,46.1,Field inspection scheduled for 2023-01-16. Inspector: Kimberly Martinez.,EmailGateway,2023-01-05
+EVT-000727,CLM-00090,POL-617488,2024-09-10,New Claim,In-Person,Kimberly Thomas,,Pending,True,18.9,Claim received and assigned claim number. Initial triage completed.,EmailGateway,2024-09-10
+EVT-000728,CLM-00469,POL-837715,2022-01-04,Claim Closed,Email,Kimberly Martinez,,Follow-up Required,True,24.9,Claim closed. Final disposition: Denied.,MobileApp,2022-01-04
+EVT-000729,CLM-00034,POL-430776,2023-10-09,Settlement Accepted,Mobile App,Susan Nguyen,,Pending,True,62.5,Claimant accepted settlement offer. Release form sent for signature.,CMS,2023-10-09
+EVT-000730,CLM-00627,POL-346629,2022-04-14,Settlement Offered,Fax,Sandra Anderson,,Pending,True,27.5,,Portal,2022-04-14
+EVT-000731,CLM-00531,POL-159642,2022-11-22,Document Submitted,In-Person,Jason Perez,,No Action Needed,False,35.2,Document type: Police report received via In-Person.,CMS,2022-11-22
+EVT-000732,CLM-00546,POL-908577,2024-07-24,Inspection Scheduled,Email,Christopher Hall,,Completed,True,15.7,Field inspection scheduled for 2024-08-04. Inspector: Sharon Anderson.,MobileApp,2024-07-24
+EVT-000733,CLM-00092,POL-817870,2023-10-08,New Claim,Fax,Susan Nguyen,,Completed,True,63.9,Claim received and assigned claim number. Initial triage completed.,PhoneSystem,2023-10-08
+EVT-000734,CLM-00834,POL-214576,2021-09-04,Appeal Filed,Phone,Jason Williams,,Follow-up Required,False,48.9,Claimant filed formal appeal against coverage decision. Appeal team assigned.,Portal,2021-09-04
+EVT-000735,CLM-00107,POL-335612,2023-09-21,Claim Closed,Web Portal,Susan Nguyen,,No Action Needed,True,49.1,Claim closed. Final disposition: Duplicate claim.,CMS,2023-09-21
+EVT-000736,CLM-00545,POL-299122,2021-11-09,Settlement Accepted,Phone,Jason Williams,,Completed,True,41.2,Claimant accepted settlement offer. Release form sent for signature.,EmailGateway,2021-11-09
+EVT-000737,CLM-00072,POL-630458,2020-11-15,Inspection Scheduled,In-Person,Sharon Anderson,,Follow-up Required,False,56.6,Field inspection scheduled for 2020-11-19. Inspector: Sandra Carter.,CMS,2020-11-15
+EVT-000738,CLM-00791,POL-300896,2023-06-24,Settlement Accepted,Phone,Kimberly Martinez,,Completed,True,30.3,Claimant accepted settlement offer. Release form sent for signature.,PhoneSystem,2023-06-24
+EVT-000739,CLM-00566,POL-260263,2021-09-20,Inspection Completed,Mobile App,Joseph Johnson,,Escalated,True,31.4,On-site inspection completed. Findings: Pre-existing damage noted.,EmailGateway,2021-09-20
+EVT-000740,CLM-00336,POL-905934,2022-05-14,Settlement Accepted,Phone,Cynthia Nguyen,,Pending,True,32.7,Claimant accepted settlement offer. Release form sent for signature.,EmailGateway,2022-05-14
+EVT-000741,CLM-00187,POL-922733,2023-07-20,Claim Closed,Mobile App,James Carter,,No Action Needed,True,39.1,Claim closed. Final disposition: Denied.,PhoneSystem,2023-07-20
+EVT-000742,CLM-00427,POL-783823,2020-06-01,Settlement Offered,Email,Kimberly Phillips,,No Action Needed,False,61.1,,PhoneSystem,2020-06-01
+EVT-000743,CLM-00646,POL-379786,2020-01-11,New Claim,Phone,Kimberly Phillips,,Follow-up Required,True,14.2,Claim received and assigned claim number. Initial triage completed.,MobileApp,2020-01-11
+EVT-000744,CLM-00385,POL-817870,2020-02-18,Settlement Offered,Phone,Kimberly Phillips,,Escalated,True,63.3,,PhoneSystem,2020-02-18
+EVT-000745,CLM-00391,POL-260265,2020-12-22,Document Submitted,Fax,Patricia Garcia,,Follow-up Required,True,58.1,Document type: Proof of ownership received via Fax.,PhoneSystem,2020-12-22
+EVT-000746,CLM-00647,POL-806073,2024-09-19,Payment Issued,Mobile App,Kimberly Thomas,5207.21,Follow-up Required,False,53.7,"Payment of $5,207.21 issued to claimant. Check #432419.",CMS,2024-09-19
+EVT-000747,CLM-00746,POL-824586,2022-07-20,Inspection Completed,Phone,Jason Williams,,Completed,False,36.7,On-site inspection completed. Findings: Pre-existing damage noted.,EmailGateway,2022-07-20
+EVT-000748,CLM-00420,POL-500156,2022-10-08,Settlement Offered,Web Portal,Donald Rodriguez,,No Action Needed,True,49.8,,EmailGateway,2022-10-08
+EVT-000749,CLM-00515,POL-681542,2021-07-10,Document Submitted,Mobile App,Jessica Baker,,Pending,True,24.9,Document type: Police report received via Mobile App.,MobileApp,2021-07-10
+EVT-000750,CLM-00916,POL-609231,2024-03-25,Appeal Filed,Web Portal,Sandra Carter,,Completed,True,48.7,Claimant filed formal appeal against coverage decision. Appeal team assigned.,PhoneSystem,2024-03-25
+EVT-000751,CLM-00876,POL-658582,2022-08-08,Appeal Filed,Email,Kimberly Thomas,,Follow-up Required,True,29.6,Claimant filed formal appeal against coverage decision. Appeal team assigned.,MobileApp,2022-08-08
+EVT-000752,CLM-00437,POL-723398,2022-08-04,Settlement Offered,Phone,Patricia Scott,,No Action Needed,True,18.8,,MobileApp,2022-08-04
+EVT-000753,CLM-00593,POL-160738,2020-06-27,Document Submitted,In-Person,Joseph Johnson,,Pending,False,43.5,Document type: Photos received via In-Person.,MobileApp,2020-06-27
+EVT-000754,CLM-00005,POL-480612,2024-05-26,Status Update,Email,Jason Perez,,Pending,False,28.2,Claim status updated to Denied. Adjuster notes recorded.,PhoneSystem,2024-05-26
+EVT-000755,CLM-00070,POL-414569,2023-07-01,Appeal Filed,Web Portal,Susan Harris,,Pending,False,22.1,Claimant filed formal appeal against coverage decision. Appeal team assigned.,MobileApp,2023-07-01
+EVT-000756,CLM-00088,POL-156802,2021-08-31,Payment Issued,In-Person,Sandra Carter,11880.25,Pending,True,59.6,"Payment of $11,880.25 issued to claimant. Check #434758.",CMS,2021-08-31
+EVT-000757,CLM-00927,POL-246413,2020-07-29,Inspection Scheduled,Mobile App,Sandra Carter,,Follow-up Required,True,63.2,Field inspection scheduled for 2020-08-06. Inspector: Donald Rodriguez.,CMS,2020-07-29
+EVT-000758,CLM-00247,POL-905934,2020-11-22,Document Submitted,Web Portal,Margaret Rivera,,Pending,False,19.6,Document type: Signed statement received via Web Portal.,PhoneSystem,2020-11-22
+EVT-000759,CLM-00460,POL-360735,2023-08-13,Appeal Filed,Mobile App,Amanda Miller,,Pending,False,24.2,Claimant filed formal appeal against coverage decision. Appeal team assigned.,MobileApp,2023-08-13
+EVT-000760,CLM-00806,POL-203198,2024-09-29,Inspection Scheduled,Fax,Margaret Rivera,,No Action Needed,True,61.2,Field inspection scheduled for 2024-10-09. Inspector: Christopher Hall.,EmailGateway,2024-09-29
+EVT-000761,CLM-00687,POL-260265,2024-12-15,New Claim,Phone,Susan Harris,,Escalated,False,60.2,Claim received and assigned claim number. Initial triage completed.,EmailGateway,2024-12-15
+EVT-000762,CLM-00211,POL-680828,2021-05-18,Settlement Offered,Phone,Joseph Johnson,,Follow-up Required,False,65.5,,EmailGateway,2021-05-18
+EVT-000763,CLM-00321,POL-769987,2020-04-18,Settlement Accepted,Phone,Patricia Garcia,,Escalated,True,21.1,Claimant accepted settlement offer. Release form sent for signature.,MobileApp,2020-04-18
+EVT-000764,CLM-00992,POL-956795,2020-07-29,Appeal Filed,In-Person,Sharon Anderson,,Escalated,True,45.9,Claimant filed formal appeal against coverage decision. Appeal team assigned.,EmailGateway,2020-07-29
+EVT-000765,CLM-00137,POL-725380,2021-07-24,Inspection Scheduled,Fax,Amanda Miller,,Pending,True,6.9,Field inspection scheduled for 2021-07-30. Inspector: Susan Harris.,MobileApp,2021-07-24
+EVT-000766,CLM-00152,POL-624902,2023-06-07,Document Submitted,Email,Kimberly Phillips,,Follow-up Required,False,69.9,Document type: Signed statement received via Email.,PhoneSystem,2023-06-07
+EVT-000767,CLM-00009,POL-923267,2022-02-16,Appeal Filed,Phone,Kimberly Martinez,,No Action Needed,True,7.3,Claimant filed formal appeal against coverage decision. Appeal team assigned.,PhoneSystem,2022-02-16
+EVT-000768,CLM-00999,POL-359947,2020-02-29,Payment Issued,Web Portal,Kimberly Phillips,18241.54,Completed,True,30.8,"Payment of $18,241.54 issued to claimant. Check #940455.",EmailGateway,2020-02-29
+EVT-000769,CLM-00492,POL-946721,2023-09-10,Document Submitted,Fax,Patricia Scott,,Pending,True,66.1,Document type: Police report received via Fax.,EmailGateway,2023-09-10
+EVT-000770,CLM-01000,POL-704201,2021-05-18,Claim Closed,In-Person,Amanda Miller,,Completed,True,43.6,Claim closed. Final disposition: Withdrawn by claimant.,MobileApp,2021-05-18
+EVT-000771,CLM-00743,POL-163556,2024-12-30,Settlement Offered,Fax,Kimberly Phillips,,Pending,True,49.7,,MobileApp,2024-12-30
+EVT-000772,CLM-00907,POL-214576,2020-08-13,Appeal Filed,Web Portal,Jason Perez,,Pending,True,23.9,Claimant filed formal appeal against coverage decision. Appeal team assigned.,PhoneSystem,2020-08-13
+EVT-000773,CLM-00484,POL-446479,2024-12-27,New Claim,Phone,Jason Perez,,Completed,True,1.2,Claim received and assigned claim number. Initial triage completed.,PhoneSystem,2024-12-27
+EVT-000774,CLM-00962,POL-891952,2021-11-01,Inspection Completed,Phone,Joseph Johnson,,Completed,True,67.0,On-site inspection completed. Findings: Further review required.,MobileApp,2021-11-01
+EVT-000775,CLM-00621,POL-439902,2024-04-17,Inspection Scheduled,Email,Patricia Garcia,,Escalated,True,49.6,Field inspection scheduled for 2024-04-25. Inspector: Cynthia Nguyen.,Portal,2024-04-17
+EVT-000776,CLM-00179,POL-724834,2023-08-13,Status Update,Email,Patricia Garcia,,Pending,True,16.1,Claim status updated to Denied. Adjuster notes recorded.,CMS,2023-08-13
+EVT-000777,CLM-00245,POL-392004,2020-10-03,Document Submitted,Mobile App,Patricia Scott,,Escalated,False,64.9,Document type: Tax return received via Mobile App.,Portal,2020-10-03
+EVT-000778,CLM-00013,POL-987204,2023-05-24,Settlement Accepted,Phone,Sandra Carter,,No Action Needed,False,59.5,Claimant accepted settlement offer. Release form sent for signature.,EmailGateway,2023-05-24
+EVT-000779,CLM-00541,POL-994141,2021-09-16,Inspection Completed,Email,Christopher Hall,,Follow-up Required,True,16.2,On-site inspection completed. Findings: Damage exceeds initial estimate.,CMS,2021-09-16
+EVT-000780,CLM-00800,POL-662336,2020-05-22,Status Update,In-Person,Kimberly Phillips,,Pending,False,50.9,Claim status updated to Open. Adjuster notes recorded.,PhoneSystem,2020-05-22
+EVT-000781,CLM-00025,POL-677057,2022-05-13,New Claim,Web Portal,Kimberly Phillips,,Pending,False,40.3,Claim received and assigned claim number. Initial triage completed.,PhoneSystem,2022-05-13
+EVT-000782,CLM-00889,POL-430776,2021-12-25,Settlement Offered,Fax,Sandra Anderson,,Escalated,True,58.2,,CMS,2021-12-25
+EVT-000783,CLM-00173,POL-590785,2022-06-21,Payment Issued,Email,Christopher Hall,46242.24,Completed,True,13.7,"Payment of $46,242.24 issued to claimant. Check #738440.",PhoneSystem,2022-06-21
+EVT-000784,CLM-00763,POL-313487,2020-01-29,New Claim,In-Person,Amanda Miller,,Pending,True,70.8,Claim received and assigned claim number. Initial triage completed.,MobileApp,2020-01-29
+EVT-000785,CLM-00798,POL-373432,2024-06-07,Claim Closed,Mobile App,Kimberly Phillips,,Escalated,True,43.9,Claim closed. Final disposition: Denied.,MobileApp,2024-06-07
+EVT-000786,CLM-00676,POL-376807,2020-07-06,Settlement Offered,Phone,Sandra Carter,,Escalated,True,12.9,,Portal,2020-07-06
+EVT-000787,CLM-00110,POL-542374,2021-03-10,Settlement Accepted,Web Portal,Kimberly Thomas,,Completed,True,21.2,Claimant accepted settlement offer. Release form sent for signature.,Portal,2021-03-10
+EVT-000788,CLM-00637,POL-225710,2021-11-08,Appeal Filed,Phone,Amanda Miller,,Escalated,False,46.4,Claimant filed formal appeal against coverage decision. Appeal team assigned.,CMS,2021-11-08
+EVT-000789,CLM-00174,POL-245051,2020-02-18,Settlement Offered,Web Portal,Kimberly Phillips,,Follow-up Required,True,6.5,,EmailGateway,2020-02-18
+EVT-000790,CLM-00008,POL-688637,2022-06-10,Document Submitted,Email,Margaret Rivera,,Pending,False,61.4,Document type: Repair estimate received via Email.,CMS,2022-06-10
+EVT-000791,CLM-00359,POL-299448,2021-04-11,Inspection Completed,In-Person,Kimberly Thomas,,Follow-up Required,False,27.8,On-site inspection completed. Findings: Damage exceeds initial estimate.,Portal,2021-04-11
+EVT-000792,CLM-00953,POL-785743,2024-05-01,Document Submitted,Web Portal,Kimberly Phillips,,No Action Needed,True,39.8,Document type: Photos received via Web Portal.,CMS,2024-05-01
+EVT-000793,CLM-00238,POL-428838,2023-03-30,Status Update,Web Portal,Kimberly Phillips,,Follow-up Required,True,5.0,Claim status updated to Pending Documentation. Adjuster notes recorded.,PhoneSystem,2023-03-30
+EVT-000794,CLM-00255,POL-787277,2020-05-23,Inspection Scheduled,Phone,Sandra Carter,,Escalated,True,69.7,Field inspection scheduled for 2020-06-04. Inspector: Kimberly Martinez.,PhoneSystem,2020-05-23
+EVT-000795,CLM-00247,POL-905934,2023-12-25,Payment Issued,Fax,Joseph Johnson,46001.52,Follow-up Required,True,29.9,"Payment of $46,001.52 issued to claimant. Check #714653.",Portal,2023-12-25
+EVT-000796,CLM-00514,POL-858490,2020-01-17,Document Submitted,Fax,Kimberly Thomas,,Completed,True,46.4,Document type: Proof of ownership received via Fax.,EmailGateway,2020-01-17
+EVT-000797,CLM-00274,POL-354801,2023-02-09,Inspection Completed,Fax,Patricia Scott,,Follow-up Required,False,59.7,On-site inspection completed. Findings: Further review required.,Portal,2023-02-09
+EVT-000798,CLM-00891,POL-220116,2024-09-07,Document Submitted,Phone,Kimberly Thomas,,Follow-up Required,True,12.3,Document type: Photos received via Phone.,Portal,2024-09-07
+EVT-000799,CLM-00684,POL-299448,2024-10-10,Inspection Completed,In-Person,Sandra Carter,,Completed,False,40.0,On-site inspection completed. Findings: Damage less than reported.,Portal,2024-10-10
+EVT-000800,CLM-00351,POL-716886,2023-07-09,Appeal Filed,Email,James Carter,,Pending,False,24.3,Claimant filed formal appeal against coverage decision. Appeal team assigned.,EmailGateway,2023-07-09
+EVT-000801,CLM-00125,POL-955662,2022-01-17,Settlement Offered,Fax,Jason Perez,,Pending,False,20.6,,MobileApp,2022-01-17
+EVT-000802,CLM-00304,POL-109767,2022-07-21,Claim Closed,Fax,Patricia Scott,,Escalated,False,7.6,Claim closed. Final disposition: Duplicate claim.,Portal,2022-07-21
+EVT-000803,CLM-00323,POL-712024,2021-04-08,Appeal Filed,Phone,Joseph Johnson,,No Action Needed,False,22.5,Claimant filed formal appeal against coverage decision. Appeal team assigned.,MobileApp,2021-04-08
+EVT-000804,CLM-00759,POL-428838,2020-05-09,Document Submitted,Mobile App,Joseph Johnson,,No Action Needed,True,8.2,Document type: Police report received via Mobile App.,EmailGateway,2020-05-09
+EVT-000805,CLM-00966,POL-922157,2021-08-29,Settlement Accepted,Phone,Kimberly Phillips,,Follow-up Required,True,4.9,Claimant accepted settlement offer. Release form sent for signature.,MobileApp,2021-08-29
+EVT-000806,CLM-00549,POL-676510,2024-09-24,Status Update,Web Portal,Sharon Anderson,,Escalated,True,50.5,Claim status updated to In Litigation. Adjuster notes recorded.,Portal,2024-09-24
+EVT-000807,CLM-00284,POL-238890,2024-01-07,Document Submitted,Email,Sandra Anderson,,Follow-up Required,True,56.6,Document type: Photos received via Email.,CMS,2024-01-07
+EVT-000808,CLM-00486,POL-374680,2023-12-28,Document Submitted,Fax,James Carter,,No Action Needed,True,15.6,Document type: Repair estimate received via Fax.,MobileApp,2023-12-28
+EVT-000809,CLM-00417,POL-107540,2022-09-16,Inspection Completed,Mobile App,Sandra Carter,,No Action Needed,True,32.7,On-site inspection completed. Findings: Further review required.,EmailGateway,2022-09-16
+EVT-000810,CLM-00844,POL-265840,2023-08-06,Settlement Accepted,Web Portal,Kimberly Martinez,,Follow-up Required,False,50.2,Claimant accepted settlement offer. Release form sent for signature.,PhoneSystem,2023-08-06
+EVT-000811,CLM-00734,POL-684004,2022-11-28,Status Update,In-Person,Sandra Carter,,No Action Needed,True,68.5,Claim status updated to Closed. Adjuster notes recorded.,Portal,2022-11-28
+EVT-000812,CLM-00726,POL-707040,2022-04-23,Settlement Offered,Fax,James Carter,,Completed,True,68.8,,MobileApp,2022-04-23
+EVT-000813,CLM-00228,POL-946305,2022-03-28,Inspection Scheduled,Phone,Sandra Carter,,Pending,True,34.9,Field inspection scheduled for 2022-04-06. Inspector: Susan Nguyen.,MobileApp,2022-03-28
+EVT-000814,CLM-00910,POL-428838,2021-10-21,Claim Closed,Mobile App,Patricia Scott,,Escalated,True,52.4,Claim closed. Final disposition: Partially paid.,Portal,2021-10-21
+EVT-000815,CLM-00694,POL-551989,2024-08-03,Status Update,Web Portal,Susan Nguyen,,Escalated,True,69.0,Claim status updated to Under Review. Adjuster notes recorded.,PhoneSystem,2024-08-03
+EVT-000816,CLM-00754,POL-398830,2024-05-14,Status Update,Web Portal,Kimberly Thomas,,Completed,False,68.2,Claim status updated to Approved. Adjuster notes recorded.,MobileApp,2024-05-14
+EVT-000817,CLM-00922,POL-765095,2024-04-17,Claim Closed,Email,Donald Rodriguez,,Escalated,True,54.3,Claim closed. Final disposition: Denied.,MobileApp,2024-04-17
+EVT-000818,CLM-00800,POL-662336,2024-06-02,Document Submitted,Fax,Kimberly Martinez,,Pending,True,60.0,Document type: Police report received via Fax.,Portal,2024-06-02
+EVT-000819,CLM-00454,POL-681542,2020-05-04,Appeal Filed,Phone,Jason Perez,,No Action Needed,True,10.7,Claimant filed formal appeal against coverage decision. Appeal team assigned.,EmailGateway,2020-05-04
+EVT-000820,CLM-00628,POL-802258,2020-08-06,Settlement Offered,Fax,Sandra Anderson,,Escalated,True,71.2,,EmailGateway,2020-08-06
+EVT-000821,CLM-00602,POL-454508,2024-01-02,Document Submitted,Fax,Cynthia Nguyen,,Pending,True,23.0,Document type: Tax return received via Fax.,MobileApp,2024-01-02
+EVT-000822,CLM-00403,POL-246991,2020-01-28,Claim Closed,Phone,Kimberly Thomas,,Follow-up Required,True,65.3,Claim closed. Final disposition: Partially paid.,Portal,2020-01-28
+EVT-000823,CLM-00456,POL-678478,2024-05-06,New Claim,Fax,Jessica Baker,,Completed,False,9.3,Claim received and assigned claim number. Initial triage completed.,MobileApp,2024-05-06
+EVT-000824,CLM-00835,POL-211579,2022-05-03,Document Submitted,Web Portal,James Carter,,Follow-up Required,False,20.0,Document type: Tax return received via Web Portal.,EmailGateway,2022-05-03
+EVT-000825,CLM-00651,POL-665158,2023-09-22,Inspection Completed,Fax,Joseph Johnson,,No Action Needed,True,37.5,On-site inspection completed. Findings: Further review required.,Portal,2023-09-22
+EVT-000826,CLM-00396,POL-158655,2024-08-02,Settlement Offered,Web Portal,Donald Rodriguez,,Completed,True,65.9,,EmailGateway,2024-08-02
+EVT-000827,CLM-00240,POL-356150,2021-12-19,Inspection Scheduled,Email,Jason Perez,,Completed,False,52.0,Field inspection scheduled for 2021-12-25. Inspector: Jessica Baker.,PhoneSystem,2021-12-19
+EVT-000828,CLM-00328,POL-992697,2021-09-26,Settlement Offered,In-Person,Amanda Miller,,No Action Needed,True,1.8,,CMS,2021-09-26
+EVT-000829,CLM-00749,POL-480612,2021-03-05,Payment Issued,Mobile App,Susan Harris,29414.63,No Action Needed,False,31.9,"Payment of $29,414.63 issued to claimant. Check #174429.",EmailGateway,2021-03-05
+EVT-000830,CLM-00264,POL-245051,2021-08-01,New Claim,In-Person,James Carter,,Completed,True,69.3,Claim received and assigned claim number. Initial triage completed.,EmailGateway,2021-08-01
+EVT-000831,CLM-00600,POL-728038,2024-02-26,Document Submitted,Mobile App,James Carter,,Pending,True,71.2,Document type: Medical records received via Mobile App.,PhoneSystem,2024-02-26
+EVT-000832,CLM-00040,POL-865388,2024-07-30,Settlement Accepted,In-Person,Margaret Rivera,,Completed,True,70.9,Claimant accepted settlement offer. Release form sent for signature.,MobileApp,2024-07-30
+EVT-000833,CLM-00953,POL-785743,2023-01-22,Document Submitted,Web Portal,Susan Nguyen,,No Action Needed,True,33.4,Document type: Tax return received via Web Portal.,Portal,2023-01-22
+EVT-000834,CLM-00549,POL-676510,2024-04-17,New Claim,Mobile App,Amanda Miller,,Completed,True,61.4,Claim received and assigned claim number. Initial triage completed.,Portal,2024-04-17
+EVT-000835,CLM-00548,POL-310922,2023-11-21,Status Update,Phone,Susan Harris,,Escalated,True,33.5,Claim status updated to Open. Adjuster notes recorded.,EmailGateway,2023-11-21
+EVT-000836,CLM-00128,POL-109767,2021-06-06,New Claim,Fax,James Carter,,Follow-up Required,True,34.9,Claim received and assigned claim number. Initial triage completed.,Portal,2021-06-06
+EVT-000837,CLM-00878,POL-231869,2021-04-06,Settlement Accepted,Email,Susan Harris,,Completed,True,20.4,Claimant accepted settlement offer. Release form sent for signature.,MobileApp,2021-04-06
+EVT-000838,CLM-00617,POL-237174,2020-10-09,Status Update,Fax,Susan Harris,,Escalated,False,45.0,Claim status updated to Escalated. Adjuster notes recorded.,MobileApp,2020-10-09
+EVT-000839,CLM-00534,POL-156802,2024-09-10,Payment Issued,Fax,Susan Harris,19279.17,No Action Needed,True,16.3,"Payment of $19,279.17 issued to claimant. Check #731214.",Portal,2024-09-10
+EVT-000840,CLM-00533,POL-617488,2024-01-28,Document Submitted,Email,Cynthia Nguyen,,Pending,False,23.2,Document type: Signed statement received via Email.,EmailGateway,2024-01-28
+EVT-000841,CLM-00140,POL-300896,2022-08-10,New Claim,Web Portal,Sandra Carter,,Follow-up Required,False,11.3,Claim received and assigned claim number. Initial triage completed.,EmailGateway,2022-08-10
+EVT-000842,CLM-00632,POL-141672,2022-04-02,Inspection Completed,Mobile App,Jason Perez,,Completed,True,61.5,On-site inspection completed. Findings: Further review required.,MobileApp,2022-04-02
+EVT-000843,CLM-00642,POL-245051,2021-06-04,Settlement Accepted,Email,James Carter,,Pending,True,44.6,Claimant accepted settlement offer. Release form sent for signature.,EmailGateway,2021-06-04
+EVT-000844,CLM-00521,POL-632342,2023-02-27,Settlement Accepted,Mobile App,Kimberly Phillips,,No Action Needed,True,31.4,Claimant accepted settlement offer. Release form sent for signature.,CMS,2023-02-27
+EVT-000845,CLM-00581,POL-944151,2023-12-06,Settlement Offered,Web Portal,Kimberly Thomas,,Escalated,True,63.1,,MobileApp,2023-12-06
+EVT-000846,CLM-00003,POL-608993,2020-06-29,Inspection Completed,Email,Patricia Garcia,,Escalated,True,22.1,On-site inspection completed. Findings: Pre-existing damage noted.,MobileApp,2020-06-29
+EVT-000847,CLM-00329,POL-392075,2023-08-29,Settlement Accepted,Web Portal,Donald Rodriguez,,No Action Needed,True,16.1,Claimant accepted settlement offer. Release form sent for signature.,EmailGateway,2023-08-29
+EVT-000848,CLM-00400,POL-413921,2020-02-27,Status Update,In-Person,Jessica Baker,,No Action Needed,True,50.3,Claim status updated to Approved. Adjuster notes recorded.,Portal,2020-02-27
+EVT-000849,CLM-00661,POL-680099,2024-07-29,Inspection Completed,Email,James Carter,,Completed,True,54.8,On-site inspection completed. Findings: Further review required.,Portal,2024-07-29
+EVT-000850,CLM-00336,POL-905934,2023-03-18,Claim Closed,Phone,Sandra Anderson,,Follow-up Required,True,52.5,Claim closed. Final disposition: Duplicate claim.,MobileApp,2023-03-18
+EVT-000851,CLM-00589,POL-806073,2022-11-09,Status Update,Fax,Margaret Rivera,,Escalated,False,51.4,Claim status updated to In Litigation. Adjuster notes recorded.,Portal,2022-11-09
+EVT-000852,CLM-00320,POL-249811,2023-08-22,Document Submitted,Web Portal,Sandra Carter,,No Action Needed,True,10.7,Document type: Repair estimate received via Web Portal.,Portal,2023-08-22
+EVT-000853,CLM-00896,POL-179046,2024-02-20,Settlement Accepted,Email,Sandra Carter,,Escalated,True,7.6,Claimant accepted settlement offer. Release form sent for signature.,CMS,2024-02-20
+EVT-000854,CLM-00041,POL-755674,2023-12-11,Settlement Offered,Email,Cynthia Nguyen,,No Action Needed,True,46.7,,PhoneSystem,2023-12-11
+EVT-000855,CLM-00294,POL-431535,2024-06-23,Status Update,Web Portal,Jason Williams,,Escalated,True,36.6,Claim status updated to In Litigation. Adjuster notes recorded.,MobileApp,2024-06-23
+EVT-000856,CLM-00374,POL-946305,2024-12-07,Inspection Completed,Mobile App,Jason Williams,,No Action Needed,True,39.4,On-site inspection completed. Findings: Damage less than reported.,PhoneSystem,2024-12-07
+EVT-000857,CLM-00046,POL-857168,2020-10-04,Appeal Filed,Email,Sandra Anderson,,Escalated,True,57.0,Claimant filed formal appeal against coverage decision. Appeal team assigned.,PhoneSystem,2020-10-04
+EVT-000858,CLM-00970,POL-697347,2023-05-04,Inspection Completed,Mobile App,Jason Perez,,Completed,True,31.6,On-site inspection completed. Findings: Damage exceeds initial estimate.,EmailGateway,2023-05-04
+EVT-000859,CLM-00634,POL-267753,2023-02-15,Settlement Accepted,In-Person,Jessica Baker,,Escalated,True,34.2,Claimant accepted settlement offer. Release form sent for signature.,EmailGateway,2023-02-15
+EVT-000860,CLM-00206,POL-946305,2022-08-16,Inspection Scheduled,Fax,Patricia Scott,,Follow-up Required,False,38.7,Field inspection scheduled for 2022-08-20. Inspector: Jessica Baker.,CMS,2022-08-16
+EVT-000861,CLM-00366,POL-196781,2020-11-03,Claim Closed,Phone,Joseph Johnson,,Completed,True,25.0,Claim closed. Final disposition: Duplicate claim.,PhoneSystem,2020-11-03
+EVT-000862,CLM-00952,POL-564656,2022-11-22,Settlement Offered,In-Person,Joseph Johnson,,Pending,True,62.4,,CMS,2022-11-22
+EVT-000863,CLM-00980,POL-329974,2021-04-19,Settlement Offered,Email,Patricia Scott,,Completed,True,30.4,,EmailGateway,2021-04-19
+EVT-000864,CLM-00557,POL-609597,2024-02-12,Inspection Completed,Fax,Sandra Anderson,,Pending,False,5.4,On-site inspection completed. Findings: Damage consistent with claim.,MobileApp,2024-02-12
+EVT-000865,CLM-00390,POL-454508,2021-12-24,Settlement Accepted,Web Portal,Sharon Anderson,,Escalated,True,40.8,Claimant accepted settlement offer. Release form sent for signature.,Portal,2021-12-24
+EVT-000866,CLM-00178,POL-656116,2024-07-16,Document Submitted,Phone,Donald Rodriguez,,Follow-up Required,True,31.8,Document type: Medical records received via Phone.,MobileApp,2024-07-16
+EVT-000867,CLM-00947,POL-772097,2022-11-10,Settlement Offered,In-Person,Kimberly Phillips,,Pending,True,23.6,,CMS,2022-11-10
+EVT-000868,CLM-00078,POL-182582,2022-07-13,Settlement Offered,Web Portal,Kimberly Thomas,,Follow-up Required,True,14.7,,MobileApp,2022-07-13
+EVT-000869,CLM-00805,POL-688637,2024-08-06,Payment Issued,Mobile App,James Carter,44051.48,No Action Needed,True,52.5,"Payment of $44,051.48 issued to claimant. Check #394152.",EmailGateway,2024-08-06
+EVT-000870,CLM-00632,POL-141672,2022-02-17,Inspection Completed,Email,Jessica Baker,,Pending,True,42.9,On-site inspection completed. Findings: Damage exceeds initial estimate.,Portal,2022-02-17
+EVT-000871,CLM-00143,POL-160738,2024-07-29,Status Update,In-Person,Susan Nguyen,,Escalated,True,19.7,Claim status updated to Awaiting Inspection. Adjuster notes recorded.,CMS,2024-07-29
+EVT-000872,CLM-00406,POL-320861,2023-05-30,Appeal Filed,Phone,Sandra Carter,,Escalated,False,37.7,Claimant filed formal appeal against coverage decision. Appeal team assigned.,Portal,2023-05-30
+EVT-000873,CLM-00125,POL-955662,2021-10-12,New Claim,Email,Susan Harris,,Completed,True,49.4,Claim received and assigned claim number. Initial triage completed.,EmailGateway,2021-10-12
+EVT-000874,CLM-00361,POL-260263,2021-07-22,Inspection Completed,In-Person,Amanda Miller,,Escalated,True,53.2,On-site inspection completed. Findings: Damage exceeds initial estimate.,EmailGateway,2021-07-22
+EVT-000875,CLM-00629,POL-898975,2021-11-15,Settlement Accepted,Fax,Susan Harris,,Pending,True,46.0,Claimant accepted settlement offer. Release form sent for signature.,Portal,2021-11-15
+EVT-000876,CLM-00808,POL-479580,2020-02-14,Document Submitted,Phone,Sharon Anderson,,Pending,True,24.6,Document type: Proof of ownership received via Phone.,Portal,2020-02-14
+EVT-000877,CLM-00570,POL-100599,2020-08-16,Payment Issued,Web Portal,Susan Nguyen,28668.43,No Action Needed,False,6.6,"Payment of $28,668.43 issued to claimant. Check #963050.",CMS,2020-08-16
+EVT-000878,CLM-00215,POL-905934,2023-01-31,Document Submitted,Phone,Kimberly Thomas,,Pending,True,57.2,Document type: Signed statement received via Phone.,PhoneSystem,2023-01-31
+EVT-000879,CLM-00068,POL-669605,2021-05-11,New Claim,In-Person,Jason Williams,,No Action Needed,True,46.5,Claim received and assigned claim number. Initial triage completed.,EmailGateway,2021-05-11
+EVT-000880,CLM-00782,POL-751332,2022-10-03,New Claim,Mobile App,Donald Rodriguez,,Escalated,True,24.1,Claim received and assigned claim number. Initial triage completed.,EmailGateway,2022-10-03
+EVT-000881,CLM-00919,POL-850981,2021-06-08,Document Submitted,Phone,Cynthia Nguyen,,Follow-up Required,True,8.7,Document type: Signed statement received via Phone.,MobileApp,2021-06-08
+EVT-000882,CLM-00748,POL-237174,2020-02-01,Inspection Scheduled,Web Portal,Margaret Rivera,,No Action Needed,True,44.0,Field inspection scheduled for 2020-02-13. Inspector: Kimberly Thomas.,PhoneSystem,2020-02-01
+EVT-000883,CLM-00058,POL-399105,2023-09-04,Claim Closed,In-Person,Kimberly Martinez,,No Action Needed,True,60.9,Claim closed. Final disposition: Paid in full.,EmailGateway,2023-09-04
+EVT-000884,CLM-00276,POL-378082,2023-06-09,Settlement Accepted,In-Person,Susan Nguyen,,Completed,True,8.7,Claimant accepted settlement offer. Release form sent for signature.,PhoneSystem,2023-06-09
+EVT-000885,CLM-00443,POL-974244,2022-08-09,Settlement Offered,Web Portal,Jason Williams,,Escalated,True,22.0,,PhoneSystem,2022-08-09
+EVT-000886,CLM-00925,POL-522179,2020-02-29,Settlement Offered,Mobile App,Jessica Baker,,Escalated,True,45.1,,MobileApp,2020-02-29
+EVT-000887,CLM-00549,POL-676510,2023-04-12,Settlement Offered,Mobile App,Sharon Anderson,,Follow-up Required,True,36.1,,PhoneSystem,2023-04-12
+EVT-000888,CLM-00149,POL-208618,2020-11-20,Status Update,Email,Joseph Johnson,,Completed,True,22.1,Claim status updated to Open. Adjuster notes recorded.,Portal,2020-11-20
+EVT-000889,CLM-00955,POL-808011,2021-05-10,Document Submitted,Email,Kimberly Thomas,,Escalated,True,35.4,Document type: Proof of ownership received via Email.,Portal,2021-05-10
+EVT-000890,CLM-00736,POL-656116,2023-03-18,Inspection Completed,Email,Kimberly Martinez,,Escalated,False,31.3,On-site inspection completed. Findings: Damage less than reported.,MobileApp,2023-03-18
+EVT-000891,CLM-00027,POL-237235,2021-05-14,Inspection Completed,Phone,Jessica Baker,,Pending,True,63.9,On-site inspection completed. Findings: Damage exceeds initial estimate.,CMS,2021-05-14
+EVT-000892,CLM-00930,POL-269430,2024-07-02,Inspection Completed,Fax,Donald Rodriguez,,Completed,True,60.4,On-site inspection completed. Findings: Damage less than reported.,EmailGateway,2024-07-02
+EVT-000893,CLM-00502,POL-211579,2024-10-31,Appeal Filed,Fax,Susan Nguyen,,No Action Needed,True,68.2,Claimant filed formal appeal against coverage decision. Appeal team assigned.,CMS,2024-10-31
+EVT-000894,CLM-00725,POL-795613,2022-02-10,Status Update,In-Person,Amanda Miller,,Escalated,True,28.9,Claim status updated to Open. Adjuster notes recorded.,PhoneSystem,2022-02-10
+EVT-000895,CLM-00008,POL-688637,2024-02-08,Inspection Completed,Web Portal,Susan Harris,,Follow-up Required,True,71.9,On-site inspection completed. Findings: Pre-existing damage noted.,Portal,2024-02-08
+EVT-000896,CLM-00192,POL-518373,2023-06-01,Claim Closed,Phone,Donald Rodriguez,,Follow-up Required,True,34.0,Claim closed. Final disposition: Duplicate claim.,CMS,2023-06-01
+EVT-000897,CLM-00083,POL-174441,2023-03-24,Settlement Accepted,Email,Sharon Anderson,,No Action Needed,False,37.6,Claimant accepted settlement offer. Release form sent for signature.,MobileApp,2023-03-24
+EVT-000898,CLM-00449,POL-543555,2024-07-30,Appeal Filed,Mobile App,Patricia Scott,,Escalated,True,25.2,Claimant filed formal appeal against coverage decision. Appeal team assigned.,EmailGateway,2024-07-30
+EVT-000899,CLM-00369,POL-813328,2022-07-10,Inspection Scheduled,Email,Sandra Carter,,Completed,True,10.9,Field inspection scheduled for 2022-07-22. Inspector: Kimberly Martinez.,MobileApp,2022-07-10
+EVT-000900,CLM-00808,POL-479580,2020-08-26,Settlement Accepted,Phone,Patricia Scott,,Escalated,True,32.5,Claimant accepted settlement offer. Release form sent for signature.,Portal,2020-08-26
+EVT-000901,CLM-00333,POL-373432,2020-12-06,Appeal Filed,Web Portal,Donald Rodriguez,,Pending,True,3.5,Claimant filed formal appeal against coverage decision. Appeal team assigned.,EmailGateway,2020-12-06
+EVT-000902,CLM-00945,POL-373432,2024-01-24,Inspection Completed,Email,Patricia Scott,,Escalated,True,57.3,On-site inspection completed. Findings: Pre-existing damage noted.,CMS,2024-01-24
+EVT-000903,CLM-00649,POL-153266,2020-12-30,Claim Closed,Phone,Susan Nguyen,,Follow-up Required,True,32.7,Claim closed. Final disposition: Paid in full.,MobileApp,2020-12-30
+EVT-000904,CLM-00597,POL-777568,2020-09-26,Appeal Filed,Email,Jessica Baker,,Completed,True,59.6,Claimant filed formal appeal against coverage decision. Appeal team assigned.,MobileApp,2020-09-26
+EVT-000905,CLM-00885,POL-375504,2024-08-01,Status Update,Fax,Jessica Baker,,Escalated,True,56.2,Claim status updated to Pending Documentation. Adjuster notes recorded.,PhoneSystem,2024-08-01
+EVT-000906,CLM-00715,POL-359947,2020-06-21,Status Update,In-Person,Jessica Baker,,Follow-up Required,True,36.8,Claim status updated to Closed. Adjuster notes recorded.,CMS,2020-06-21
+EVT-000907,CLM-00969,POL-176066,2023-12-01,Payment Issued,Email,Christopher Hall,31174.15,Completed,True,19.6,"Payment of $31,174.15 issued to claimant. Check #127523.",MobileApp,2023-12-01
+EVT-000908,CLM-00379,POL-346629,2021-09-23,Payment Issued,Mobile App,Patricia Garcia,7300.6,Completed,False,52.3,"Payment of $7,300.60 issued to claimant. Check #379679.",PhoneSystem,2021-09-23
+EVT-000909,CLM-00139,POL-351083,2023-04-28,Settlement Offered,Mobile App,Sharon Anderson,,Completed,True,29.3,,EmailGateway,2023-04-28
+EVT-000910,CLM-00707,POL-152578,2023-09-24,Inspection Completed,Fax,Margaret Rivera,,Pending,True,59.8,On-site inspection completed. Findings: Damage exceeds initial estimate.,CMS,2023-09-24
+EVT-000911,CLM-00230,POL-658582,2023-06-23,Status Update,Mobile App,Jessica Baker,,Completed,False,2.9,Claim status updated to Under Review. Adjuster notes recorded.,CMS,2023-06-23
+EVT-000912,CLM-00297,POL-330283,2023-12-27,Settlement Offered,In-Person,Cynthia Nguyen,,Pending,True,52.4,,EmailGateway,2023-12-27
+EVT-000913,CLM-00746,POL-824586,2020-01-08,Document Submitted,Phone,James Carter,,Pending,True,30.7,Document type: Police report received via Phone.,MobileApp,2020-01-08
+EVT-000914,CLM-00324,POL-898975,2022-11-19,Status Update,Phone,James Carter,,No Action Needed,True,5.2,Claim status updated to Closed. Adjuster notes recorded.,EmailGateway,2022-11-19
+EVT-000915,CLM-00394,POL-411120,2024-08-24,New Claim,Mobile App,Margaret Rivera,,Escalated,True,48.1,Claim received and assigned claim number. Initial triage completed.,PhoneSystem,2024-08-24
+EVT-000916,CLM-00350,POL-412942,2020-04-29,Inspection Scheduled,Fax,Cynthia Nguyen,,Pending,False,40.5,Field inspection scheduled for 2020-05-10. Inspector: Kimberly Martinez.,PhoneSystem,2020-04-29
+EVT-000917,CLM-00324,POL-898975,2020-08-06,Document Submitted,Mobile App,Sandra Anderson,,Completed,True,26.9,Document type: Police report received via Mobile App.,PhoneSystem,2020-08-06
+EVT-000918,CLM-00859,POL-579434,2021-07-06,Status Update,Fax,Donald Rodriguez,,Pending,False,68.6,Claim status updated to Closed. Adjuster notes recorded.,CMS,2021-07-06
+EVT-000919,CLM-00567,POL-308573,2022-04-24,Settlement Accepted,Web Portal,Kimberly Martinez,,Escalated,False,53.9,Claimant accepted settlement offer. Release form sent for signature.,MobileApp,2022-04-24
+EVT-000920,CLM-00504,POL-908577,2022-09-19,Status Update,Phone,Jason Williams,,No Action Needed,True,22.1,Claim status updated to Denied. Adjuster notes recorded.,PhoneSystem,2022-09-19
+EVT-000921,CLM-00188,POL-156802,2021-02-25,Inspection Completed,In-Person,Sharon Anderson,,Pending,True,6.4,On-site inspection completed. Findings: Damage consistent with claim.,Portal,2021-02-25
+EVT-000922,CLM-00404,POL-590785,2021-01-07,Settlement Offered,Email,Jessica Baker,,Completed,True,1.2,,MobileApp,2021-01-07
+EVT-000923,CLM-00280,POL-341292,2024-01-29,Settlement Accepted,Mobile App,Christopher Hall,,Completed,True,5.4,Claimant accepted settlement offer. Release form sent for signature.,EmailGateway,2024-01-29
+EVT-000924,CLM-00962,POL-891952,2020-09-14,Settlement Offered,Web Portal,Joseph Johnson,,No Action Needed,True,8.6,,MobileApp,2020-09-14
+EVT-000925,CLM-00808,POL-479580,2021-04-02,Appeal Filed,In-Person,Sandra Carter,,Completed,True,62.3,Claimant filed formal appeal against coverage decision. Appeal team assigned.,Portal,2021-04-02
+EVT-000926,CLM-00237,POL-176066,2023-07-24,Inspection Completed,Email,James Carter,,Pending,True,69.9,On-site inspection completed. Findings: Pre-existing damage noted.,MobileApp,2023-07-24
+EVT-000927,CLM-00316,POL-176819,2022-03-12,New Claim,Mobile App,Jessica Baker,,Escalated,True,23.6,Claim received and assigned claim number. Initial triage completed.,CMS,2022-03-12
+EVT-000928,CLM-00199,POL-479580,2024-06-09,Claim Closed,Mobile App,Jessica Baker,,Completed,True,13.7,Claim closed. Final disposition: Denied.,Portal,2024-06-09
+EVT-000929,CLM-00329,POL-392075,2023-02-13,Inspection Scheduled,Mobile App,Sandra Anderson,,Escalated,False,7.1,Field inspection scheduled for 2023-02-25. Inspector: Amanda Miller.,EmailGateway,2023-02-13
+EVT-000930,CLM-00561,POL-598369,2024-05-22,Inspection Completed,Email,Joseph Johnson,,Follow-up Required,True,53.5,On-site inspection completed. Findings: Further review required.,EmailGateway,2024-05-22
+EVT-000931,CLM-00996,POL-573417,2020-10-29,Settlement Offered,In-Person,Jason Perez,,No Action Needed,True,21.7,,CMS,2020-10-29
+EVT-000932,CLM-00972,POL-216970,2024-10-25,Inspection Scheduled,Mobile App,Jessica Baker,,No Action Needed,True,31.4,Field inspection scheduled for 2024-11-05. Inspector: Jason Perez.,MobileApp,2024-10-25
+EVT-000933,CLM-00998,POL-321231,2022-12-11,Inspection Completed,Mobile App,Kimberly Phillips,,Escalated,True,46.9,On-site inspection completed. Findings: Damage exceeds initial estimate.,CMS,2022-12-11
+EVT-000934,CLM-00114,POL-518373,2024-02-14,Settlement Accepted,Phone,Sandra Carter,,Escalated,True,6.5,Claimant accepted settlement offer. Release form sent for signature.,CMS,2024-02-14
+EVT-000935,CLM-00667,POL-955662,2020-10-07,Status Update,Fax,Sandra Anderson,,Follow-up Required,True,54.2,Claim status updated to Settled. Adjuster notes recorded.,EmailGateway,2020-10-07
+EVT-000936,CLM-00992,POL-956795,2023-03-11,Settlement Accepted,Web Portal,Christopher Hall,,No Action Needed,True,63.9,Claimant accepted settlement offer. Release form sent for signature.,MobileApp,2023-03-11
+EVT-000937,CLM-00659,POL-428838,2020-04-16,Inspection Completed,Email,Kimberly Phillips,,Pending,False,53.0,On-site inspection completed. Findings: Further review required.,CMS,2020-04-16
+EVT-000938,CLM-00914,POL-520521,2021-06-15,Payment Issued,Mobile App,Margaret Rivera,12577.53,Escalated,True,5.8,"Payment of $12,577.53 issued to claimant. Check #499541.",CMS,2021-06-15
+EVT-000939,CLM-00802,POL-171849,2023-04-08,Document Submitted,Mobile App,Joseph Johnson,,Escalated,False,30.2,Document type: Medical records received via Mobile App.,CMS,2023-04-08
+EVT-000940,CLM-00520,POL-857168,2023-09-08,Payment Issued,Fax,Amanda Miller,1400.03,No Action Needed,True,4.7,"Payment of $1,400.03 issued to claimant. Check #392695.",EmailGateway,2023-09-08
+EVT-000941,CLM-00808,POL-479580,2024-07-30,Appeal Filed,In-Person,Susan Nguyen,,Escalated,True,69.7,Claimant filed formal appeal against coverage decision. Appeal team assigned.,Portal,2024-07-30
+EVT-000942,CLM-00253,POL-237235,2021-06-02,Settlement Accepted,In-Person,Kimberly Thomas,,Completed,True,13.2,Claimant accepted settlement offer. Release form sent for signature.,CMS,2021-06-02
+EVT-000943,CLM-00682,POL-351083,2023-06-08,Settlement Offered,Mobile App,Cynthia Nguyen,,Follow-up Required,True,40.9,,Portal,2023-06-08
+EVT-000944,CLM-00703,POL-707314,2023-10-06,Settlement Offered,Web Portal,Susan Nguyen,,Follow-up Required,True,21.1,,Portal,2023-10-06
+EVT-000945,CLM-00653,POL-375504,2024-11-15,Settlement Offered,Phone,James Carter,,Follow-up Required,True,34.6,,Portal,2024-11-15
+EVT-000946,CLM-00963,POL-359947,2023-05-07,Status Update,Mobile App,Sandra Carter,,Follow-up Required,True,17.3,Claim status updated to Awaiting Inspection. Adjuster notes recorded.,EmailGateway,2023-05-07
+EVT-000947,CLM-00401,POL-417212,2022-03-23,Status Update,Mobile App,Jessica Baker,,No Action Needed,True,55.7,Claim status updated to Approved. Adjuster notes recorded.,Portal,2022-03-23
+EVT-000948,CLM-00347,POL-697347,2020-08-28,Document Submitted,Web Portal,Jason Williams,,Escalated,False,45.8,Document type: Repair estimate received via Web Portal.,EmailGateway,2020-08-28
+EVT-000949,CLM-00877,POL-471507,2021-04-09,Claim Closed,In-Person,Cynthia Nguyen,,Escalated,True,3.0,Claim closed. Final disposition: Denied.,EmailGateway,2021-04-09
+EVT-000950,CLM-00003,POL-608993,2023-06-04,Claim Closed,Fax,Jason Perez,,Follow-up Required,True,41.7,Claim closed. Final disposition: Paid in full.,Portal,2023-06-04
+EVT-000951,CLM-00347,POL-697347,2024-04-22,New Claim,Mobile App,Susan Nguyen,,Completed,False,25.6,Claim received and assigned claim number. Initial triage completed.,CMS,2024-04-22
+EVT-000952,CLM-00246,POL-156802,2021-09-06,Settlement Accepted,Mobile App,Joseph Johnson,,Pending,True,4.8,Claimant accepted settlement offer. Release form sent for signature.,Portal,2021-09-06
+EVT-000953,CLM-00266,POL-274389,2020-01-07,Status Update,Mobile App,Susan Harris,,Escalated,True,15.4,Claim status updated to Approved. Adjuster notes recorded.,CMS,2020-01-07
+EVT-000954,CLM-00147,POL-149405,2021-06-16,Appeal Filed,Mobile App,Joseph Johnson,,Escalated,True,32.6,Claimant filed formal appeal against coverage decision. Appeal team assigned.,CMS,2021-06-16
+EVT-000955,CLM-00889,POL-430776,2021-08-06,Status Update,Phone,Kimberly Thomas,,No Action Needed,True,19.4,Claim status updated to Awaiting Inspection. Adjuster notes recorded.,PhoneSystem,2021-08-06
+EVT-000956,CLM-00827,POL-246991,2020-06-11,Payment Issued,Phone,Christopher Hall,2355.03,Follow-up Required,True,36.8,"Payment of $2,355.03 issued to claimant. Check #344324.",Portal,2020-06-11
+EVT-000957,CLM-00226,POL-269430,2024-08-04,Status Update,Mobile App,James Carter,,Follow-up Required,True,47.6,Claim status updated to Closed. Adjuster notes recorded.,PhoneSystem,2024-08-04
+EVT-000958,CLM-00316,POL-176819,2023-02-12,Status Update,Web Portal,Susan Nguyen,,Completed,True,29.5,Claim status updated to Denied. Adjuster notes recorded.,Portal,2023-02-12
+EVT-000959,CLM-00223,POL-629959,2023-10-06,Document Submitted,Web Portal,Susan Nguyen,,No Action Needed,True,39.9,Document type: Repair estimate received via Web Portal.,PhoneSystem,2023-10-06
+EVT-000960,CLM-00755,POL-595948,2020-05-26,Payment Issued,Mobile App,Christopher Hall,2759.83,Follow-up Required,True,40.5,"Payment of $2,759.83 issued to claimant. Check #946575.",MobileApp,2020-05-26
+EVT-000961,CLM-00650,POL-855731,2024-12-04,Inspection Scheduled,Phone,Susan Harris,,Pending,False,43.1,Field inspection scheduled for 2024-12-13. Inspector: Jason Perez.,MobileApp,2024-12-04
+EVT-000962,CLM-00309,POL-997546,2024-02-20,Claim Closed,In-Person,Kimberly Thomas,,Pending,True,12.2,Claim closed. Final disposition: Partially paid.,CMS,2024-02-20
+EVT-000963,CLM-00310,POL-595948,2023-01-11,Status Update,Phone,Amanda Miller,,Pending,True,5.7,Claim status updated to Denied. Adjuster notes recorded.,MobileApp,2023-01-11
+EVT-000964,CLM-00441,POL-551989,2021-02-11,Inspection Scheduled,In-Person,Patricia Garcia,,No Action Needed,True,3.7,Field inspection scheduled for 2021-02-19. Inspector: Susan Nguyen.,PhoneSystem,2021-02-11
+EVT-000965,CLM-00102,POL-237235,2022-08-09,Appeal Filed,Email,Joseph Johnson,,Completed,False,20.1,Claimant filed formal appeal against coverage decision. Appeal team assigned.,CMS,2022-08-09
+EVT-000966,CLM-00757,POL-814825,2021-07-01,New Claim,Email,Jessica Baker,,Follow-up Required,True,31.7,Claim received and assigned claim number. Initial triage completed.,CMS,2021-07-01
+EVT-000967,CLM-00284,POL-238890,2021-05-15,Settlement Accepted,In-Person,Susan Harris,,Follow-up Required,True,12.6,Claimant accepted settlement offer. Release form sent for signature.,EmailGateway,2021-05-15
+EVT-000968,CLM-00151,POL-398830,2024-07-22,Inspection Scheduled,Web Portal,James Carter,,Escalated,True,24.8,Field inspection scheduled for 2024-07-30. Inspector: Joseph Johnson.,CMS,2024-07-22
+EVT-000969,CLM-00620,POL-899550,2023-06-08,Inspection Completed,Mobile App,Patricia Scott,,Pending,True,24.7,On-site inspection completed. Findings: Damage consistent with claim.,Portal,2023-06-08
+EVT-000970,CLM-00616,POL-658582,2021-03-31,Status Update,Web Portal,Jason Williams,,Pending,True,50.8,Claim status updated to Awaiting Inspection. Adjuster notes recorded.,EmailGateway,2021-03-31
+EVT-000971,CLM-00249,POL-185965,2021-07-21,Settlement Offered,Email,Susan Harris,,Pending,True,30.6,,Portal,2021-07-21
+EVT-000972,CLM-00455,POL-160738,2023-10-12,Settlement Offered,Fax,Joseph Johnson,,Pending,False,21.0,,CMS,2023-10-12
+EVT-000973,CLM-00013,POL-987204,2024-12-17,Document Submitted,Fax,Patricia Scott,,No Action Needed,False,30.7,Document type: Proof of ownership received via Fax.,CMS,2024-12-17
+EVT-000974,CLM-00504,POL-908577,2020-10-25,Settlement Offered,Fax,Jessica Baker,,Pending,True,46.0,,PhoneSystem,2020-10-25
+EVT-000975,CLM-00754,POL-398830,2021-11-11,Appeal Filed,Web Portal,Joseph Johnson,,Completed,True,44.6,Claimant filed formal appeal against coverage decision. Appeal team assigned.,Portal,2021-11-11
+EVT-000976,CLM-00951,POL-585100,2023-02-21,Document Submitted,Web Portal,Kimberly Martinez,,Pending,True,14.9,Document type: Police report received via Web Portal.,PhoneSystem,2023-02-21
+EVT-000977,CLM-00987,POL-103402,2021-09-07,Inspection Completed,Mobile App,James Carter,,Follow-up Required,True,39.8,On-site inspection completed. Findings: Damage consistent with claim.,PhoneSystem,2021-09-07
+EVT-000978,CLM-00792,POL-431737,2023-06-07,Inspection Scheduled,Phone,Donald Rodriguez,,Escalated,False,7.2,Field inspection scheduled for 2023-06-14. Inspector: Margaret Rivera.,MobileApp,2023-06-07
+EVT-000979,CLM-00156,POL-226882,2023-11-23,Payment Issued,Phone,Sandra Carter,681.67,Escalated,True,24.2,Payment of $681.67 issued to claimant. Check #627845.,CMS,2023-11-23
+EVT-000980,CLM-00487,POL-776856,2021-09-27,Document Submitted,In-Person,Amanda Miller,,Escalated,True,2.7,Document type: Police report received via In-Person.,CMS,2021-09-27
+EVT-000981,CLM-00011,POL-346629,2020-05-12,New Claim,Web Portal,Kimberly Thomas,,Pending,False,59.9,Claim received and assigned claim number. Initial triage completed.,MobileApp,2020-05-12
+EVT-000982,CLM-00386,POL-632323,2021-09-14,Inspection Scheduled,Email,Kimberly Martinez,,Follow-up Required,True,50.2,Field inspection scheduled for 2021-09-18. Inspector: Kimberly Phillips.,EmailGateway,2021-09-14
+EVT-000983,CLM-00578,POL-922733,2022-09-23,Claim Closed,Mobile App,James Carter,,Pending,True,34.4,Claim closed. Final disposition: Duplicate claim.,Portal,2022-09-23
+EVT-000984,CLM-00825,POL-439902,2024-12-29,Payment Issued,Fax,Amanda Miller,4292.88,Escalated,True,22.9,"Payment of $4,292.88 issued to claimant. Check #804674.",PhoneSystem,2024-12-29
+EVT-000985,CLM-00543,POL-761759,2020-09-01,New Claim,Phone,Cynthia Nguyen,,Completed,True,19.2,Claim received and assigned claim number. Initial triage completed.,PhoneSystem,2020-09-01
+EVT-000986,CLM-00503,POL-260265,2021-04-26,Settlement Offered,Fax,Kimberly Thomas,,Pending,True,58.3,,Portal,2021-04-26
+EVT-000987,CLM-00173,POL-590785,2024-10-16,Settlement Accepted,Mobile App,Jason Perez,,Follow-up Required,True,57.5,Claimant accepted settlement offer. Release form sent for signature.,Portal,2024-10-16
+EVT-000988,CLM-00383,POL-328275,2023-09-24,New Claim,In-Person,Jason Williams,,Pending,True,13.7,Claim received and assigned claim number. Initial triage completed.,Portal,2023-09-24
+EVT-000989,CLM-00412,POL-522179,2024-12-15,New Claim,Phone,Kimberly Martinez,,Follow-up Required,True,12.4,Claim received and assigned claim number. Initial triage completed.,MobileApp,2024-12-15
+EVT-000990,CLM-00589,POL-806073,2024-08-17,Status Update,Email,Susan Harris,,Completed,False,6.1,Claim status updated to Denied. Adjuster notes recorded.,MobileApp,2024-08-17
+EVT-000991,CLM-00278,POL-790993,2024-04-25,Inspection Completed,Mobile App,Patricia Garcia,,Completed,True,51.1,On-site inspection completed. Findings: Pre-existing damage noted.,Portal,2024-04-25
+EVT-000992,CLM-00678,POL-378082,2024-03-05,Claim Closed,Web Portal,Kimberly Phillips,,No Action Needed,True,15.2,Claim closed. Final disposition: Denied.,MobileApp,2024-03-05
+EVT-000993,CLM-00744,POL-769987,2024-01-23,New Claim,In-Person,Kimberly Martinez,,Pending,True,35.2,Claim received and assigned claim number. Initial triage completed.,CMS,2024-01-23
+EVT-000994,CLM-00932,POL-103402,2024-07-01,Payment Issued,Phone,Donald Rodriguez,21877.3,Follow-up Required,True,69.1,"Payment of $21,877.30 issued to claimant. Check #872860.",PhoneSystem,2024-07-01
+EVT-000995,CLM-00890,POL-598369,2023-07-19,Settlement Offered,Fax,Kimberly Thomas,,Pending,True,37.1,,PhoneSystem,2023-07-19
+EVT-000996,CLM-00947,POL-772097,2021-11-28,Claim Closed,In-Person,Donald Rodriguez,,No Action Needed,False,54.8,Claim closed. Final disposition: Denied.,Portal,2021-11-28
+EVT-000997,CLM-00524,POL-599948,2022-04-16,Status Update,In-Person,Sandra Anderson,,Completed,True,10.8,Claim status updated to Awaiting Inspection. Adjuster notes recorded.,PhoneSystem,2022-04-16
+EVT-000998,CLM-00228,POL-946305,2022-01-27,Inspection Completed,Web Portal,Christopher Hall,,Pending,True,55.5,On-site inspection completed. Findings: Damage exceeds initial estimate.,PhoneSystem,2022-01-27
+EVT-000999,CLM-00836,POL-220116,2022-04-27,New Claim,Phone,Jason Williams,,Pending,True,41.1,Claim received and assigned claim number. Initial triage completed.,Portal,2022-04-27
+EVT-001000,CLM-00633,POL-217308,2024-07-28,Appeal Filed,Mobile App,Jessica Baker,,Completed,True,45.6,Claimant filed formal appeal against coverage decision. Appeal team assigned.,CMS,2024-07-28

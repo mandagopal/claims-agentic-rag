@@ -1,0 +1,102 @@
+================================================================================
+              GUARDIAN HOME & PROPERTY INSURANCE
+              RESIDENTIAL PROPERTY CLAIM FORM
+              CLAIM #: CLM-00471  |  POLICY #: POL-771203
+================================================================================
+
+SECTION A - INSURED INFORMATION
+--------------------------------
+Policyholder Name  : Catherine R. Okafor
+Co-Insured Name    : Emmanuel K. Okafor
+Property Address   : 5512 Birchwood Court, Atlanta, GA 30327
+Mailing Address    : Same as property address
+Primary Phone      : (404) 882-1194
+Alternate Phone    : (404) 229-5500
+Email              : cate.okafor@gmail.com
+Policy Type        : Homeowners - HO-3 Special Form
+Coverage Level     : Premium
+Policy Effective   : 03/01/2021
+Policy Expiration  : 03/01/2024
+
+SECTION B - LOSS INFORMATION
+------------------------------
+Date of Loss       : 01/09/2024
+Date Discovered    : 01/09/2024  (approximately 6:30 AM)
+Date Reported      : 01/09/2024  (reported same day at 9:15 AM via web portal)
+Cause of Loss      : Burst Pipe - Frozen / Pressure Failure
+Location in Home   : Second floor hall bathroom - supply line behind toilet
+Area(s) Affected   :
+  - 2nd floor bathroom (approx. 80 sq ft)
+  - 2nd floor hallway (approx. 120 sq ft)
+  - 1st floor dining room ceiling directly below (approx. 200 sq ft)
+  - 1st floor dining room walls (2 walls affected)
+
+Loss Description (in insured's own words):
+"We woke up early on January 9th to a loud noise coming from upstairs. When I went
+to check, water was gushing from the bathroom area. The toilet supply line had burst
+apparently due to the extreme cold overnight (temperatures dropped to 14°F). Water had
+flooded through the bathroom floor into the hallway and was actively leaking through
+the dining room ceiling below. We immediately shut off the main water valve and called
+a plumber. We also called ServiPro for emergency water extraction. The dining room
+ceiling has partially collapsed and there is visible mold growth already starting near
+the baseboards in the hallway."
+
+SECTION C - PROPERTY DAMAGE ASSESSMENT
+----------------------------------------
+Emergency Mitigation Performed : YES
+Mitigation Company             : ServiPro Restoration Atlanta North
+Mitigation Start Date          : 01/09/2024
+Mitigation Invoice (Est.)      : $3,200.00
+
+Category                       Affected Area     Est. Damage
+-----------------------------------------------------------
+Plumbing repair (burst pipe)   Bathroom          $   850.00
+Bathroom floor (tile/subfloor) 80 sq ft          $ 2,400.00
+Hallway flooring (hardwood)    120 sq ft         $ 4,800.00
+Dining room ceiling drywall    200 sq ft         $ 1,800.00
+Dining room walls (drywall)    2 walls           $ 2,200.00
+Paint - affected areas         All               $ 1,400.00
+Mold remediation (preventive)  Hallway/Bath      $ 2,800.00
+Personal property (rug, decor) Dining room       $ 1,500.00
+-----------------------------------------------------------
+TOTAL ESTIMATED LOSS           :                 $21,950.00
+Less Policy Deductible         :                 ($ 1,000.00)
+NET CLAIM AMOUNT (Est.)        :                 $20,950.00
+
+SECTION D - POLICY COVERAGE VERIFICATION
+------------------------------------------
+Dwelling Coverage (Coverage A)  : $420,000   ✓ APPLIES
+Other Structures (Coverage B)   : $42,000    ✗ N/A
+Personal Property (Coverage C)  : $105,000   ✓ APPLIES (personal items)
+Loss of Use (Coverage D)        : $63,000    ✓ PENDING (if home uninhabitable)
+Mold Coverage Endorsement       : $15,000    ✓ APPLIES
+
+SECTION E - ADDITIONAL LIVING EXPENSE
+---------------------------------------
+Home Habitable During Repair    : YES (partially)
+Additional Living Expense Claim : NO (at this time, may reassess)
+
+SECTION F - DOCUMENTS SUBMITTED
+---------------------------------
+[X] Signed claim form
+[X] ServiPro emergency mitigation invoice
+[X] Photos (38 photos via mobile upload)
+[X] Plumber invoice - repair of burst line $850
+[ ] Contractor repair estimates x3 - PENDING (scheduled for 01/12/2024)
+[ ] Mold assessment report - PENDING
+
+SECTION G - ASSIGNED ADJUSTER
+-------------------------------
+Adjuster            : Michael T. Brennan
+Direct Line         : (800) 555-0200 ext. 3312
+Assignment Date     : 01/09/2024
+Field Inspection    : 01/11/2024 at 10:00 AM (confirmed with insured)
+
+CLAIM STATUS        : PENDING DOCUMENTATION
+
+================================================================================
+I certify that the information provided is true and accurate to the best of my
+knowledge.
+
+Insured Signature: _______________________    Date: 01/09/2024
+================================================================================

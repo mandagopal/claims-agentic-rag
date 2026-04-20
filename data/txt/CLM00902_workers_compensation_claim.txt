@@ -1,0 +1,117 @@
+================================================================================
+         ALLIED WORKERS COMPENSATION INSURANCE
+         FIRST REPORT OF INJURY / OCCUPATIONAL DISEASE
+         FORM WC-101  |  STATE: PENNSYLVANIA
+================================================================================
+
+EMPLOYER INFORMATION
+---------------------
+Employer Name           : Keystone Distribution Partners, Inc.
+FEIN                    : 23-4418891
+Policy Number           : POL-WC-558812
+Industry / SIC Code     : 4213 - Trucking, Except Local
+Employer Address        : 500 Industrial Blvd, Philadelphia, PA 19134
+Contact Person          : Denise Harlow, HR Manager
+Contact Phone           : (215) 883-4400 ext. 221
+Contact Email           : dharlow@keystonedist.com
+Employer is: [X] Insured   [ ] Self-insured
+Annual Payroll           : $4,200,000
+
+EMPLOYEE INFORMATION
+---------------------
+Employee Name           : Marcus A. Thompson
+Job Title               : Warehouse Associate / Forklift Operator
+Hire Date               : 06/12/2019
+Date of Birth           : 02/17/1988
+Social Security (last 4): xxxx-xx-9912
+Address                 : 3821 Kensington Ave, Philadelphia, PA 19124
+Phone                   : (267) 553-8841
+Employment Type         : Full-time
+Shift                   : Day (6:00 AM - 2:30 PM)
+Average Weekly Wage     : $1,148.00
+
+INJURY INFORMATION
+-------------------
+Date of Injury          : 09/07/2023
+Time of Injury          : 09:22 AM
+Date Reported to Employer: 09/07/2023 (same day, reported to supervisor)
+Date of First Treatment : 09/07/2023
+
+Injury Location         : Warehouse Floor B, Bay 14 - Receiving Dock
+Injury Type             : Acute traumatic injury
+Part(s) of Body Injured : Left shoulder (primary), left upper arm
+
+Description of Accident (employee statement):
+"I was operating Forklift Unit #7 in Bay 14, placing a pallet of boxed materials
+onto a third-tier shelf. The pallet was unevenly loaded by the vendor. As I elevated
+the forks, the load shifted suddenly to the left. I instinctively reached out with
+my left arm to try to stabilize the load, and felt an immediate sharp pain in my
+left shoulder. I stopped the forklift, lowered the forks, and reported to my
+supervisor Marcus W. Scott immediately. I was unable to raise my arm above shoulder
+height and was taken by company vehicle to the occupational health clinic."
+
+Supervisor Confirmation : [X] YES - Marcus W. Scott confirms report
+Witnesses               : Tyrone L. Banks (co-worker), Bay 14
+Safety Incident Report #: KDP-SAFETY-2023-0219
+
+MEDICAL INFORMATION
+--------------------
+Initial Treatment Facility : Philadelphia WorkCare Center
+                             4100 Frankford Ave, Philadelphia, PA 19124
+Treating Physician         : Dr. Samuel Osei, DO (Occupational Medicine)
+Initial Diagnosis          : Left shoulder - suspected rotator cuff tear
+                             Left upper arm contusion
+Diagnostic Tests Ordered   : X-Ray (performed 09/07) - No fracture identified
+                             MRI Left Shoulder - scheduled 09/14/2023
+Work Status at Initial Visit: Modified duty - no overhead lifting, max 10 lb
+Return to Full Duty        : TBD pending MRI results
+
+MRI Results (09/14/2023):
+"Full-thickness tear of the supraspinatus tendon, left rotator cuff. Partial tear
+of the infraspinatus tendon. Moderate glenohumeral joint effusion. Findings
+consistent with acute traumatic mechanism."
+
+Orthopedic Referral        : Dr. Janet Wu, MD - Jefferson Orthopedics
+Surgical Recommendation    : Arthroscopic rotator cuff repair - recommended
+Surgery Date               : 10/02/2023
+Post-surgical Therapy      : 12-16 weeks of physical therapy anticipated
+Est. Return to Full Duty   : January 2024 (4-5 months from surgery)
+
+DISABILITY / WAGE INFORMATION
+-------------------------------
+Lost Time                   : YES
+First Day Lost              : 09/08/2023
+Employee on Modified Duty   : 09/07/2023 - 10/01/2023 (pre-surgery)
+Temporary Total Disability  : Beginning 10/02/2023 (post-surgery)
+Weekly Comp Rate (PA)       : $765.33  (66.67% of AWW, PA statutory rate)
+State Waiting Period        : 7 days (employer pays days 1-7)
+Waiting Period Amounts      : $1,148.00 (employer pays days 1-7 per PA statute)
+
+RESERVE ESTIMATES
+------------------
+Medical (surgery + PT + follow-up)  : $42,000.00
+Indemnity (est. 18 weeks TTD)       : $13,776.00
+Vocational rehab (contingency)      : $ 5,000.00
+TOTAL RESERVE                       : $60,776.00
+
+OSHA RECORDABLE                     : YES - Days Away from Work (DAFW)
+OSHA 300 Log Entry #                : KDP-2023-OSHA-019
+
+ROOT CAUSE / PREVENTION
+-----------------------
+Root Cause Identified       : Improperly loaded vendor pallet; insufficient load
+                              restraint per company SOP WH-14
+Corrective Actions          :
+  1. Mandatory refresher training for all forklift operators on load inspection
+     procedures - completed 09/10/2023
+  2. New SOP issued requiring pallet inspection checklist before elevation
+  3. Incident reviewed at 09/12/2023 safety committee meeting
+
+CLAIM STATUS        : OPEN - ACTIVE INDEMNITY / MEDICAL
+
+================================================================================
+Completed by: Denise Harlow (HR Manager)     Date: 09/07/2023
+Employer Signature: ___________________       Date: 09/07/2023
+Received by Insurer: Allied WC Claims Intake  Date: 09/08/2023
+Assigned Adjuster: Patricia L. Oduya | (800) 555-0400 | Claim# CLM-00902
+================================================================================

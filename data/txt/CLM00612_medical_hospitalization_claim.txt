@@ -1,0 +1,96 @@
+================================================================================
+         BLUE HORIZON HEALTH INSURANCE
+         MEDICAL CLAIM REIMBURSEMENT FORM
+         FORM MED-7B (Rev. 2023)
+================================================================================
+
+PLAN & MEMBER INFORMATION
+---------------------------
+Member Name          : Thomas J. Harrington
+Member ID            : BH-TJH-9928341
+Group Number         : GRP-CORP-44512
+Employer / Group     : Harrington Consulting LLC
+Plan Type            : PPO - Standard Plus
+Date of Birth        : 09/11/1965
+Relationship         : Self / Primary Subscriber
+Address              : 248 Lakeview Terrace, Chicago, IL 60614
+Phone                : (312) 774-6610
+Email                : t.harrington@hconsulting.com
+
+CLAIM INFORMATION
+-----------------
+Claim Number         : CLM-00612
+Date of Service      : 11/03/2023  through  11/05/2023
+Date Claim Filed     : 11/20/2023
+Reason for Claim     : Emergency Hospitalization - Acute Myocardial Infarction
+
+PROVIDER INFORMATION
+--------------------
+Facility Name        : Northwestern Memorial Hospital
+Facility Address     : 251 E Huron St, Chicago, IL 60611
+NPI Number           : 1234567890
+Attending Physician  : Dr. Patricia Huang, MD (Cardiology)
+Physician NPI        : 9876543210
+Admitting Diagnosis  : Chest pain, shortness of breath
+Primary Diagnosis    : I21.9 - Acute myocardial infarction, unspecified
+Secondary Diagnoses  : I10 - Essential hypertension
+                       E11.9 - Type 2 diabetes mellitus without complications
+                       Z87.891 - Personal history of nicotine dependence
+
+SERVICES RENDERED (per itemized bill)
+--------------------------------------
+Date        Procedure Code    Description                      Billed Amount
+--------------------------------------------------------------------------
+11/03/2023  99285             ED Evaluation & Management Lvl5  $   2,250.00
+11/03/2023  93010             EKG - 12 Lead w/ Interpretation  $     420.00
+11/03/2023  93307             Echocardiogram (complete)        $   1,850.00
+11/03/2023  92941             Percutaneous coronary interv.    $  18,400.00
+11/03/2023  C9600             Drug-eluting stent placement     $  12,000.00
+11/03/2023  99232             Subsequent hospital care (x3)    $   1,440.00
+11/04/2023  99232             Subsequent hospital care         $     480.00
+11/04/2023  93306             Cardiac catheterization          $   4,200.00
+11/04/2023  99291             Critical care 30-74 min          $     890.00
+11/05/2023  99238             Hospital discharge management    $     380.00
+            99050             After-hours service supplement   $     150.00
+            Pharmacy (inpat.) Heparin, Aspirin, Metoprolol,
+                              Clopidogrel, Lisinopril          $   1,240.00
+            ICU Room & Board  3 days @ $4,200/day              $  12,600.00
+            Nursing services  Per diem charges                 $   4,800.00
+            Lab / Pathology   Troponin, CBC, BMP, Lipids       $   1,180.00
+            Radiology         Chest X-Ray (2)                  $     680.00
+            Medical supplies  Catheters, disposables           $   2,420.00
+--------------------------------------------------------------------------
+TOTAL BILLED BY PROVIDER                                       $  65,380.00
+
+INSURANCE PROCESSING SUMMARY
+-----------------------------
+Total Billed                   : $65,380.00
+Provider Network Adjustment    : ($18,204.00)  (in-network contracted rate)
+Amount Subject to Deductible   : $ 2,000.00    (annual deductible applied)
+Deductible Applied             : ($ 2,000.00)  (YTD deductible met at $0 prior)
+Co-insurance (Member 20%)      : $ 9,035.20    (on $45,176 after ded.)
+Co-insurance (Plan 80%)        : $36,140.80
+Out-of-Pocket Maximum (Check)  : Member OOP YTD: $2,000 → Applied $5,000 max
+                                  Member owes max $5,000 OOP for year
+PLAN PAYS                      : $42,175.80
+MEMBER RESPONSIBILITY          : $ 5,000.00   (OOP maximum reached)
+
+NOTE: Claim is within network. Pre-authorization not required for emergency
+admissions per plan terms (Section 4.2.1 of Member Handbook).
+
+APPEALS INFORMATION
+--------------------
+If you disagree with this determination, you have 180 days from the date of
+this notice to file an appeal. Contact Member Services at 1-800-555-BLUE or
+submit via the member portal at www.bluehorizonhealth.com/appeals.
+
+EOB Date                       : 12/01/2023
+Check / EFT Issued             : EFT to Northwestern Memorial Hospital
+Payment Date                   : 12/05/2023
+Reference Number               : BH-EOB-2023-00612
+
+CLAIM STATUS        : SETTLED - PAID
+
+================================================================================
+FOR PLAN USE ONLY: Reviewed by: A. Martinez, Claims Processor | 12/01/2023
+================================================================================

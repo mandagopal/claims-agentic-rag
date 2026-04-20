@@ -1,0 +1,115 @@
+================================================================================
+                     NATIONAL INSURANCE GROUP
+                     AUTO CLAIM REPORT FORM
+                     FORM NO: AUT-2023-0042 (Rev. 09/2022)
+================================================================================
+
+CLAIM INFORMATION
+-----------------
+Claim Number     : CLM-00234
+Date of Loss     : 08/14/2023
+Time of Loss     : 02:35 PM
+Report Date      : 08/15/2023
+Policy Number    : POL-482910
+Claim Type       : Auto Collision - Property Damage & Bodily Injury
+
+POLICYHOLDER INFORMATION
+------------------------
+Name             : Robert H. Simmons
+Date of Birth    : 04/22/1978
+Address          : 1847 Oakwood Drive, Houston, TX 77042
+Phone (Home)     : (713) 554-8821
+Phone (Cell)     : (713) 221-4490
+Email            : rsimmons78@email.com
+Driver License # : TX-DL-44892001
+Vehicle Year     : 2020
+Vehicle Make     : Toyota
+Vehicle Model    : Camry SE
+VIN              : 4T1B11HK5LU123456
+License Plate    : TX - XYZ4892
+
+ACCIDENT DESCRIPTION
+--------------------
+Location         : Intersection of Westheimer Rd & Gessner Dr, Houston, TX 77063
+Weather Condition: Clear / Sunny
+Road Condition   : Dry
+Speed (Est.)     : 35 mph
+
+Narrative (as provided by insured):
+I was traveling westbound on Westheimer Road approaching the intersection at Gessner
+Drive. The traffic signal turned yellow as I approached. I began to slow my vehicle.
+A silver Honda Civic (other party) was traveling eastbound and attempted a left turn
+across my lane. I applied brakes but was unable to stop in time. The front-right of
+my vehicle struck the passenger-side door of the other vehicle. Both vehicles came
+to rest in the intersection. Airbags deployed on my vehicle. I sustained minor neck
+pain. The other driver appeared uninjured but was shaken. Houston Police Department
+was called. Police Report # HPD-2023-81944 was filed at the scene.
+
+OTHER PARTY INFORMATION
+-----------------------
+Name             : Maria L. Gonzalez
+Address          : 3305 Fondren Rd, Houston, TX 77063
+Phone            : (832) 778-3310
+Insurance Co.    : Progressive Insurance
+Policy Number    : PROG-44921-TX
+Vehicle Year     : 2019
+Vehicle Make     : Honda
+Vehicle Model    : Civic EX
+VIN              : 2HGFC2F59KH554321
+License Plate    : TX - ABC1234
+
+INJURIES REPORTED
+-----------------
+Policyholder     : Neck strain / whiplash - seeking medical evaluation
+Other Party      : None reported at scene
+
+WITNESSES
+---------
+1. James T. Porter  - (713) 441-2200 - Pedestrian at scene
+2. Unknown female - white SUV - drove away before police arrived
+
+VEHICLE DAMAGE ESTIMATE
+-----------------------
+Inspection Location  : AutoCheck Collision Center, 4400 S Loop W, Houston TX
+Inspector Name       : Derek Nguyen (License #TX-BI-20211)
+Inspection Date      : 08/17/2023
+Estimated Repair Cost: $8,420.00
+Rental Car Required  : Yes - 12 estimated days @ $45/day = $540.00
+Total Vehicle Claim  : $8,960.00
+Deductible Applicable: $500.00
+Net Payable (Vehicle): $8,460.00
+
+MEDICAL CLAIM
+-------------
+Treating Physician   : Dr. Anita Patel, MD
+Facility             : Kelsey-Seybold Clinic, Houston, TX
+Initial Visit Date   : 08/16/2023
+Diagnosis (ICD-10)   : S13.4XXA - Sprain of ligaments of cervical spine, initial
+Anticipated Treatment: Physical therapy - 8-12 sessions
+Medical Bills (Est.) : $2,800.00
+
+TOTAL CLAIM RESERVE  : $11,760.00
+
+ASSIGNED ADJUSTER
+-----------------
+Adjuster Name        : Sandra K. Williams
+License #            : TX-ADJ-88124
+Phone                : (800) 555-0100 ext. 4421
+Email                : s.williams@nationalinsgrp.com
+Assignment Date      : 08/15/2023
+
+CHECKLIST / DOCUMENTS RECEIVED
+--------------------------------
+[X] Completed claim form signed by insured
+[X] Police report # HPD-2023-81944
+[X] Photos of vehicle damage (22 photos attached)
+[ ] Medical records - PENDING
+[X] Repair estimate from AutoCheck Collision
+[ ] Signed medical release - PENDING
+[ ] Recorded statement from other party - PENDING
+
+STATUS               : UNDER REVIEW
+
+================================================================================
+Adjuster Signature: _______________________    Date: 08/15/2023
+================================================================================
