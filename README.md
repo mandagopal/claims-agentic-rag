@@ -105,9 +105,3 @@ Once the Streamlit interface is running, try asking complex queries that test bo
 • GraphRAG: Implementing Knowledge Graphs (Neo4j) to map multi-hop relationships (e.g., linking frequent claimants to specific medical providers to detect fraud rings).
 • Enterprise Security: Adding Metadata Filtering for Role-Based Access Control (RBAC) and NeMo Guardrails for PII redaction.
 
-Once you have saved the updated text in VS Code, run these three commands to push it directly to your repository:
-
-```bash
-git add README.md
-git commit -m "docs: updated README with offline evaluation instructions"
-git push
