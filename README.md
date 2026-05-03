@@ -72,37 +72,55 @@ claims-agentic-rag/
 🚀 Installation & Setup
 1. Clone the Repository
 git clone [https://github.com/mandagopal/claims-agentic-rag.git](https://github.com/mandagopal/claims-agentic-rag.git)
+```text
 cd claims-agentic-rag
-
+```
 2. Create and Activate Virtual Environment
+```text
 python3 -m venv venv
 source venv/bin/activate  # On Windows use: venv\Scripts\activate
-
+```
 3. Install Dependencies
+```text
 pip install -r requirements.txt
-
+```
 4. Set Environment Variables
 You will need a free API key from Groq.
+```text
 export GROQ_API_KEY="your_groq_api_key_here"
-
+```
 5. Build the Databases
 Ensure Ollama is running locally with the nomic-embed-text model (ollama pull nomic-embed-text).
+```text
 python3 ingest_csv_into_sqlite.py  # Builds the structured DB
 python3 ingest_vector.py           # Builds the ChromaDB vector store
+```
 
 6. Launch the Application
+```text
 streamlit run app.py
+```
 
 🧪 Running the Evaluation Pipeline
+
 To test the system's accuracy against the Golden Dataset, run the headless evaluation script. This will generate a local evaluation_report.csv containing scores (1 to 5) and feedback for each query.
+```text
 python3 evaluate_rag.py
+```
 
 💡 Usage Examples
+
 Once the Streamlit interface is running, try asking complex queries that test both databases:
+
 • "What is the total paid amount of all claims?" (Triggers Text-to-SQL)
+
 • "What is the INSURED'S PRELIMINARY RESPONSE provided by Derek Greenfield for the CLAIM #: CLM-00788?" (Triggers Hybrid Vector + BM25 Search)
+
 🔮 Future Enhancements (Roadmap)
+
 • Intent Classification Routing: Decoupling the routing logic from the 70B synthesis model to a lighter, faster 8B model to optimize token usage and cost.
+
 • GraphRAG: Implementing Knowledge Graphs (Neo4j) to map multi-hop relationships (e.g., linking frequent claimants to specific medical providers to detect fraud rings).
+
 • Enterprise Security: Adding Metadata Filtering for Role-Based Access Control (RBAC) and NeMo Guardrails for PII redaction.
 
