@@ -67,6 +67,7 @@ claims-agentic-rag/
 ├── requirements.txt             # Python dependencies
 ├── .gitignore                   # Ignored files (venv, DBs, generated reports)
 └── README.md                    # Project documentation
+```
 
 🚀 Installation & Setup
 1. Clone the Repository
