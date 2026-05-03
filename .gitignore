@@ -11,3 +11,5 @@ __pycache__/
 
 # OS generated files
 .DS_Store
+# Evaluation Reports
+evaluation_report.csv
